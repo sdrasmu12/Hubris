@@ -1,6 +1,30 @@
 
 ### Factories #####################################################################################
 
+plantation_template = {
+	efficiency = {
+		fertilizer = 0.5
+	}
+	
+	owner = {
+		poptype = aristocrats
+		effect = input
+		effect_multiplier = -2.5
+	}
+	
+	employees = {			
+		{ 
+			poptype = slaves
+			effect = throughput
+			amount = 1
+		}
+	
+	}
+	type = factory
+	workforce = 40000 
+}
+
+
 factory_template = {
 	efficiency = {
 		cement = 0.5 #if no cement, work at 75% efficiency #cost = 8
@@ -117,6 +141,23 @@ cement_template = {
 	}
 	type = factory
 	workforce = 10000 
+}
+
+
+#### Plantations ##########
+
+cotton_plantation = {       
+	template = plantation_template
+	input_goods = {
+		lumber = 1
+		fertilizer = 1
+	}
+	output_goods = cotton
+	value = 0.03			
+	bonus = {
+		trigger = { trade_goods_in_state = cotton }
+		value = 99
+	}
 }
 
 
@@ -703,13 +744,6 @@ RGO_template_farmers = {
 			poptype = serfs 
 			effect = throughput
 			amount = 1
-		}
-		
-		{
-			poptype = slaves 
-			effect = throughput
-			amount = 1
-			effect_multiplier = 1.3
 		}
 	}
 	

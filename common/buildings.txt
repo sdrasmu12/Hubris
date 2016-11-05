@@ -9,9 +9,28 @@
 # time = x #==> number of days to build.
 #
 
+##### Plantations #####
+
+cotton_plantation = {
+	type = factory
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost = {
+		lumber = 50
+	}
+	time = 30
+	visibility = yes
+	onmap = no
+
+	production_type = cotton_plantation
+	pop_build_factory = yes
+}
+
+
+
 
 ############# LATE GAME FACTORIES
-
 aeroplane_factory = {
 	type = factory
 	on_completion = factory

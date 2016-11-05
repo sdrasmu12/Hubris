@@ -1,0 +1,15 @@
+activate_cotton_plantation = {
+	limit = {
+		construction_1 = 1
+	}
+	chance = {
+		base = 0
+		modifier = {
+			factor = 50
+			slavery = yes_slavery
+		}
+	}
+	effect = {
+		activate_building = cotton_plantation
+	}
+}
