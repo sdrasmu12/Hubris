@@ -1,0 +1,7 @@
+
+
+
+trade_goods = timber
+terrain = boreal
+life_rating = 10
+colonial = 2

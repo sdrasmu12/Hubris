@@ -1,0 +1,453 @@
+activate_cement_factory = {
+	limit = {
+		construction_1 = 1
+	}
+	chance = {
+		base = 1
+	}
+	effect = {
+		activate_building = cement_factory 
+	}
+}
+
+activate_lumber_mill = {
+	limit = {
+		construction_1 = 1
+	}
+	chance = {
+		base = 1
+	}
+	effect = {
+		activate_building = lumber_mill
+	}
+}
+
+activate_luxury_clothes_factory = {
+	limit = {
+		clothing_6 = 1
+	}
+	chance = {
+		base = 1
+	}
+	effect = {
+		activate_building = luxury_clothes_factory
+	}
+}
+
+activate_canned_food_factory = {
+	limit = {
+		military_4 = 1
+	}
+	chance = {
+		base = 1
+	}
+	effect = {
+		activate_building = canned_food_factory 
+	}
+}
+
+activate_building_clipper_shipyard = {
+	limit = {
+		personal_transportation_1 = 1 
+	}
+	chance = {
+		base = 1
+	}
+	effect = {
+		activate_building = clipper_shipyard 
+	}
+}
+
+activate_building_steamer_shipyard = {
+	limit = {
+		personal_transportation_5 = 1 
+	}
+	chance = {
+		base = 1
+	}
+	effect = {
+		activate_building = steamer_shipyard  
+	}
+}
+
+activate_building_fabric_factory = {
+	limit = {
+		clothing_2 = 1 
+	}
+	chance = {
+		base = 1
+	}
+	effect = {
+		activate_building = fabric_factory 
+	}
+}
+
+activate_building_regular_clothes_factory = {
+	limit = {
+		clothing_3 = 1 
+	}
+	chance = {
+		base = 1
+	}
+	effect = {
+		activate_building = regular_clothes_factory 
+	}
+}
+
+activate_builiding_steel_factory = {
+	limit = {
+		metallurgy_6
+	}
+	chance = {
+		base = 1
+	}
+	effect = {
+		activate_building = steel_factory  
+	}
+}
+
+activate_builiding_railroad = {
+	limit = {
+		infrastructure_1
+	}
+	chance = {
+		base = 1
+	}
+	effect = {
+		activate_building = railroad 
+	}
+}
+
+john_ramsay_mcculloch = {
+	limit = { home_goods_2 = 1  }
+	news = no
+	chance = {
+		base = 2
+		modifier = {
+			factor = 1
+			prestige = 30
+		}
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+		}
+	}
+	effect = {
+		activate_building = furniture_factory
+	}
+}
+
+nassau_william_sr = {
+	limit = { home_goods_3 = 1 }
+	news = no
+	chance = {
+		base = 2
+		modifier = {
+			factor = 2
+			economic_policy = laissez_faire
+		}
+		modifier = {
+			factor = 1
+			ruling_party_ideology = liberal
+		}
+	}
+	effect = {
+		activate_building = paper_mill 
+	}
+}
+
+
+james_mill = {
+	limit = { luxuries_2 = 1 }
+	news = no
+	chance = {
+		base = 2
+		modifier = {
+			factor = 2
+			nationalvalue = nv_equality
+		}
+		modifier = {
+			factor = 1
+			ruling_party_ideology = liberal
+		}
+	}
+	effect = {
+		activate_building = luxury_furniture_factory 
+	}
+}
+
+import_substitution_industrialization = {
+	limit = { strategic_minerals_10 = 1}
+	news = no
+	chance = {
+		base = 0
+		modifier = {
+			factor = 4
+			economic_policy = planned_economy
+		}
+		modifier = {
+			factor = 3
+			economic_policy = state_capitalism
+		}
+		modifier = {
+			factor = 2
+			economic_policy = interventionism
+		}
+		modifier = {
+			factor = 1
+			trade_policy = protectionism
+		}
+	}
+	effect = {
+		activate_building = synthetic_oil_factory
+	}
+}
+
+national_radio_networks = {
+	limit = { home_goods_10 = 1 }
+	news = no
+	chance = {
+		base = 3
+		modifier = {
+			factor = 5
+			year = 1920
+		}
+		modifier = {
+			factor = -1
+			NOT = { press_rights = free_press }
+		}
+		modifier = {
+			factor = -3
+			NOT = { invention = vacuum_tube }
+		}
+	}
+	effect = { 
+		activate_building = radio_factory 
+		suppression_points_modifier = -0.05
+	}
+	core_pop_consciousness_modifier = 0.01
+}
+
+#combustion_engine
+daimlers_automobile = {
+	limit = { personal_transport_9 = 1 }
+	chance = {
+		base = 2
+		modifier = {
+			factor = 2
+			electricity = 1
+		}
+		modifier = {
+			factor = 2
+			average_consciousness = 3
+		}
+		modifier = {
+			factor = -6
+			NOT = {
+				invention = edison_light_bulb
+			}
+		}
+	}
+	effect = {
+		activate_building = automobile_factory 
+		factory_goods_output = { machine_parts = 0.01  }
+	}
+}
+wright_n_langleys_aeroplanes = {
+	limit = { personal_transport_10 = 1 }
+	chance = {
+		base = 2
+		modifier = {
+			factor = 2
+			electricity = 1
+		}
+		modifier = {
+			factor = 2
+			average_consciousness = 4
+		}
+		modifier = {
+			factor = -6
+			NOT = {
+				invention = edison_light_bulb
+			}
+		}
+	}
+	effect = {
+		activate_building = aeroplane_factory 
+		factory_goods_output = { machine_parts = 0.02 }
+	}
+}
+
+precision_work = {
+	limit = { construction_2 = 1 }
+	chance = {
+		base = 2
+		modifier = {
+			factor = 2
+			invention = mechanical_precision_saw
+		}
+		modifier = {
+			factor = 2
+			early_railroad = 1
+		}
+	}
+	effect = {
+		factory_goods_output = {
+			glass = 0.1
+		} 
+		factory_goods_output = {
+			ammunition = 0.1
+		} 
+		activate_building = machine_parts_factory 
+	}
+}
+
+ammunition_production = {
+	limit = { military_1 = 1 }
+	chance = {
+		base = 2
+		modifier = {
+			factor = 2
+			invention = whitney_n_colts_standardized_small_arms
+		}
+		modifier = {
+			factor = 2
+			army_professionalism = 1
+		}
+	}
+	effect = {
+		activate_building = ammunition_factory 
+	}
+}
+small_arms_production = {
+	limit = { military_1 = 1  }
+	chance = {
+		base = 2
+		modifier = {
+			factor = 2
+			strategic_mobility = 1
+		}
+		modifier = {
+			factor = 2
+			early_railroad = 1
+		}
+	}
+	effect = {
+		activate_building = small_arms_factory
+	}
+}
+explosives_production = {
+	limit = { military_2 = 1 }
+	chance = {
+		base = 2
+		modifier = {
+			factor = 2
+			medicine = 1
+		}
+		modifier = {
+			factor = 2
+			invention = nitroglycerin
+		}
+	}
+	effect = {
+		activate_building = explosives_factory 
+	}
+}
+
+artillery_production = {
+	limit = { military_2 = 1 }
+	chance = {
+		base = 2
+		modifier = {
+			factor = 2
+			invention = explosives_production
+		}
+		modifier = {
+			factor = 2
+			iron_muzzle_loaded_artillery = 1
+		}
+	}
+	effect = {
+		activate_building = artillery_factory 
+	}
+}
+
+synthetic_dye = {
+	limit = { luxuries_5 = 1 }
+	chance = {
+		base = 2
+		modifier = {
+			factor = 2
+			hot_blast = 1
+		}
+		modifier = {
+			factor = 2
+			management_strategy = 1
+		}
+	}
+	effect = {
+		activate_building = dye_factory 
+	}
+}
+
+cracking = {
+	limit = { strategic_minerals_8 = 1 }
+	chance = {
+		base = 2
+		modifier = {
+			factor = 2
+			invention = oil_pumping_machinery
+		}
+		modifier = {
+			factor = 2
+			management_strategy = 1
+		}
+	}
+	effect = {
+		activate_building = fuel_refinery 
+	}
+}
+
+edison_light_bulb = {
+	limit = { home_goods_9 = 1 }
+	chance = {
+		base = 2
+		modifier = {
+			factor = 2
+			invention = direct_current
+		}
+		modifier = {
+			factor = 2
+			electrical_power_generation = 1
+		}
+	}
+	effect = {
+		activate_building = electric_gear_factory 
+	}
+}
+
+bell_n_greys_telephones = {
+	limit = { home_goods_9 = 1 }
+	chance = {
+		base = 2
+		modifier = {
+			factor = 2
+			electrical_power_generation = 1
+		}
+		modifier = {
+			factor = 2
+			invention = telegraph_coordination
+		}
+		modifier = {
+			factor = -6
+			NOT = {
+				invention = edison_light_bulb
+			}
+		}
+	}
+	effect = {
+		activate_building = telephone_factory 
+	}
+}
+
+

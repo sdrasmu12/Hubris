@@ -1,0 +1,1 @@
+#Deleted it because removing tech dependencies was time consuming and i don't care about OMAN

@@ -1,0 +1,6 @@
+owner = PEU
+controller = PEU
+add_core = BOL
+add_core = ARC
+trade_goods = wool
+life_rating = 30

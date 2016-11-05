@@ -1,0 +1,143 @@
+capital = 2344
+primary_culture = platinean
+religion = catholic
+government = democracy
+plurality = 25.0
+nationalvalue = nv_equality
+literacy = 0.15
+non_state_culture_literacy = 0.01
+civilized = yes
+prestige = 3
+
+# Political reforms
+slavery = freedom_of_womb
+upper_house_composition = party_appointed
+vote_franschise = wealth_weighted_voting
+public_meetings = yes_meeting
+press_rights = free_press
+trade_unions = no_trade_unions
+voting_system = first_past_the_post
+political_parties = harassment
+
+# Social Reforms
+wage_reform = no_minimum_wage
+work_hours = no_work_hour_limit
+safety_regulations = no_safety
+health_care = no_health_care
+unemployment_subsidies = no_subsidies
+pensions = no_pensions 
+school_reforms = no_schools
+
+# New Reforms
+conscription = four_year_draft
+debt_law = peonage
+penal_system = capital_punishment
+child_labor = child_labor_legalcitizens_rights = primary_culture_only
+border_policy = open_borders
+
+ruling_party = URU_conservative
+upper_house = {
+	fascist = 0
+	liberal = 0
+	conservative = 60
+	reactionary = 40
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
+}
+
+#URU_1836_setup
+set_country_flag = blanco_rule 
+
+# Technologies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Inventions
+
+#Starting Consciousness
+consciousness = 4
+nonstate_consciousness = 0
+
+oob = "URU_oob.txt"
+1861.1.1 = {
+	oob = "/1861/URU_oob.txt"
+	plurality = 60
+	literacy = 0.17
+	non_state_culture_literacy = 0.1
+}
+1861.1.1 = {
+
+government = democracy
+# Political reforms
+slavery = no_slavery
+upper_house_composition = state_equal_weight
+vote_franschise = wealth_voting
+public_meetings = yes_meeting
+press_rights = state_press
+trade_unions = no_trade_unions
+voting_system = first_past_the_post
+political_parties = gerrymandering
+
+ruling_party = URU_conservative_2
+
+# Technologies
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	positivism = 1
+	
+	ideological_thought = 1
+	state_n_government = 1
+	
+	
+	
+	high_pressure_steam_engine = 1
+	
+	interchangeable_parts = 1
+	
+	
+	
+	medicine = 1
+
+#Inventions
+}

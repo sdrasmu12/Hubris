@@ -1,0 +1,646 @@
+#military
+military_1 = {
+	area = military
+	year = 1750
+	cost = 3600
+
+	
+	
+	ai_chance = {
+		factor = 1.1
+	}	
+}
+military_2 = {
+	area = military
+	year = 1770
+	cost = 7200
+
+	
+	ai_chance = {
+		factor = 1.05
+	}
+}
+
+military_3 = {
+	area = military
+	year = 1785
+	cost = 10800
+
+	
+	ai_chance = {
+		factor = 1.01
+	}
+}
+military_4 = {
+	area = military
+	year = 1805
+	cost = 14400
+
+	ai_chance = {
+		factor = 1.01
+	}
+}
+
+military_5 = {
+	area = military
+	year = 1820
+	cost = 18000
+
+	
+	ai_chance = {
+		factor = 1.25
+	}
+}
+military_6 = {
+	area = military
+	year = 1840
+	cost = 21600
+
+
+	ai_chance = {
+		factor = 1.1
+	}
+}
+
+military_7 = {
+	area = military
+	year = 1860
+	cost = 21600
+
+
+	ai_chance = {
+		factor = 1.1
+	}
+}
+
+military_8 = {
+	area = military
+	year = 1875
+	cost = 21600
+
+
+	ai_chance = {
+		factor = 1.1
+	}
+}
+
+military_9 = {
+	area = military
+	year = 1895
+	cost = 21600
+
+
+	ai_chance = {
+		factor = 1.1
+	}
+}
+
+military_10 = {
+	area = military
+	year = 1915
+	cost = 21600
+
+
+	ai_chance = {
+		factor = 1.1
+	}
+}
+
+#construction
+construction_1 = {
+	area = construction
+	year = 1750
+	cost = 3600
+
+	
+	ai_chance = {
+		factor = 1.5
+	}	
+
+}
+construction_2 = {
+	area = construction
+	year = 1770
+	cost = 7200
+
+	
+	ai_chance = {
+		factor = 1.05
+	}	
+}
+construction_3 = {
+	area = construction
+	year = 1785
+	cost = 10800
+
+
+	ai_chance = {
+		factor = 1.05
+	}	
+}
+construction_4 = {
+	area = construction
+	year = 1805
+	cost = 14400
+
+	
+	ai_chance = {
+		factor = 1.05
+	}	
+}
+construction_5 = {
+	area = construction
+	year = 1820
+	cost = 18000
+
+	
+	ai_chance = {
+		factor = 1.05
+	}	
+}
+construction_6 = {
+	area = construction
+	year = 1840
+	cost = 21600
+
+	
+	ai_chance = {
+		factor = 1.05
+	}	
+}
+
+construction_7 = {
+	area = construction
+	year = 1860
+	cost = 21600
+
+	
+	ai_chance = {
+		factor = 1.05
+	}	
+}
+
+construction_8 = {
+	area = construction
+	year = 1875
+	cost = 21600
+
+	ai_chance = {
+		factor = 1.05
+	}	
+}
+
+construction_9 = {
+	area = construction
+	year = 1895
+	cost = 21600
+
+	
+	ai_chance = {
+		factor = 1.05
+	}	
+}
+
+construction_10 = {
+	area = construction
+	year = 1915
+	cost = 21600
+
+	
+	ai_chance = {
+		factor = 1.05
+	}	
+}
+
+#metallurgy
+metallurgy_1 = {
+	area = metallurgy
+	year = 1750
+	cost = 3600
+	
+
+	
+	ai_chance = {
+		factor = 5
+	}
+}
+
+metallurgy_2 = {
+	area = metallurgy
+	year = 1770
+	cost = 7200
+	
+	ai_chance = {
+		factor = 2
+	}
+}
+
+metallurgy_3 = {
+	area = metallurgy
+	year = 1785
+	cost = 10800
+
+	
+	ai_chance = {
+		factor = 2
+	}
+}
+metallurgy_4 = {
+	area = metallurgy
+	year = 1805
+	cost = 14400
+
+	ai_chance = {
+		factor = 2
+	}
+}
+metallurgy_5 = {
+	area = metallurgy
+	year = 1820
+	cost = 18000
+
+	
+	ai_chance = {
+		factor = 1.1
+	}
+}
+
+metallurgy_6 = {
+	area = metallurgy
+	year = 1840
+	cost = 21600
+
+	
+	ai_chance = {
+		factor = 1.1
+	}
+}
+
+
+metallurgy_7 = {
+	area = metallurgy
+	year = 1860
+	cost = 21600
+
+	
+	ai_chance = {
+		factor = 1.1
+	}
+}
+
+metallurgy_8 = {
+	area = metallurgy
+	year = 1875
+	cost = 21600
+
+	
+	ai_chance = {
+		factor = 1.1
+	}
+}
+
+metallurgy_9 = {
+	area = metallurgy
+	year = 1895
+	cost = 21600
+
+	
+	ai_chance = {
+		factor = 1.1
+	}
+}
+
+metallurgy_10 = {
+	area = metallurgy
+	year = 1915
+	cost = 21600
+
+	
+	ai_chance = {
+		factor = 1.1
+	}
+}
+
+#infrastructure
+infrastructure_1 = {
+	area = infrastructure
+	year = 1750
+	cost = 3600
+
+	
+	
+	ai_chance = {
+		factor = 2
+	}
+}
+infrastructure_2 = {
+	area = infrastructure
+	year = 1770
+	cost = 7200
+
+	max_railroad = 1
+	
+	ai_chance = {
+		factor = 2
+		modifier = {
+			factor = 10
+			OR = {
+				tag = NGF
+				tag = GER
+				tag = PRU
+			}
+		}
+		modifier = {
+			factor = 1.5
+			OR = {
+				is_greater_power = yes
+				is_secondary_power = yes
+			}
+		}
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+			year = 1855
+		}
+		modifier = {
+			factor = 2
+			literacy = 0.4
+		}
+		modifier = {
+			factor = 1.1
+			capital_scope = { continent = europe }
+		}
+	}
+}
+infrastructure_3 = {
+	area = infrastructure
+	year = 1785
+	cost = 10800
+
+	max_railroad = 1 
+	ai_chance = {
+		factor = 2
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+			year = 1865
+		}
+	}
+}
+
+infrastructure_4 = {
+	area = infrastructure
+	year = 1805
+	cost = 14400
+
+	max_railroad = 1 
+	ai_chance = {
+		factor = 2
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+			year = 1885
+		}
+		modifier = {
+			factor = 1.1
+			capital_scope = { continent = europe }
+		}
+	}
+}
+infrastructure_5 = {
+	area = infrastructure
+	year = 1820
+	cost = 18000
+
+	max_railroad = 1
+	ai_chance = {
+		factor = 2
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+			year = 1905
+		}
+	}
+}
+infrastructure_6 = {
+	area = infrastructure
+	year = 1840
+	cost = 21600
+
+	max_railroad = 1
+	ai_chance = {
+		factor = 2
+		modifier = {
+			factor = 1.5
+			civilized = yes
+		}
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+		}
+	}
+}
+
+infrastructure_7 = {
+	area = infrastructure
+	year = 1860
+	cost = 21600
+
+	max_railroad = 1
+	ai_chance = {
+		factor = 2
+		modifier = {
+			factor = 1.5
+			civilized = yes
+		}
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+		}
+	}
+}
+
+infrastructure_8 = {
+	area = infrastructure
+	year = 1875
+	cost = 21600
+
+	max_railroad = 1
+	ai_chance = {
+		factor = 2
+		modifier = {
+			factor = 1.5
+			civilized = yes
+		}
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+		}
+	}
+}
+
+infrastructure_9 = {
+	area = infrastructure
+	year = 1895
+	cost = 21600
+
+	max_railroad = 1
+	ai_chance = {
+		factor = 2
+		modifier = {
+			factor = 1.5
+			civilized = yes
+		}
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+		}
+	}
+}
+
+infrastructure_10 = {
+	area = infrastructure
+	year = 1915
+	cost = 21600
+
+	max_railroad = 1
+	ai_chance = {
+		factor = 2
+		modifier = {
+			factor = 1.5
+			civilized = yes
+		}
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+		}
+	}
+}
+
+#strategic_minerals
+strategic_minerals_1 = {
+	area = strategic_minerals
+	year = 1750
+	cost = 3600
+
+	activate_building = fertilizer_factory 
+	ai_chance = {
+		factor = 10
+		modifier = {
+			factor = 1.5
+			civilized = yes
+		}
+	}
+}
+strategic_minerals_2 = {
+	area = strategic_minerals
+	year = 1770
+	cost = 7200
+
+	
+	ai_chance = {
+		factor = 10
+	}
+}
+strategic_minerals_3 = {
+	area = strategic_minerals
+	year = 1805
+	cost = 10800
+
+	
+	ai_chance = {
+		factor = 2
+	}
+}
+strategic_minerals_4 = {
+	area = strategic_minerals
+	year = 1785
+	cost = 14400
+
+	
+	ai_chance = {
+		factor = 1
+	}
+}
+strategic_minerals_5 = {
+	area = strategic_minerals
+	year = 1820
+	cost = 18000
+
+
+	ai_chance = {
+		factor = 1
+	}
+
+}
+strategic_minerals_6 = {
+	area = strategic_minerals
+	year = 1840
+	cost = 21600
+
+
+	ai_chance = {
+		factor = 1
+	}
+	
+}
+
+strategic_minerals_7 = {
+	area = strategic_minerals
+	year = 1860
+	cost = 21600
+
+	supply_limit = 0.50
+	ai_chance = {
+		factor = 1.1
+	}
+	
+}
+
+
+strategic_minerals_8 = {
+	area = strategic_minerals
+	year = 1875
+	cost = 21600
+
+
+	ai_chance = {
+		factor = 1.1
+	}
+	
+}
+
+strategic_minerals_9 = {
+	area = strategic_minerals
+	year = 1895
+	cost = 21600
+
+	ai_chance = {
+		factor = 1.1
+	}
+	
+}
+
+strategic_minerals_10 = {
+	area = strategic_minerals
+	year = 1915
+	cost = 21600
+
+	supply_limit = 0.50
+	ai_chance = {
+		factor = 1.1
+	}
+	
+}

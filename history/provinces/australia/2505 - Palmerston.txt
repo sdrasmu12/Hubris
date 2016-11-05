@@ -1,0 +1,6 @@
+owner = EPTY
+controller = EPTY
+add_core = AST
+trade_goods = grain
+life_rating = 20
+colonial = 2

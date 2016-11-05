@@ -1,0 +1,6 @@
+
+
+
+terrain = montane_tundra
+trade_goods = fish
+life_rating = 20

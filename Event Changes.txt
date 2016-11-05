@@ -1,0 +1,2 @@
+Removed Tech from arabia.txt trigger 96100
+Removed Tech from ARG flavor.txt 97086

@@ -1,0 +1,5 @@
+owner = WIA
+controller = WIA
+add_core = SIA
+trade_goods = fruit
+life_rating = 35

@@ -1,0 +1,745 @@
+#!/usr/bin/perl
+use Modern::Perl;
+use Data::Dumper;
+
+my $dh = 'C:\Program Files (x86)\Steam\SteamApps\common\Victoria 2\mod\HPM\history\provinces';
+my $folder;
+my @subfolders = ( 'africa','asia','austria','australia','balkan','canada','carribean','central asia',
+'china','france','germany','india','indonesia','italy','japan','low countries','mexico','pacific island',
+'portugal', 'scandinavia', 'south america', 'soviet', 'spain', 'united kingdom', 'usa');
+my %fullname;
+my %provids;
+				
+#create hashes connecting province id to file name and subdirectory
+foreach my $sfolder (@subfolders){
+	# Open Each Subdir and put the filenames in an array
+	my $dir = "$dh\\$sfolder";
+	opendir($folder, $dir);
+	my @provfilenames = grep { /\.txt$/ } readdir($folder);
+	
+	# Make a hashin which the id can be used to find the full name
+	foreach my $prov (@provfilenames){
+		my $provid = substr($prov, 0, index($prov, ' '));
+		$provids{$provid} = $prov;
+		$fullname{$provid} = $sfolder;
+	};
+};
+
+
+#print Dumper(\%provids);
+#print Dumper(\%fullname);
+# create hashes connecting owner and controller to province
+
+my @cedes = qw(
+GRE TUR
+TUN TUR
+EGY TUR
+HDJ TUR
+ALD TUR
+TRI TUR
+CIR TUR
+BEL FLA
+UBD RUS
+MKN AZB
+KAL AFG
+MAK AFG
+PNK AFG
+SIN AFG
+NOR DEN
+FIN SWE
+ION VEN
+UCA MEX
+VNZ CLM
+ECU CLM
+SPU PEU
+PBC PEU
+ARC PEU
+RGS BRZ
+PRG PEU
+CRT PEU
+URU PEU
+CHL PEU
+);
+
+my %givetake = @cedes;
+
+# Country Wide Substitution
+foreach my $key (keys %fullname){
+		my $fullname = $provids{$key};
+		my $sfolder = $fullname{$key};
+		open(my $fh, "$dh/$sfolder/$fullname");
+		open(my $ph, '>', "history/provinces/$sfolder/$fullname"); 
+		while (my $row = <$fh>) {
+		chomp $row;
+		foreach my $key (keys %givetake){
+			my $give = $key;
+			my $take = $givetake{$key};
+			$row =~ s/^owner = $give/owner = $take/g;
+			$row =~ s/^controller = $give/controller = $take/g;	
+		}
+		print $ph "$row\n";
+	};
+
+}
+
+my @ownedprovs = qw(
+2087 NET
+2090 NET
+2089 EMPTY
+2091 EMPTY
+2092 EMPTY
+2096 EMPTY
+2097 EMPTY
+221 EMPTY
+1167 OMA
+1168 OMA
+2239 NET
+1979 NET
+2242 EMPTY
+2243 EMPTY
+1689 MOR
+44 MEX
+2222 MEX
+2214 MEX
+2216 MEX
+2215 FRA
+2213 FRA
+2359 PEU
+2360 PEU
+2209 MEX
+2210 MEX
+2211 MEX
+2212 MEX
+2125 FRA
+964 TUR
+967 TUR
+973 TUR
+965 TUR
+971 TUR
+970 TUR
+975 TUR
+976 TUR
+794 TUR
+795 TUR
+796 TUR
+797 TUR
+665 TUR
+665 TUR
+667 TUR
+668 TUR
+669 TUR
+676 TUR
+677 TUR
+954 TUR
+969 TUR
+968 TUR
+966 TUR
+1047 TUR
+1048 TUR
+979 TUR
+678 TUR
+670 TUR
+671 TUR
+672 TUR
+673 TUR
+664 TUR
+666 TUR
+2583 TUR
+1704 TUR
+1709 TUR
+1700 TUR
+1701 TUR
+1758 EMPTY
+1838 EMPTY
+1839 EMPTY
+1840 EMPTY
+1744 EMPTY
+1741 EMPTY
+2564 EMPTY
+339 RUS
+1827 SUD 
+1828 SUD
+1829 SUD
+1830 SUD
+1831 SUD
+1833 SUD
+1835 SUD
+1836 SUD
+1837 SUD
+1849 SUD
+1850 SUD
+473 SAR
+724 SAR
+725 SAR
+729 VEN
+728 VEN
+730 VEN
+731 VEN
+732 VEN
+733 VEN
+734 VEN
+737 VEN
+736 VEN
+2582 VEN
+780 VEN
+781 VEN
+770 VEN
+740 TUS
+724 CRS
+725 CRS
+473 CRS
+738 SPA
+711 POL
+712 POL
+713 POL
+714 POL
+715 POL
+716 POL
+699 POL
+700 POL
+701 POL
+703 POL
+702 POL
+704 POL
+705 POL
+706 POL
+707 POL
+708 POL
+709 POL
+710 POL
+712 POL
+717 POL
+719 POL
+663 POL
+662 POL
+690 POL
+691 POL
+694 POL
+2584 POL
+951 POL
+952 POL
+953 POL
+955 POL
+956 POL
+957 POL
+960 POL
+959 POL
+936 POL
+937 POL
+938 POL
+939 POL
+940 POL
+941 POL
+942 POL
+948 POL
+718 POL
+685 POL
+684 POL
+357 LIT
+358 LIT
+359 LIT
+360 LIT
+361 LIT
+362 LIT
+363 LIT
+364 LIT
+365 LIT
+947 LIT
+356 LIT
+946 POL
+945 POL
+548 SWE
+580 WES
+581 WES
+582 WES
+583 WES
+584 WES
+572 RHI
+573 RHI
+574 RHI
+576 RHI
+578 RHI
+396 RHI
+579 RHI
+577 RHI
+575 RHI
+2561 RHI
+395 WLL
+554 SAX
+556 SAX
+1095 TUR
+1094 TUR
+1099 GEO
+1093 GEO
+1090 GEO
+1091 GEO
+1092 GEO
+1105 GEO
+1108 AZB
+1112 AZB
+1107 AZB
+1106 AZB
+1102 AZB
+1101 AZB
+1105 AZB 
+1104 AZB
+1100 AZB
+1098 AZB
+2640 AFG
+1218 AFG
+1228 AFG 
+1230 AFG
+1231 AFG
+1232 AFG
+1229 AFG
+1227 AFG
+1233 AFG
+686 BUK
+1208 KOK
+1210 KOK
+1223 KOK
+1224 LAD
+1225 LAD
+1226 LAD
+1234 MUG
+1235 MUG
+1236 MUG
+1237 MUG
+1239 MUG
+1240 MUG
+1242 MUG
+1241 MUG
+1243 MUG
+1244 MUG
+1245 MUG
+1246 MUG
+1247 MUG
+1248 MUG
+1249 MUG
+1250 MUG
+1252 BNG
+1264 MUG
+1265 MUG
+1266 MUG
+1267 MUG
+1268 MUG
+1270 MUG
+1269 MUG
+1262 MUG
+1274 MUG 
+1273 MUG
+1261 MUG
+1263 MUG
+1251 BNG
+1253 BNG
+1256 BNG
+1257 BNG
+1254 BNG
+1255 BNG
+1238 NEP
+2566 BNG
+1258 ASM
+1259 ASM
+1260 ASM
+1593 ASM
+1345 BUR
+1291 MAH
+1292 MAH
+1293 MAH
+1294 MAH
+1295 MAH
+1296 MAH
+1297 MAH
+1298 MAH
+1299 MAH
+1300 MAH
+1302 MAH
+1282 MAH
+1271 MAH
+1272 MAH
+1275 MAH
+1276 MAH
+1277 MAH
+1279 MAH
+1280 MAH
+1281 MAH
+1305 KRN
+1304 KRN
+1306 KRN
+1308 KRN
+1309 KRN
+1310 KRN
+1311 KRN
+2591 KRN
+1321 NET
+1322 NET
+1324 NET
+1323 SRI
+1316 MYS
+1317 MYS
+1318 MYS
+1319 MYS
+1325 MLD
+2128 EMPTY
+1343 SIA
+1344 SIA
+1330 SIA
+1331 SIA
+1332 SIA
+1366 CAM
+1382 CAM
+1383 CAM
+1365 CAM
+1359 CHK
+1357 WIA
+1359 WIA
+1361 WIA
+1320 EMPTY
+2497 EMPTY
+2498 EMPTY
+2502 EMPTY
+2504 EMPTY
+2602 EMPTY
+2501 EMPTY
+2505 EPTY
+2506 EMPTY
+2604 EMPTY
+2484 EMPTY
+2485 EMPTY
+2485 EMPTY
+2487 EMPTY
+2488 EMPTY
+2469 EMPTY
+2470 EMPTY
+2471 EMPTY
+2472 EMPTY
+2476 EMPTY
+2477 EMPTY
+2478 EMPTY
+2479 EMPTY
+2481 EMPTY
+2482 EMPTY
+2491 EMPTY
+2493 EMPTY
+2492 EMPTY
+2496 EMPTY
+2571 EMPTY
+2524 EMPTY
+2508 EMPTY
+2509 EMPTY
+1358 WIA
+2499 EMPTY
+2494 EMPTY
+2480 EMPTY
+2866 EMPTY
+2468 EMPTY
+2486 EMPTY
+2483 EMPTY
+2631 EMPTY
+22 EMPTY
+35 EMPTY
+80 EMPTY
+21 EMPTY
+28 EMPTY
+14 EMPTY
+78 EMPTY
+79 EMPTY
+20 EMPTY
+24 EMPTY
+25 EMPTY
+26 EMPTY
+27 EMPTY
+28 EMPTY
+29 EMPTY
+19 EMpty
+17 EMPTY
+15 EMPTY
+348 SWE
+16 EMPTY
+1 EMPTY
+2 EMPTY
+3 EMPTY
+4 EMPTY
+5 EMPTY
+6 EMPTY
+93 EMPTY
+91 EMPTY
+92 EMPTY
+113 EMPTY
+114 EMPTY
+115 EMPTY
+116 EMPTY
+110 EMPTY
+111 EMPTY
+112 EMPTY
+106 EMPTY
+107 EMPTY
+117 EMPTY
+118 EMPTY
+119 EMPTY
+13 EMPTY
+33 EMPTY
+34 EMPTY
+30 EMPTY
+43 EMPTY
+134 EMPTY
+120 EMPTY
+121 EMPTY
+122 EMPTY
+123 EMPTY
+124 EMPTY
+125 EMPTY
+126 EMPTY
+127 EMPTY
+130 EMPTY
+131 EMPTY
+139 QUE
+140 QUE
+141 QUE
+143 QUE
+197 QUE
+194 QUE
+169 QUE
+142 QUE
+144 QUE
+145 EMPTY
+201 EMPTY
+217 EMPTY
+2627 EMPTY
+235 EMPTY
+192 QUE
+187 QUE
+189 QUE
+193 QUE
+170 QUE
+171 QUE
+177 QUE
+175 QUE
+172 QUE
+178 QUE
+179 QUE
+180 QUE
+181 QUE
+182 QUE
+146 QUE 
+148 QUE
+163 QUE
+168 QUE
+167 QUE
+166 QUE
+165 QUE 
+164 QUE
+195 EMPTY
+147 EMPTY
+149 EMPTY
+150 EMPTY
+151 EMPTY
+152 EMPTY
+153 QUE
+154 EMPTY
+156 EMPTY
+132 MEX 
+133 MEX
+137 MEX
+1388 JOH
+2575 JOH
+158 QUE 
+157 QUE
+159 QUE
+161 QUE 
+162 QUE
+155 QUE
+2625 QUE
+1390 JOH
+1387 JOH
+1386 JOH
+1385 JOH
+1388 NET
+1384 JOH
+66 QUE
+67 QUE
+46 QUE
+50 QUE
+51 QUE
+52 QUE
+53 QUE
+54 QUE
+55 QUE
+56 QUE
+57 QUE
+58 QUE
+59 QUE
+61 QUE 
+62 QUE
+63 QUE
+64 QUE
+65 QUE
+68 QUE 
+69 QUE
+85 EMPTY
+84 EMPTY
+104 EMPTY
+250 QUE
+70 QUE 
+96 EMPTY
+135 EMPTY
+73 QUE
+2594 QUE
+188 EMPTY
+186 EMPTY
+184 EMPTY
+185 EMPTY
+216 EMPTY
+183 EMPTY
+218 EMPTY
+217 EMPTY
+215 EMPTY
+227 EMPTY
+225 EMPTY
+236 QUE 
+228 QUE
+236 QUE
+237 QUE 
+238 QUE
+239 QUE
+49 QUE
+158 QUE
+36 QUE
+39 QUE
+40 QUE
+41 QUE 
+42 QUE
+36 QUE
+157 QUE
+160 QUE
+173 QUE
+174 QUE
+176 QUE
+196 EMPTY
+196 EMPTY
+2556 EMPTY
+190 EMPTY
+191 EMPTY
+84 EMPTY
+86 EMPTY
+87 EMPTY
+88 EMPTY
+90 EMPTY
+89 EMPTY
+96 EMPTY
+95 EMPTY
+94 EMPTY
+97 EMPTY
+99 EMPTY
+98 EMPTY
+100 EMPTY
+101 EMPTY
+102 EMPTY
+103 EMPTY
+105 EMPTY
+106 EMPTY
+108 EMPTY
+109 EMPTY
+128 EMPTY
+129 EMPTY
+2139 EMPTY
+1238 EMPTY
+2148 EMPTY
+2662 EMPTY
+129 EMPTY
+2140 EMPTY
+2137 EMPTY
+2141 EMPTY
+2190 MEX
+2200 MEX
+198 MEX
+199 MEX 
+200 MEX
+);
+my %owners = @ownedprovs;
+
+my @toremove = qw(
+938 RUS
+939 RUS
+936 RUS
+937 RUS
+719 RUS
+940 RUS
+957 RUS
+956 RUS
+955 RUS
+948 RUS
+945 RUS
+946 RUS
+941 RUS
+942 RUS
+781 RUS
+356 RUS
+947 RUS
+358 RUS
+359 RUS
+960 RUS
+699 PRU
+700 PRU
+701 PRU
+684 PRU
+685 PRU
+2854 PRU
+);
+
+my @toadd = qw(
+938 POL
+939 POL
+936 POL
+937 POL
+719 POL
+940 POL
+957 POL
+956 POL
+955 POL
+948 POL
+945 POL
+946 POL
+941 POL
+942 POL
+960 POL
+356 LIT
+947 LIT
+699 POL
+700 POL
+701 POL
+);
+
+my %removals = @toremove;
+my %additions = @toadd;
+
+
+print Dumper (\%owners);
+
+foreach my $key (keys(%owners)){
+	my $fullname = $provids{$key};
+	my $sfolder = $fullname{$key};
+	my $tag = $owners{$key};
+	open(my $fh, "$dh/$sfolder/$fullname");
+	open(my $ph, '>', "history/provinces/$sfolder/$fullname");
+	my $coremove;
+	my $coreadd;
+	if ( defined $removals{$key}){ $coremove = $removals{$key}};
+	if ( defined $additions{$key}){ $coreadd = $additions{$key}};
+	while (my $row = <$fh>) {
+		chomp $row;
+		if ($tag eq "EMPTY"){$row =~ s/^owner = ...//g}else{$row =~ s/^owner = .../owner = $tag/g};
+		if ($tag eq "EMPTY"){$row =~ s/^controller = ...//g}else{$row =~ s/^controller = .../controller = $tag/g};	
+		#strip cores from empty provinces
+		if ($tag eq "EMPTY"){$row =~ s/^add_core = ...//g};
+		# remove cores
+		if ( defined $removals{$key}){$row =~ s/^add_core = $coremove//g}
+		# add cores
+		if ( defined $additions{$key}){
+			if ($row =~ /^controller = .../){ print $ph "add_core = $coreadd\n"; }
+		};
+		print $ph "$row\n";
+	};
+};
+
+

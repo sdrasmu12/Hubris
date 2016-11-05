@@ -1,0 +1,163 @@
+capital = 555
+primary_culture = north_german
+religion = protestant
+government = absolute_monarchy
+plurality = 25.0
+nationalvalue = nv_order
+literacy = 0.8
+civilized = yes
+prestige = 5
+
+# Political reforms
+slavery = no_slavery
+upper_house_composition = appointed
+vote_franschise = none_voting
+public_meetings = yes_meeting
+press_rights = state_press
+trade_unions = no_trade_unions
+voting_system = first_past_the_post
+political_parties = underground_parties
+
+# Social Reforms
+wage_reform = no_minimum_wage
+work_hours = no_work_hour_limit
+safety_regulations = no_safety
+health_care = no_health_care
+unemployment_subsidies = no_subsidies
+pensions = no_pensions 
+school_reforms = no_schools
+
+#New Reforms
+conscription = two_year_draft
+debt_law = peonage
+penal_system = capital_punishment
+child_labor = child_labor_legalcitizens_rights = culture_voting_only
+border_policy = open_borders
+
+ruling_party = ANH_conservative_2
+upper_house = {
+	fascist = 0
+	liberal = 28
+	conservative = 59
+	reactionary = 13
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
+}
+
+
+## Western
+
+# Technologies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Inventions
+
+# Starting Consciousness
+consciousness = 3
+nonstate_consciousness = 1
+
+oob = "ANH_oob.txt"
+1861.1.1 = {
+	oob = "/1861/ANH_oob.txt"
+	plurality = 60
+	literacy = 0.90
+	non_state_culture_literacy = 0.45
+}
+1861.1.1 = {
+# Technologies
+	
+	
+	
+	
+	
+	breech_loaded_rifles = 1
+	
+	
+	
+	
+	
+	military_statistics = 1
+	
+	
+	army_decision_making = 1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	empiricism = 1
+	
+	positivism = 1
+	
+	ideological_thought = 1
+	state_n_government = 1
+	nationalism_n_imperialism = 1
+	
+	associationism = 1
+	phenomenalism = 1
+	
+	
+	high_pressure_steam_engine = 1
+	compound_steam_engines = 1
+	
+	interchangeable_parts = 1
+	semi_automatization = 1
+	
+	hot_blast = 1
+	puddling = 1
+	
+	early_railroad = 1
+	iron_railroad = 1
+	
+	medicine = 1
+	inorganic_chemistry = 1
+	
+	
+#Inventions
+}

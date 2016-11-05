@@ -1,0 +1,1067 @@
+
+#clothing
+clothing_1 = {
+	area = clothing
+	year = 1750
+	cost = 3600
+
+	ai_chance = {
+		factor = 1.1
+		modifier = {
+			factor = 3.5
+			rank = 16
+		}
+	}
+}
+clothing_2 = {
+	area = clothing
+	year = 1770
+	cost = 7200
+
+
+	
+	ai_chance = {
+		factor = 1.1
+		modifier = {
+			factor = 3.5
+			rank = 16
+		}
+	}
+}
+clothing_3 = {
+	area = clothing
+	year = 1785
+	cost = 10800
+
+	
+	ai_chance = {
+		factor = 1.1
+		modifier = {
+			factor = 3.5
+			rank = 16
+		}
+	
+	}
+}
+clothing_4 = {
+	area = clothing
+	year = 1805
+	cost = 14400
+
+
+	ai_chance = {
+		factor = 1.1
+		modifier = {
+			factor = 3.5
+			rank = 16
+		}		
+	}
+}
+clothing_5 = {
+	area = clothing
+	year = 1820
+	cost = 18000
+
+	tax_eff = 5
+	ai_chance = {
+		factor = 1.1
+		modifier = {
+			factor = 1.5
+			rank = 16
+		}
+	}
+}
+clothing_6 = {
+	area = clothing
+	year = 1840
+	cost = 21600
+
+
+	ai_chance = {
+		factor = 1.1
+		modifier = {
+			factor = 1.5
+			rank = 16
+		}
+	}
+}
+
+clothing_7 = {
+	area = clothing
+	year = 1860
+	cost = 21600
+
+
+	ai_chance = {
+		factor = 1.1
+		modifier = {
+			factor = 1.5
+			rank = 16
+		}
+	}
+}
+
+clothing_8 = {
+	area = clothing
+	year = 1875
+	cost = 21600
+
+	ai_chance = {
+		factor = 1.1
+		modifier = {
+			factor = 1.5
+			rank = 16
+		}
+	}
+}
+
+clothing_9 = {
+	area = clothing
+	year = 1895
+	cost = 21600
+
+	tax_eff = 5
+	ai_chance = {
+		factor = 1.1
+		modifier = {
+			factor = 1.5
+			rank = 16
+		}
+	}
+}
+
+clothing_10 = {
+	area = clothing
+	year = 1915
+	cost = 21600
+
+	ai_chance = {
+		factor = 1.1
+		modifier = {
+			factor = 1.5
+			rank = 16
+		}
+	}
+}
+
+
+
+#beverages
+beverages_1 = {
+	area = beverages
+	year = 1750
+	cost = 3600
+
+
+	ai_chance = {
+		factor = 1.1
+		modifier = {
+			factor = 1.1
+			rank = 16
+		}
+	}
+}
+beverages_2 = {
+	area = beverages
+	year = 1770
+	cost = 7200
+	
+	ai_chance = {
+		factor = 1.1
+		modifier = {
+			factor = 1.25 #1.1
+			rank = 16
+		}
+	}
+}  
+beverages_3 = {
+	area = beverages
+	year = 1785
+	cost = 10800
+
+
+	ai_chance = {
+		factor = 1.1
+		modifier = {
+			factor = 1.25 #1.1
+			rank = 16
+		}
+	}
+}
+beverages_4 = {
+	area = beverages
+	year = 1805
+	cost = 14400
+
+
+	ai_chance = {
+		factor = 1.1
+		modifier = {
+			factor = 1.1
+			rank = 16
+		}
+	}
+}
+beverages_5 = {
+	area = beverages
+	year = 1820
+	cost = 18000
+
+
+	ai_chance = {
+		factor = 1.1
+		modifier = {
+			factor = 1.1
+			rank = 16
+		}
+	}
+}
+beverages_6 = {
+	area = beverages
+	year = 1840
+	cost = 21600
+
+	ai_chance = {
+		factor = 1.1
+		modifier = {
+			factor = 5
+			economic_policy = laissez_faire
+		}
+		modifier = {
+			factor = 10
+			OR = {
+				NOT = { education_spending = 0.3 }
+				NOT = { administration_spending = 0.3 }
+			}
+			war = no
+		}
+		modifier = {
+			factor = 1.1
+			rank = 16
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = commerce_tech_school
+		}
+	}
+}
+beverages_7 = {
+	area = beverages
+	year = 1860
+	cost = 21600
+
+
+	ai_chance = {
+		factor = 1.1
+		modifier = {
+			factor = 1.1
+			rank = 16
+		}
+	}
+}
+beverages_8 = {
+	area = beverages
+	year = 1875
+	cost = 21600
+
+
+	ai_chance = {
+		factor = 1.1
+		modifier = {
+			factor = 1.1
+			rank = 16
+		}
+
+	}
+}
+beverages_9 = {
+	area = beverages
+	year = 1895
+	cost = 21600
+
+
+	ai_chance = {
+		factor = 1.1
+	}
+}
+beverages_10 = {
+	area = beverages
+	year = 1915
+	cost = 21600
+
+
+	ai_chance = {
+		factor = 1.1
+		modifier = {
+			factor = 1.1
+			rank = 16
+		}
+	}
+}
+
+#home_goods
+home_goods_1 = {
+	area = home_goods
+	year = 1750
+	cost = 3600
+	
+
+	ai_chance = {
+		factor = 1
+		modifier = {
+			factor = 1.02
+			tech_school = commerce_tech_school
+		}
+		modifier = {
+			factor = 1.05
+			literacy = 0.3 
+		}
+		modifier = {
+			factor = 1.05
+			literacy = 0.6
+		}
+	}
+}
+home_goods_2 = {
+	area = home_goods
+	year = 1770
+	cost = 7200
+
+	ai_chance = {
+		factor = 1
+		modifier = {
+			factor = 1.2
+			industrial_score = 20 #10
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 100 #50
+		}
+		modifier = {
+			factor = 1.05
+			literacy = 0.3 
+		}
+		modifier = {
+			factor = 1.05
+			literacy = 0.6
+		}
+	}
+}
+home_goods_3 = {
+	area = home_goods
+	year = 1785
+	cost = 10800
+
+
+	ai_chance = {
+		factor = 1
+		modifier = {
+			factor = 1.2
+			industrial_score = 150 #100
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 200 #150
+		}
+		modifier = {
+			factor = 1.05
+			literacy = 0.3 
+		}
+		modifier = {
+			factor = 1.05
+			literacy = 0.6
+		}		
+	}
+}
+home_goods_4 = {
+	area = home_goods
+	year = 1805
+	cost = 14400
+
+
+	ai_chance = {
+		factor = 1
+		modifier = {
+			factor = 1.1
+			industrial_score = 250 #200
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 300 #250
+		}
+		modifier = {
+			factor = 1.05
+			literacy = 0.3 
+		}
+		modifier = {
+			factor = 1.05
+			literacy = 0.6
+		}		
+	}
+}
+home_goods_5 = {
+	area = home_goods
+	year = 1820
+	cost = 18000
+
+
+	ai_chance = {
+		factor = 1
+		modifier = {
+			factor = 1.1
+			industrial_score = 500 #400
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 600 #500
+		}
+		modifier = {
+			factor = 1.05
+			literacy = 0.3 
+		}
+		modifier = {
+			factor = 1.05
+			literacy = 0.6
+		}		
+	}
+}
+home_goods_6 = {
+	area = home_goods
+	year = 1840
+	cost = 21600
+
+	factory_input = -0.03
+	ai_chance = {
+		factor = 1
+		modifier = {
+			factor = 1.2
+			industrial_score = 1500 #1000
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 2000 #1500
+		}
+		modifier = {
+			factor = 1.05
+			literacy = 0.3 
+		}
+		modifier = {
+			factor = 1.05
+			literacy = 0.6
+		}		
+	}
+}
+
+home_goods_7 = {
+	area = home_goods
+	year = 1860
+	cost = 21600
+
+	factory_input = -0.03
+	ai_chance = {
+		factor = 1
+		modifier = {
+			factor = 1.2
+			industrial_score = 1500 #1000
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 2000 #1500
+		}
+		modifier = {
+			factor = 1.05
+			literacy = 0.3 
+		}
+		modifier = {
+			factor = 1.05
+			literacy = 0.6
+		}		
+	}
+}
+
+home_goods_8 = {
+	area = home_goods
+	year = 1875
+	cost = 21600
+
+	factory_input = -0.03
+	ai_chance = {
+		factor = 1
+		modifier = {
+			factor = 1.2
+			industrial_score = 1500 #1000
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 2000 #1500
+		}
+		modifier = {
+			factor = 1.05
+			literacy = 0.3 
+		}
+		modifier = {
+			factor = 1.05
+			literacy = 0.6
+		}		
+	}
+}
+
+home_goods_9 = {
+	area = home_goods
+	year = 1895
+	cost = 21600
+
+	factory_input = -0.03
+	ai_chance = {
+		factor = 1
+		modifier = {
+			factor = 1.2
+			industrial_score = 1500 #1000
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 2000 #1500
+		}
+		modifier = {
+			factor = 1.05
+			literacy = 0.3 
+		}
+		modifier = {
+			factor = 1.05
+			literacy = 0.6
+		}		
+	}
+}
+
+home_goods_10 = {
+	area = home_goods
+	year = 1915
+	cost = 21600
+
+	factory_input = -0.03
+	ai_chance = {
+		factor = 1
+		modifier = {
+			factor = 1.2
+			industrial_score = 1500 #1000
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 2000 #1500
+		}
+		modifier = {
+			factor = 1.05
+			literacy = 0.3 
+		}
+		modifier = {
+			factor = 1.05
+			literacy = 0.6
+		}		
+	}
+}
+
+#personal_transport
+personal_transport_1 = {
+	area = personal_transport
+	year = 1750
+	cost = 3600
+
+	
+	ai_chance = {
+		factor = 4.9
+		
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.05
+			literacy = 0.1 
+		}
+		modifier = {
+			factor = 1.05
+			literacy = 0.2
+		}		
+	}
+}
+personal_transport_2 = {
+	area = personal_transport
+	year = 1770
+	cost = 7200
+	
+	ai_chance = {
+		factor = 1.05
+		modifier = {
+			factor = 50
+			OR = {
+				tag = NGF
+				tag = GER
+				tag = PRU
+			}
+		}
+		modifier = {
+			factor = 1.2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 10
+		}
+		modifier = {
+			factor = 2
+			year = 1850
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 50
+		}
+	}	
+}
+personal_transport_3 = {
+	area = personal_transport
+	year = 1785
+	cost = 10800
+
+	ai_chance = {
+		factor = 1.05
+		modifier = {
+			factor = 1.2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 100
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 150
+		}
+	}	
+}
+personal_transport_4 = {
+	area = personal_transport
+	year = 1805
+	cost = 14400
+
+
+
+	ai_chance = {
+		factor = 1.05
+		modifier = {
+			factor = 1.2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 200
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 250
+		}
+	}	
+}
+personal_transport_5 = {
+	area = personal_transport
+	year = 1820
+	cost = 18000
+
+
+
+	ai_chance = {
+		factor = 1.05
+		modifier = {
+			factor = 1.2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 400
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 500
+		}
+	}	
+}
+personal_transport_6 = {
+	area = personal_transport
+	year = 1840
+	cost = 21600
+
+
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 1.2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 1000
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 1500
+		}
+	}	
+}
+personal_transport_7 = {
+	area = personal_transport
+	year = 1860
+	cost = 21600
+
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 1.2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 1000
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 1500
+		}
+	}		
+}
+
+personal_transport_8 = {
+	area = personal_transport
+	year = 1875
+	cost = 21600
+
+	influence = 0.2
+
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 1.2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 1000
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 1500
+		}
+	}		
+}
+
+personal_transport_9 = {
+	area = personal_transport
+	year = 1895
+	cost = 21600
+
+
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 1.2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 1000
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 1500
+		}
+	}	
+	
+}
+
+personal_transport_10 = {
+	area = personal_transport
+	year = 1915
+	cost = 21600
+
+
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 1.2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 1000
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 1500
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = commerce_tech_school
+		}
+	}		
+}
+
+
+
+#medicine
+medicine_1 = {
+	area = medicine
+	year = 1750
+	cost = 3600
+
+	ai_chance = {
+		factor = 1.03
+		modifier = {
+			factor = 1.2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 10
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 50
+		}
+		modifier = {
+			factor = 1.25
+			literacy = 0.3 
+		}
+		modifier = {
+			factor = 1.5
+			literacy = 0.6
+		}		
+	}	
+}
+medicine_2 = {
+	area = medicine
+	year = 1770
+	cost = 7200
+
+
+		ai_chance = {
+		factor = 1.03
+		modifier = {
+			factor = 50
+			OR = {
+				tag = NGF
+				tag = GER
+				tag = PRU
+			}
+		}
+		modifier = {
+			factor = 1.2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.05
+			literacy = 0.3 
+		}
+		modifier = {
+			factor = 1.25
+			literacy = 0.6
+		}		
+		modifier = {
+			factor = 1.2
+			industrial_score = 100
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 150
+		}
+	}	
+}
+medicine_3 = {
+	area = medicine
+	year = 1785
+	cost = 10800
+
+	factory_output = 0.01
+	ai_chance = {
+		factor = 1.03
+		modifier = {
+			factor = 1.2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.05
+			literacy = 0.3 
+		}
+		modifier = {
+			factor = 1.05
+			literacy = 0.6
+		}		
+		modifier = {
+			factor = 1.2
+			industrial_score = 200
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 250
+		}
+	}	
+}
+
+medicine_4 = {
+	area = medicine
+	year = 1805
+	cost = 14400
+
+
+	ai_chance = {
+		factor = 1.03
+		modifier = {
+			factor = 1.2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 300
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 400
+		}
+	}	
+}
+management_strategy = {
+	area = medicine
+	year = 1820
+	cost = 18000
+
+
+	ai_chance = {
+		factor = 1.03
+		modifier = {
+			factor = 1.2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 500
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 750
+		}
+	}	
+}
+organizational_development = {
+	area = medicine
+	year = 1840
+	cost = 21600
+
+	ai_chance = {
+		factor = 1.03
+		modifier = {
+			factor = 1.2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 1000
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 1500
+		}
+	}	
+}
+
+medicine_7 = {
+	area = medicine
+	year = 1860
+	cost = 21600
+
+
+	ai_chance = {
+		factor = 1.03
+		modifier = {
+			factor = 1.2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 1000
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 1500
+		}
+	}	
+}
+
+
+medicine_8 = {
+	area = medicine
+	year = 1875
+	cost = 21600
+
+
+	ai_chance = {
+		factor = 1.03
+		modifier = {
+			factor = 1.2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 1000
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 1500
+		}
+	}	
+}
+
+
+medicine_9 = {
+	area = medicine
+	year = 1895
+	cost = 21600
+
+
+	ai_chance = {
+		factor = 1.03
+		modifier = {
+			factor = 1.2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 1000
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 1500
+		}
+	}	
+}
+
+
+medicine_10 = {
+	area = medicine
+	year = 1915
+	cost = 21600
+
+	factory_output = 0.01
+	ai_chance = {
+		factor = 1.03
+		modifier = {
+			factor = 1.2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 1000
+		}
+		modifier = {
+			factor = 1.2
+			industrial_score = 1500
+		}
+	}	
+}
+

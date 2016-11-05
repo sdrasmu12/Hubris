@@ -1,0 +1,9 @@
+owner = POL
+add_core = POL
+controller = POL
+
+add_core = GER
+add_core = PZN
+trade_goods = grain
+life_rating = 40
+1861.1.1 = { railroad = 3 }

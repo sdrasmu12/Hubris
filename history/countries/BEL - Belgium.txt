@@ -1,0 +1,168 @@
+capital = 387
+primary_culture = wallonian
+culture = flemish
+culture = picard
+religion = catholic
+government = hms_government
+plurality = 25.0
+nationalvalue = nv_liberty
+literacy = 0.45
+non_state_culture_literacy = 0.5 #Germans/Dutch
+civilized = yes
+prestige = 5
+
+# Political reforms
+slavery = no_slavery
+upper_house_composition = state_equal_weight
+vote_franschise = wealth_voting
+public_meetings = yes_meeting
+press_rights = free_press
+trade_unions = no_trade_unions
+voting_system = jefferson_method
+political_parties = non_secret_ballots
+
+# Social Reforms
+wage_reform = no_minimum_wage
+work_hours = fourteen_hours
+safety_regulations = trinket_safety
+health_care = trinket_health_care
+unemployment_subsidies = no_subsidies
+pensions = no_pensions 
+school_reforms = no_schools
+
+#New Reforms
+conscription = mandatory_service
+debt_law = debtors_prisons
+penal_system = capital_punishment
+child_labor = child_labor_legalcitizens_rights = culture_voting_only
+border_policy = open_borders
+
+ruling_party = BEL_conservative
+last_election = 1834.1.1
+upper_house = {
+	fascist = 0
+	liberal = 35
+	conservative = 55
+	reactionary = 10
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
+}
+
+
+# Technologies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+high_pressure_steam_engine = 1
+puddling = 1
+interchangeable_parts = 1
+
+#Inventions
+
+# Starting Consciousness
+consciousness = 4
+nonstate_consciousness = 2
+
+oob = "BEL_oob.txt"
+1861.1.1 = {
+	oob = "/1861/BEL_oob.txt"
+	plurality = 60
+	literacy = 0.65
+	non_state_culture_literacy = 0.65
+}
+1861.1.1 = {
+ruling_party = BEL_liberal
+
+# Technologies
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	positivism = 1
+	
+	ideological_thought = 1
+	state_n_government = 1
+	nationalism_n_imperialism = 1
+	
+	associationism = 1
+	phenomenalism = 1
+	
+	
+	high_pressure_steam_engine = 1
+	compound_steam_engines = 1
+	
+	interchangeable_parts = 1
+	semi_automatization = 1
+	
+	hot_blast = 1
+	puddling = 1
+	bessemer_process = 1
+	
+	early_railroad = 1
+	iron_railroad = 1
+	
+	medicine = 1
+	inorganic_chemistry = 1
+
+#Inventions
+}

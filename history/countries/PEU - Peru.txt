@@ -1,0 +1,124 @@
+capital = 2295
+primary_culture = south_andean
+religion = catholic
+government = presidential_dictatorship
+plurality = 25.0
+nationalvalue = nv_productivity
+literacy = 0.09
+non_state_culture_literacy = 0.01
+civilized = yes
+
+
+# Political reforms
+slavery = yes_slavery
+upper_house_composition = appointed
+vote_franschise = none_voting
+public_meetings = yes_meeting
+press_rights = state_press
+trade_unions = no_trade_unions
+voting_system = first_past_the_post
+political_parties = underground_parties
+
+# Social Reforms
+wage_reform = no_minimum_wage
+work_hours = no_work_hour_limit
+safety_regulations = no_safety
+health_care = no_health_care
+unemployment_subsidies = no_subsidies
+pensions = no_pensions 
+school_reforms = no_schools
+
+# New Reforms
+conscription = four_year_draft
+debt_law = peonage
+penal_system = capital_punishment
+child_labor = child_labor_legalcitizens_rights = culture_voting_only
+border_policy = open_borders
+
+ruling_party = PEU_conservative
+upper_house = {
+	fascist = 0
+	liberal = 29
+	conservative = 57
+	reactionary = 14
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
+}
+
+#PEU_1836_setup
+
+# Technologies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Inventions
+
+#Starting Consciousness
+consciousness = 2
+nonstate_consciousness = 0
+
+oob = "PEU_oob.txt"
+1861.1.1 = {
+	oob = "/1861/PEU_oob.txt"
+	set_country_flag = peru_reunited
+}
+1861.1.1 = {
+
+plurality = 50
+# Technologies
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	 
+	
+
+	
+	
+	
+	
+	positivism = 1
+	
+	ideological_thought = 1
+	
+	
+	
+	high_pressure_steam_engine = 1
+	
+	
+	
+	
+	medicine = 1
+
+#Inventions
+}

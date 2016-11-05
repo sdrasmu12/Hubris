@@ -1,0 +1,6 @@
+owner = CLM
+controller = CLM
+add_core = ECU
+trade_goods = timber
+terrain = montane_forest
+life_rating = 32

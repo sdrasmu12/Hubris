@@ -1,0 +1,925 @@
+#diplomacy
+diplomacy_1 = {
+	area = diplomacy
+	year = 1750
+	cost = 3600
+
+	prestige = 0.075
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 3
+			rank = 12
+			NOT = { rank = 6 }
+		}
+		modifier = {
+			factor = 0.5
+			not = { literacy = 0.3 }
+		}
+	}
+}
+
+diplomacy_2 = {
+	area = diplomacy
+	year = 1770
+	cost = 7200
+	
+
+
+	ai_chance = {
+		factor = 1.05
+		modifier = {
+			factor = 0.5
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 0.1
+			not = { literacy = 0.5  }
+			is_greater_power = no
+		}			
+		modifier = {
+			factor = 1.05
+			literacy = 0.6
+		}		
+	}
+}
+
+diplomacy_3 = {
+	area = diplomacy
+	year = 1785
+	cost = 10800
+
+	ai_chance = {
+		factor = 1.05
+		modifier = {
+			factor = 0.1
+			not = { literacy = 0.3  }
+			is_greater_power = no
+		}			
+		modifier = {
+			factor = 1.05
+			literacy = 0.6
+		}		
+	}
+}
+diplomacy_4 = {
+	area = diplomacy
+	year = 1805
+	cost = 14400
+
+
+	ai_chance = {
+		factor = 1.05
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 0.1
+			not = { literacy = 0.4  }
+			is_greater_power = no
+		}			
+		modifier = {
+			factor = 1.05
+			literacy = 0.6
+		}		
+	}
+}
+diplomacy_5 = {
+	area = diplomacy
+	year = 1820
+	cost = 18000
+
+
+	ai_chance = {
+		factor = 1.05
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 0.1
+			not = { literacy = 0.5  }
+			is_greater_power = no
+		}			
+		modifier = {
+			factor = 1.05
+			literacy = 0.6
+		}		
+	}
+}
+diplomacy_6 = {
+	area = diplomacy
+	year = 1840
+	cost = 21600
+
+
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 0.1
+			not = { literacy = 0.5  }
+			is_greater_power = no
+		}			
+		modifier = {
+			factor = 1.05
+			literacy = 0.6
+		}		
+	}
+}
+
+diplomacy_7 = {
+	area = diplomacy
+	year = 1860
+	cost = 21600
+
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 0.1
+			not = { literacy = 0.5  }
+			is_greater_power = no
+		}			
+		modifier = {
+			factor = 1.05
+			literacy = 0.6
+		}		
+	}
+}
+
+diplomacy_8 = {
+	area = diplomacy
+	year = 1875
+	cost = 21600
+
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 0.1
+			not = { literacy = 0.5  }
+			is_greater_power = no
+		}			
+		modifier = {
+			factor = 1.05
+			literacy = 0.6
+		}		
+	}
+}
+
+diplomacy_9 = {
+	area = diplomacy
+	year = 1895
+	cost = 21600
+
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 0.1
+			not = { literacy = 0.5  }
+			is_greater_power = no
+		}			
+		modifier = {
+			factor = 1.05
+			literacy = 0.6
+		}		
+	}
+}
+
+diplomacy_10 = {
+	area = diplomacy
+	year = 1915
+	cost = 21600
+
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 0.1
+			not = { literacy = 0.5  }
+			is_greater_power = no
+		}			
+		modifier = {
+			factor = 1.05
+			literacy = 0.6
+		}		
+	}
+}
+
+
+#taxation
+taxation_1 = {
+	area = taxation
+	year = 1750
+	cost = 3600
+
+
+	increase_research = 0.50
+	
+	ai_chance = {
+		factor = 150
+		modifier = {
+			factor = 6
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.1
+			year = 1840
+		}
+	}
+}
+taxation_2 = {
+	area = taxation
+	year = 1770
+	cost = 7200
+
+	ai_chance = {
+		factor = 150
+		modifier = {
+			factor = 6
+			is_greater_power = yes
+		}
+	}
+}
+
+taxation_3 = {
+	area = taxation
+	year = 1785
+	cost = 10800
+	
+	ai_chance = {
+		factor = 150
+		modifier = {
+			factor = 6
+			is_greater_power = yes
+		}
+	}
+}
+
+taxation_4 = {
+	area = taxation
+	year = 1805
+	cost = 14400
+
+
+	ai_chance = {
+		factor = 150
+		modifier = {
+			factor = 6
+			is_greater_power = yes
+		}
+	}
+}
+taxation_5 = {
+	area = taxation
+	year = 1820
+	cost = 18000
+
+	ai_chance = {
+		factor = 150
+		modifier = {
+			factor = 6
+			is_greater_power = yes
+		}
+	}
+}
+taxation_6 = {
+	area = taxation
+	year = 1840
+	cost = 21600
+
+	ai_chance = {
+		factor = 100
+		modifier = {
+			factor = 6
+			is_greater_power = yes
+		}
+	}
+}
+
+taxation_7 = {
+	area = taxation
+	year = 1860
+	cost = 21600
+
+	ai_chance = {
+		factor = 100
+		modifier = {
+			factor = 6
+			is_greater_power = yes
+		}
+	}
+}
+
+taxation_8 = {
+	area = taxation
+	year = 1875
+	cost = 21600
+
+	ai_chance = {
+		factor = 100
+		modifier = {
+			factor = 6
+			is_greater_power = yes
+		}
+	}
+}
+
+taxation_9 = {
+	area = taxation
+	year = 1895
+	cost = 21600
+
+	ai_chance = {
+		factor = 100
+		modifier = {
+			factor = 6
+			is_greater_power = yes
+		}
+	}
+}
+
+taxation_10 = {
+	area = taxation
+	year = 1915
+	cost = 21600
+
+	
+	ai_chance = {
+		factor = 100
+		modifier = {
+			factor = 6
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.1
+			year = 1905
+		}
+		modifier = {
+			factor = 2
+			year = 1910
+		}
+	}
+}
+
+
+
+#administration
+administration_1 = {
+	area = administration
+	year = 1750
+	cost = 3600
+
+	
+	ai_chance = {
+		factor = 1.05
+		modifier = {
+			factor = 2 #2
+			not = { literacy = 0.75 }
+		}
+		modifier = {
+			factor = 2 #2
+			not = { literacy = 0.50 }
+		}
+		modifier = {
+			factor = 2 #4
+			not = { literacy = 0.25 }
+		}
+	}
+}
+
+administration_2 = {
+	area = administration
+	year = 1770
+	cost = 7200
+
+	ai_chance = {
+		factor = 1.05
+		modifier = {
+			factor = 2 #2
+			not = { literacy = 0.75 }
+		}
+		modifier = {
+			factor = 2 #2
+			not = { literacy = 0.50 }
+		}
+		modifier = {
+			factor = 2 #2
+			not = { literacy = 0.25 }
+		}
+	}
+
+}
+administration_3 = {
+	area = administration
+	year = 1785
+	cost = 10800
+
+
+	ai_chance = {
+		factor = 1.05
+		modifier = {
+			factor = 2 #2
+			not = { literacy = 0.75 }
+		}
+		modifier = {
+			factor = 2 #2
+			not = { literacy = 0.50 }
+		}
+		modifier = {
+			factor = 2 #2
+			not = { literacy = 0.25 }
+		}
+	}
+}
+administration_4 = {
+	area = administration
+	year = 1805
+	cost = 14400
+
+	ai_chance = {
+		factor = 1.05
+		modifier = {
+			factor = 2 #2
+			not = { literacy = 0.75 }
+		}
+		modifier = {
+			factor = 2 #2
+			not = { literacy = 0.50 }
+		}
+		modifier = {
+			factor = 2 #2
+			not = { literacy = 0.25 }
+		}
+	}
+
+}
+
+administration_5 = {
+	area = administration
+	year = 1820
+	cost = 18000
+
+
+	ai_chance = {
+		factor = 1.05
+		modifier = {
+			factor = 2 #2
+			not = { literacy = 0.75 }
+		}
+		modifier = {
+			factor = 2 #2
+			not = { literacy = 0.50 }
+		}
+		modifier = {
+			factor = 2 #2
+			not = { literacy = 0.25 }
+		}
+	}
+
+}
+administration_6 = {
+	area = administration
+	year = 1840
+	cost = 21600
+	
+
+	ai_chance = {
+		factor = 1.05
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 2 #2
+			not = { literacy = 0.75 }
+		}
+		modifier = {
+			factor = 2 #2
+			not = { literacy = 0.50 }
+		}
+		modifier = {
+			factor = 2 #2
+			not = { literacy = 0.25 }
+		}
+	}
+
+}
+administration_7 = {
+	area = administration
+	year = 1860
+	cost = 21600
+	
+	
+	ai_chance = {
+		factor = 1.05
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 2 #2
+			not = { literacy = 0.75 }
+		}
+		modifier = {
+			factor = 2 #2
+			not = { literacy = 0.50 }
+		}
+		modifier = {
+			factor = 2 #2
+			not = { literacy = 0.25 }
+		}
+	}
+
+}
+
+administration_8 = {
+	area = administration
+	year = 1875
+	cost = 21600
+
+	ai_chance = {
+		factor = 1.05
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 2 #2
+			not = { literacy = 0.75 }
+		}
+		modifier = {
+			factor = 2 #2
+			not = { literacy = 0.50 }
+		}
+		modifier = {
+			factor = 2 #2
+			not = { literacy = 0.25 }
+		}
+	}
+
+}
+
+administration_9 = {
+	area = administration
+	year = 1895
+	cost = 21600
+
+	ai_chance = {
+		factor = 1.05
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 2 #2
+			not = { literacy = 0.75 }
+		}
+		modifier = {
+			factor = 2 #2
+			not = { literacy = 0.50 }
+		}
+		modifier = {
+			factor = 2 #2
+			not = { literacy = 0.25 }
+		}
+	}
+
+}
+
+administration_10 = {
+	area = administration
+	year = 1915
+	cost = 21600
+	
+
+	ai_chance = {
+		factor = 1.05
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 2 #2
+			not = { literacy = 0.75 }
+		}
+		modifier = {
+			factor = 2 #2
+			not = { literacy = 0.50 }
+		}
+		modifier = {
+			factor = 2 #2
+			not = { literacy = 0.25 }
+		}
+	}
+
+}
+
+
+#education
+education_1 = {
+	area = education
+	year = 1750
+	cost = 3600
+
+	max_national_focus = 1
+	
+	ai_chance = {
+		factor = 1
+		modifier = {
+			factor = 1.02
+			tech_school = culture_tech_school
+		}
+	}
+}
+education_2 = {
+	area = education
+	year = 1770
+	cost = 7200
+
+
+		
+	ai_chance = {
+		factor = 11
+		modifier = {
+			factor = 6
+			is_greater_power = yes
+		}
+	}
+}
+education_3 = {
+	area = education
+	year = 1785
+	cost = 10800
+
+
+	ai_chance = {
+		factor = 11
+		modifier = {
+			factor = 3.5
+			is_greater_power = yes
+		}
+	}
+}
+education_4 = {
+	area = education
+	year = 1805
+	cost = 14400
+
+	
+	ai_chance = {
+		factor = 20
+		modifier = {
+			factor = 21
+			is_greater_power = yes
+		}
+	}	
+}
+education_5 = {
+	area = education
+	year = 1820
+	cost = 18000
+
+	ai_chance = {
+		factor = 1.1
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+		}
+	}
+}
+education_6 = {
+	area = education
+	year = 1840
+	cost = 21600
+
+	ai_chance = {
+		factor = 1.1
+	}	
+}
+
+education_7 = {
+	area = education
+	year = 1860
+	cost = 21600
+
+	max_national_focus = 1 
+	ai_chance = {
+		factor = 1.1
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+		}
+	}	
+}
+
+education_8 = {
+	area = education
+	year = 1875
+	cost = 21600
+
+	
+	ai_chance = {
+		factor = 1.1
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+		}
+	}	
+}
+
+education_9 = {
+	area = education
+	year = 1895
+	cost = 21600
+
+
+	ai_chance = {
+		factor = 1.1
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+		}
+	}	
+}
+
+education_10 = {
+	area = education
+	year = 1915
+	cost = 21600
+
+	ai_chance = {
+		factor = 1.1
+		modifier = {
+			factor = 1.5
+			is_greater_power = yes
+		}
+	}	
+}
+
+#intervention 
+intervention_1 = {
+	area = intervention
+	year = 1750
+	cost = 3600
+
+
+	
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 1.05 #1.25
+			is_greater_power = yes
+		}
+	}
+
+}
+intervention_2 = {
+	area = intervention
+	year = 1770
+	cost = 7200
+
+	
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 1.05
+			is_greater_power = yes
+		}
+	}
+}
+intervention_3 = {
+	area = intervention
+	year = 1785
+	cost = 10800
+
+	
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 1.05 #1.25
+			is_greater_power = yes
+		}
+	}
+}
+intervention_4 = {
+	area = intervention
+	year = 1805
+	cost = 14400
+
+	
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 1.05 #1.25
+			is_greater_power = yes
+		}
+	}
+}
+intervention_5 = {
+	area = intervention
+	year = 1820
+	cost = 18000
+
+	
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 1.05 #1.25
+			is_greater_power = yes
+		}
+	}
+
+}
+intervention_6 = {
+	area = intervention
+	year = 1840
+	cost = 21600
+
+	
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 1.25
+			is_greater_power = yes
+		}
+	}
+}
+
+intervention_7 = {
+	area = intervention
+	year = 1860
+	cost = 21600
+
+	
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 1.25
+			is_greater_power = yes
+		}
+	}
+}
+
+intervention_8 = {
+	area = intervention
+	year = 1875
+	cost = 21600
+
+	
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 1.25
+			is_greater_power = yes
+		}
+	}
+}
+
+intervention_9 = {
+	area = intervention
+	year = 1895
+	cost = 21600
+
+	
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 1.25
+			is_greater_power = yes
+		}
+	}
+}
+
+intervention_10 = {
+	area = intervention
+	year = 1915
+	cost = 21600
+
+
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 1.25
+			is_greater_power = yes
+		}
+	}
+}

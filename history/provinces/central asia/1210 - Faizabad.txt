@@ -1,0 +1,6 @@
+owner = KOK
+controller = KOK
+add_core = BDK
+add_core = AFG
+trade_goods = wool
+life_rating = 35

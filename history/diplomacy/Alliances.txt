@@ -1,0 +1,25 @@
+#Anglo Alliances
+alliance = {
+	first = ENG
+	second = POR
+	start_date = 1386.9.5
+	end_date = 1936.1.1
+}
+alliance = {
+	first = ENG
+	second = AUS
+	start_date = 1386.9.5
+	end_date = 1936.1.1
+}
+alliance = {
+	first = FRA
+	second = SPA
+	start_date = 1386.9.5
+	end_date = 1936.1.1
+}
+alliance = {
+	first = FRA
+	second = AUS
+	start_date = 1386.9.5
+	end_date = 1936.1.1
+}

@@ -1,0 +1,7 @@
+owner = POL
+add_core = POL
+controller = POL
+
+add_core = UKR
+trade_goods = grain
+life_rating = 35

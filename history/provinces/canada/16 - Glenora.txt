@@ -1,0 +1,7 @@
+
+
+
+trade_goods = timber
+terrain = montane_tundra
+life_rating = 20
+colonial = 2

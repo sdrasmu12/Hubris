@@ -1,0 +1,8 @@
+owner = POL
+add_core = POL
+controller = POL
+
+add_core = LIT
+add_core = BYE
+trade_goods = grain
+life_rating = 35

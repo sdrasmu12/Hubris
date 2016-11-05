@@ -1,0 +1,31 @@
+owner = USA
+
+controller = USA
+
+add_core = USA
+add_core = NEN
+trade_goods = grain
+life_rating = 35
+naval_base = 1
+
+party_loyalty = {
+	ideology = conservative
+	loyalty_value = 10
+}
+party_loyalty = {
+	ideology = liberal
+	loyalty_value = 30
+}
+
+	level = 2
+	building = canned_food_factory
+	upgrade = yes
+}
+	level = 1
+	building = glass_factory
+	upgrade = yes
+}
+1861.1.1 = { 
+	railroad = 3 
+	naval_base = 2
+}

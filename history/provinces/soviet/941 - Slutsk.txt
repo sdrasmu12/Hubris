@@ -1,0 +1,7 @@
+owner = POL
+add_core = POL
+controller = POL
+
+add_core = BYE
+trade_goods = cattle
+life_rating = 15
