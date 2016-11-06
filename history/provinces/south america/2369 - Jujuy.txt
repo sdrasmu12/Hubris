@@ -1,6 +1,9 @@
 owner = PEU
-controller = ARC
-add_core = ARCtrade_goods = wool
+
+controller = PEU
+
+add_core = ARC
+trade_goods = wool
 life_rating = 30
 1861.1.1 = { 
 	owner = ARG

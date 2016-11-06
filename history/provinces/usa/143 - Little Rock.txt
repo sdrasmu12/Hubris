@@ -1,6 +1,8 @@
 owner = QUE
-controller = USA
-add_core = USA 
+
+controller = QUE
+
+add_core = USA 
 trade_goods = cotton
 life_rating = 35
 colonial = 2

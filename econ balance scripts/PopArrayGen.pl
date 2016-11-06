@@ -1,6 +1,10 @@
 #!/usr/bin/perl
 use Modern::Perl;
 use Data::Dumper;
+use List::Util;
+use YAML::XS qw(Load Dump);
+use File::Slurp qw(read_file write_file);
+
 # Define Useful Hashes
 my %fullname;
 # ID -> Subfolder
@@ -34,6 +38,7 @@ foreach my $sfolder (@subfolders){
 		$fullname{$provid} = $sfolder;
 	};
 };
+
 #Iterate over all provinces
 foreach my $key (keys %fullname){
 		# Open Each Province History File
@@ -43,11 +48,12 @@ foreach my $key (keys %fullname){
 	
 		
 		while (my $row = <$fh>) {
+			$row =~ s/\r/\n/g;
 			chomp $row;
 			# Establish Owner Create Hash linking Owner to ProvID
-			my $owner;
 			if ($row =~ m/^owner = .../){
-				$owner = substr($row, -3);
+				my @ownerline = split / /, $row;
+				my $owner = $ownerline[2];
 				$idstoowner{$key} = $owner;
 			};
 			# Establish trade_good Create Hash linking trade_good to ProvID
@@ -60,14 +66,19 @@ foreach my $key (keys %fullname){
 			};
 			# Establish life_ratong Create Hash linking life_rating to ProvID
 			my $life_rating;
+			my $life_rating1;
 			my @life_ratingline;
 			if ($row =~ m/^life_rating = /){
 				my @life_ratingline = split / /, $row;
-				$life_rating = $life_ratingline[2];
+				$life_rating1 = $life_ratingline[2];
+				$life_rating = substr($life_rating1, 0, 2);
 				$idstolife_rating{$key} = $life_rating;
 			};
 		};
+		# If there was no owner tag the owner ZZZ
+		unless (defined $idstoowner{$key}){$idstoowner{$key} = 'ZZZ'};
 };
+
 
 # Connect pops to province ID 
 #Creates Array of Arrays
@@ -91,12 +102,15 @@ foreach my $txt(@poptxt) {
 	my $religion;
 	my $size;
 	my @pop;
+	my $rowcnt;
 	while (my $row = <$fh>){
+		$rowcnt++;
 		# Strip out comments
 		$row =~ s/^#.*//;
 		# Extract and set province ID
-		if ( $row =~ m/\d{1,4} =*/ ){
-			($id) = $row =~ m/\d{1,4}/g;
+		if ( $row =~ m/^\d{1,4} = \{/ ){
+			my @idline = split(' ', $row);
+			$id = $idline[0];
 			@pop[0] = $id;
 		};
 		#set poptype
@@ -118,11 +132,30 @@ foreach my $txt(@poptxt) {
 		if ( $row =~ m/size = */ ){
 			($size) = $row =~ m/\d{1,15}/g;
 			@pop[4] = $size;
+			@pop[5] = $idstoowner{$id};
+			my $ownercheck = $idstoowner{$id};
+			@pop[6] = $idstotrade_good{$id};
+			my $goodcheck = $idstotrade_good{$id};
+			@pop[7] = $idstolife_rating{$id};
+			my $ratingcheck = $idstolife_rating{$id};
+			my @tocheck = ($id, $poptype, $culture, $religion, $size, $ownercheck, $goodcheck, $ratingcheck);
+			# check if any relevant values are undefined and print the file and row number
+			if (undef @tocheck[0 .. 7]){
+				say "$txt, $rowcnt";
+			};
 			push @poparray, [ @pop ];
 		};
 	}
 }
-print Dumper(\@poparray);
+
+
+{
+    my $yaml = Dump \@poparray;
+    write_file('PopArray.yml', { binmode => ':raw' }, $yaml);
+}
+
+
+
 
 
 

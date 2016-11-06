@@ -1,0 +1,287 @@
+---
+aristocrats:
+  everyday:
+    coal: 5
+    coffee: 5
+    luxury_clothes: 3
+    luxury_furniture: 3
+    paper: 10
+    tea: 5
+    tobacco: 10
+    wine: 10
+  life:
+    cattle: 3
+    fish: 4
+    fruit: 4
+    grain: 10
+    wool: 4
+  luxury:
+    ammunition: 1
+    canned_food: 1.5
+    clipper_convoy: 2
+    fruit: 5
+    opium: 10
+    small_arms: 1
+    steamer_convoy: 2
+    wool: 10
+artisans:
+  everyday:
+    coal: 1
+    coffee: 2
+    furniture: 4
+    glass: 1
+    liquor: 5
+    paper: 5
+    regular_clothes: 5
+    tea: 5
+    tobacco: 3
+  life:
+    cattle: 0.75
+    fish: 1
+    fruit: 1
+    grain: 2.5
+    wool: 1
+  luxury:
+    canned_food: 0.75
+    fruit: 1
+    luxury_clothes: 1
+    luxury_furniture: 1
+    opium: 1
+    wool: 3
+bureaucrats:
+  everyday:
+    cement: 0.5
+    coal: 2
+    coffee: 2
+    furniture: 4
+    glass: 1
+    liquor: 4
+    paper: 5
+    regular_clothes: 5
+    steel: 1
+    tea: 5
+    tobacco: 3
+  life:
+    cattle: 1.5
+    fish: 2
+    fruit: 2
+    grain: 5
+    wool: 2
+  luxury:
+    canned_food: 0.75
+    fruit: 1
+    luxury_clothes: 1
+    luxury_furniture: 1.5
+    opium: 1
+    wine: 10
+    wool: 3
+capitalists:
+  everyday:
+    coal: 20
+    coffee: 20
+    luxury_clothes: 20
+    luxury_furniture: 20
+    paper: 20
+    tea: 10
+    tobacco: 20
+    wine: 20
+  life:
+    cattle: 3
+    fish: 4
+    fruit: 4
+    grain: 10
+    wool: 4
+  luxury:
+    ammunition: 1
+    canned_food: 2
+    clipper_convoy: 2
+    fruit: 10
+    oil: 10
+    opium: 20
+    rubber: 10
+    small_arms: 1
+    steamer_convoy: 2
+    wool: 20
+clergymen:
+  everyday:
+    coal: 2
+    coffee: 2
+    furniture: 4
+    glass: 1
+    liquor: 4
+    paper: 5
+    regular_clothes: 5
+    tea: 5
+    tobacco: 3
+  life:
+    cattle: 1.5
+    fish: 2
+    fruit: 2
+    grain: 5
+    wool: 2
+  luxury:
+    canned_food: 0.75
+    fruit: 1
+    luxury_clothes: 1
+    luxury_furniture: 1.5
+    opium: 1
+    wine: 10
+    wool: 3
+clerks:
+  everyday:
+    coal: 2
+    coffee: 1
+    furniture: 3
+    liquor: 2.5
+    regular_clothes: 3
+    tea: 4
+    tobacco: 1
+  life:
+    cattle: 0.75
+    fish: 1
+    fruit: 1
+    grain: 2.5
+    wool: 1
+  luxury:
+    canned_food: 0.75
+    fruit: 1
+    luxury_clothes: 1
+    luxury_furniture: 1.5
+    opium: 1
+    paper: 5
+    wine: 10
+    wool: 3
+craftsmen:
+  everyday:
+    coal: 1
+    coffee: 1
+    furniture: 3
+    liquor: 2.5
+    regular_clothes: 3
+    tea: 4
+    tobacco: 1
+  life:
+    cattle: 0.75
+    fish: 1
+    fruit: 1
+    grain: 2.5
+    wool: 1
+  luxury:
+    furniture: 3
+    paper: 1
+    regular_clothes: 3
+farmers:
+  everyday:
+    coal: 1
+    coffee: 1
+    fertilizer: 0.5
+    furniture: 1.1
+    liquor: 2.5
+    regular_clothes: 1.2
+    tea: 4
+    tobacco: 1
+  life:
+    cattle: 1
+    fish: 1
+    fruit: 1
+    grain: 2.5
+    wool: 1
+  luxury:
+    furniture: 3
+    paper: 1
+    regular_clothes: 3
+labourers:
+  everyday:
+    coal: 1
+    coffee: 1
+    explosives: 0.25
+    furniture: 1.1
+    liquor: 2.5
+    regular_clothes: 1.2
+    tea: 4
+    tobacco: 1
+  life:
+    cattle: 0.75
+    fish: 1
+    fruit: 1
+    grain: 2.5
+    wool: 1.72
+  luxury:
+    furniture: 3
+    paper: 1
+    regular_clothes: 3
+officers:
+  everyday:
+    ammunition: 0.5
+    coal: 2
+    coffee: 2
+    furniture: 4
+    glass: 1
+    liquor: 4
+    paper: 5
+    regular_clothes: 5
+    small_arms: 0.4
+    tea: 5
+    tobacco: 3
+  life:
+    cattle: 1.5
+    fish: 2
+    fruit: 2
+    grain: 5
+    wool: 2
+  luxury:
+    canned_food: 0.75
+    fruit: 1
+    luxury_clothes: 1
+    luxury_furniture: 1.5
+    opium: 1
+    wine: 10
+    wool: 3
+serfs:
+  everyday:
+    coal: 1
+    explosives: 0.25
+    fertilizer: 0.5
+    furniture: 1.1
+    liquor: 4
+    opium: 10
+    regular_clothes: 1.2
+    tea: 2
+    tobacco: 5
+  life:
+    cattle: 0.5
+    fish: 0.5
+    fruit: 0.5
+    grain: 1.25
+    wool: 0.5
+  luxury:
+    coffee: 3
+    furniture: 3
+    liquor: 1.5
+    opium: 2
+    paper: 1
+    regular_clothes: 3
+    tobacco: 3
+    wine: 1
+soldiers:
+  everyday:
+    ammunition: 0.5
+    coal: 1
+    coffee: 1
+    furniture: 2
+    liquor: 2
+    regular_clothes: 2
+    small_arms: 0.35
+    tea: 4
+    tobacco: 1
+  life:
+    cattle: 0.75
+    fish: 1
+    fruit: 1
+    grain: 2.5
+    wool: 1
+  luxury:
+    furniture: 3
+    liquor: 1.5
+    paper: 1
+    regular_clothes: 3

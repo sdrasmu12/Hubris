@@ -1,6 +1,6 @@
 owner = QUE
 controller = QUE
-add_core = USA
+add_core = USA
 trade_goods = grain
 life_rating = 35
 

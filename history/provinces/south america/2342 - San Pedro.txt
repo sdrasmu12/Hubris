@@ -1,3 +1,7 @@
-owner = PEU
+owner = PEU
+
 controller = PEU
-add_core = PRGtrade_goods = cattlelife_rating = 30
+
+add_core = PRG
+trade_goods = cattle
+life_rating = 30

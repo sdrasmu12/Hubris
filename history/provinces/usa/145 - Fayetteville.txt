@@ -1,5 +1,6 @@
 
-controller = USA 
+
+ 
  
 trade_goods = timber
 life_rating = 35

@@ -1,6 +1,6 @@
 
 
-add_core = USA
+
 trade_goods = coal
 life_rating = 35
 

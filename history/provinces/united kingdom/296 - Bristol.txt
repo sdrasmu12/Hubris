@@ -10,8 +10,7 @@ party_loyalty = {
 party_loyalty = {
 	ideology = conservative
 	loyalty_value = 25
-}
-
+}
 	level = 1
 	building = luxury_clothes_factory
 	upgrade = yes
