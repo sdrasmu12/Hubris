@@ -1,0 +1,2705 @@
+---
+'1': usa
+'10': canada
+'100': mexico
+'1000': soviet
+'1001': soviet
+'1002': central asia
+'1003': soviet
+'1004': soviet
+'1005': soviet
+'1006': soviet
+'1007': soviet
+'1008': soviet
+'1009': soviet
+'101': mexico
+'1010': soviet
+'1011': soviet
+'1012': soviet
+'1013': soviet
+'1014': soviet
+'1015': soviet
+'1016': soviet
+'1017': soviet
+'1018': soviet
+'1019': soviet
+'102': mexico
+'1020': soviet
+'1021': soviet
+'1022': soviet
+'1023': soviet
+'1024': soviet
+'1025': soviet
+'1026': soviet
+'1027': soviet
+'1028': soviet
+'1029': soviet
+'103': mexico
+'1030': soviet
+'1031': soviet
+'1032': soviet
+'1033': soviet
+'1034': soviet
+'1035': soviet
+'1036': soviet
+'1037': soviet
+'1038': soviet
+'1039': soviet
+'104': mexico
+'1040': soviet
+'1041': soviet
+'1042': soviet
+'1043': soviet
+'1044': soviet
+'1045': soviet
+'1046': soviet
+'1047': soviet
+'1048': soviet
+'1049': soviet
+'105': mexico
+'1050': soviet
+'1051': soviet
+'1052': soviet
+'1053': soviet
+'1054': soviet
+'1055': soviet
+'1056': soviet
+'1057': soviet
+'1058': soviet
+'1059': soviet
+'106': usa
+'1060': soviet
+'1061': soviet
+'1062': soviet
+'1063': soviet
+'1064': soviet
+'1065': soviet
+'1066': soviet
+'1067': soviet
+'1068': soviet
+'1069': soviet
+'107': usa
+'1070': soviet
+'1071': soviet
+'1072': soviet
+'1073': soviet
+'1074': soviet
+'1075': soviet
+'1076': soviet
+'1077': soviet
+'1078': soviet
+'1079': soviet
+'108': usa
+'1080': soviet
+'1081': soviet
+'1082': china
+'1083': china
+'1084': china
+'1085': china
+'1086': soviet
+'1087': soviet
+'1088': soviet
+'1089': soviet
+'109': usa
+'1090': soviet
+'1091': soviet
+'1092': soviet
+'1093': soviet
+'1094': central asia
+'1095': central asia
+'1096': balkan
+'1097': pacific island
+'1098': soviet
+'1099': soviet
+'11': canada
+'110': usa
+'1100': soviet
+'1101': soviet
+'1102': soviet
+'1103': soviet
+'1104': soviet
+'1105': soviet
+'1106': soviet
+'1107': soviet
+'1108': central asia
+'1109': central asia
+'111': usa
+'1110': central asia
+'1111': central asia
+'1112': central asia
+'1113': central asia
+'1114': central asia
+'1115': central asia
+'1116': central asia
+'1117': central asia
+'1118': central asia
+'1119': central asia
+'112': usa
+'1120': central asia
+'1121': central asia
+'1122': central asia
+'1123': central asia
+'1124': central asia
+'1125': central asia
+'1126': central asia
+'1127': central asia
+'1128': central asia
+'1129': central asia
+'113': usa
+'1130': central asia
+'1131': central asia
+'1132': central asia
+'1133': central asia
+'1134': central asia
+'1135': central asia
+'1136': central asia
+'1137': central asia
+'1138': central asia
+'1139': central asia
+'114': usa
+'1140': central asia
+'1141': central asia
+'1142': central asia
+'1143': central asia
+'1144': central asia
+'1145': central asia
+'1146': central asia
+'1147': central asia
+'1148': central asia
+'1149': central asia
+'115': usa
+'1150': central asia
+'1151': central asia
+'1152': central asia
+'1153': central asia
+'1154': central asia
+'1155': central asia
+'1156': central asia
+'1157': central asia
+'1158': central asia
+'1159': central asia
+'116': usa
+'1160': central asia
+'1161': central asia
+'1162': central asia
+'1163': central asia
+'1164': central asia
+'1165': central asia
+'1166': central asia
+'1167': central asia
+'1168': central asia
+'1169': central asia
+'117': usa
+'1170': central asia
+'1171': central asia
+'1172': central asia
+'1173': central asia
+'1174': central asia
+'1175': central asia
+'1176': central asia
+'1177': central asia
+'1178': central asia
+'1179': central asia
+'118': usa
+'1180': central asia
+'1181': soviet
+'1182': soviet
+'1183': soviet
+'1184': soviet
+'1185': central asia
+'1186': central asia
+'1187': soviet
+'1188': soviet
+'1189': central asia
+'119': usa
+'1190': central asia
+'1191': central asia
+'1192': central asia
+'1193': central asia
+'1194': soviet
+'1195': central asia
+'1196': central asia
+'1197': central asia
+'1198': central asia
+'1199': central asia
+'12': canada
+'120': usa
+'1200': central asia
+'1201': central asia
+'1202': central asia
+'1203': central asia
+'1204': central asia
+'1205': central asia
+'1206': central asia
+'1207': central asia
+'1208': central asia
+'1209': central asia
+'121': usa
+'1210': central asia
+'1211': central asia
+'1212': central asia
+'1213': central asia
+'1214': central asia
+'1215': central asia
+'1216': central asia
+'1217': central asia
+'1218': central asia
+'1219': central asia
+'122': usa
+'1220': central asia
+'1221': india
+'1222': central asia
+'1223': central asia
+'1224': india
+'1225': central asia
+'1226': central asia
+'1227': india
+'1228': india
+'1229': india
+'123': usa
+'1230': india
+'1231': india
+'1232': india
+'1233': india
+'1234': india
+'1235': india
+'1236': india
+'1237': india
+'1238': india
+'1239': india
+'124': usa
+'1240': india
+'1241': india
+'1242': india
+'1243': india
+'1244': india
+'1245': india
+'1246': india
+'1247': india
+'1248': india
+'1249': india
+'125': usa
+'1250': india
+'1251': india
+'1252': india
+'1253': india
+'1254': india
+'1255': india
+'1256': india
+'1257': india
+'1258': india
+'1259': india
+'126': usa
+'1260': india
+'1261': india
+'1262': india
+'1263': india
+'1264': india
+'1265': india
+'1266': india
+'1267': india
+'1268': india
+'1269': india
+'127': usa
+'1270': india
+'1271': india
+'1272': india
+'1273': india
+'1274': india
+'1275': india
+'1276': india
+'1277': india
+'1278': india
+'1279': india
+'128': usa
+'1280': india
+'1281': india
+'1282': india
+'1283': india
+'1284': india
+'1285': india
+'1286': india
+'1287': india
+'1288': central asia
+'1289': central asia
+'129': usa
+'1290': india
+'1291': india
+'1292': india
+'1293': india
+'1294': india
+'1295': india
+'1296': india
+'1297': india
+'1298': india
+'1299': india
+'13': canada
+'130': usa
+'1300': india
+'1301': india
+'1302': india
+'1303': india
+'1304': india
+'1305': india
+'1306': india
+'1307': india
+'1308': india
+'1309': india
+'131': usa
+'1310': india
+'1311': india
+'1312': india
+'1313': india
+'1314': india
+'1315': india
+'1316': india
+'1317': india
+'1318': india
+'1319': india
+'132': usa
+'1320': asia
+'1321': india
+'1322': india
+'1323': india
+'1324': india
+'1325': india
+'1326': asia
+'1327': asia
+'1328': india
+'1329': asia
+'133': usa
+'1330': asia
+'1331': asia
+'1332': asia
+'1333': asia
+'1334': asia
+'1335': asia
+'1336': asia
+'1337': asia
+'1338': asia
+'1339': asia
+'134': usa
+'1340': asia
+'1341': asia
+'1342': asia
+'1343': asia
+'1344': asia
+'1345': asia
+'1346': asia
+'1347': asia
+'1348': asia
+'1349': asia
+'135': usa
+'1350': asia
+'1351': asia
+'1352': asia
+'1353': asia
+'1354': asia
+'1355': asia
+'1356': asia
+'1357': asia
+'1358': asia
+'1359': asia
+'136': mexico
+'1360': asia
+'1361': asia
+'1362': asia
+'1363': asia
+'1364': asia
+'1365': asia
+'1366': asia
+'1367': asia
+'1368': asia
+'1369': asia
+'137': usa
+'1370': asia
+'1371': asia
+'1372': asia
+'1373': asia
+'1374': asia
+'1375': asia
+'1376': asia
+'1377': asia
+'1378': asia
+'1379': asia
+'138': mexico
+'1380': asia
+'1381': asia
+'1382': asia
+'1383': asia
+'1384': asia
+'1385': asia
+'1386': asia
+'1387': asia
+'1388': asia
+'1389': asia
+'139': usa
+'1390': asia
+'1391': asia
+'1392': asia
+'1393': asia
+'1394': asia
+'1395': asia
+'1396': asia
+'1397': asia
+'1398': indonesia
+'1399': indonesia
+'14': canada
+'140': usa
+'1400': indonesia
+'1401': indonesia
+'1402': indonesia
+'1403': indonesia
+'1404': indonesia
+'1405': indonesia
+'1406': indonesia
+'1407': indonesia
+'1408': indonesia
+'1409': indonesia
+'141': usa
+'1410': indonesia
+'1411': indonesia
+'1412': central asia
+'1413': indonesia
+'1414': indonesia
+'1415': indonesia
+'1416': indonesia
+'1417': indonesia
+'1418': indonesia
+'1419': indonesia
+'142': usa
+'1420': indonesia
+'1421': indonesia
+'1422': indonesia
+'1423': indonesia
+'1424': indonesia
+'1425': indonesia
+'1426': indonesia
+'1427': indonesia
+'1428': indonesia
+'1429': indonesia
+'143': usa
+'1430': indonesia
+'1431': indonesia
+'1432': indonesia
+'1433': indonesia
+'1434': indonesia
+'1435': indonesia
+'1436': indonesia
+'1437': indonesia
+'1438': indonesia
+'1439': indonesia
+'144': usa
+'1440': indonesia
+'1441': indonesia
+'1442': indonesia
+'1443': indonesia
+'1444': indonesia
+'1445': indonesia
+'1446': indonesia
+'1447': indonesia
+'1448': indonesia
+'1449': indonesia
+'145': usa
+'1450': indonesia
+'1451': indonesia
+'1452': indonesia
+'1453': indonesia
+'1454': indonesia
+'1455': indonesia
+'1456': indonesia
+'1457': indonesia
+'1458': indonesia
+'1459': indonesia
+'146': usa
+'1460': indonesia
+'1461': indonesia
+'1462': indonesia
+'1463': indonesia
+'1464': indonesia
+'1465': china
+'1466': china
+'1467': china
+'1468': china
+'1469': soviet
+'147': usa
+'1470': china
+'1471': china
+'1472': china
+'1473': china
+'1474': china
+'1475': china
+'1476': china
+'1477': china
+'1478': china
+'1479': china
+'148': usa
+'1480': china
+'1481': china
+'1482': china
+'1483': china
+'1484': china
+'1485': china
+'1486': china
+'1487': china
+'1488': china
+'1489': china
+'149': usa
+'1490': china
+'1491': china
+'1492': china
+'1493': china
+'1494': china
+'1495': china
+'1496': china
+'1497': china
+'1498': china
+'1499': china
+'15': canada
+'150': usa
+'1500': china
+'1501': china
+'1502': china
+'1503': china
+'1504': china
+'1505': china
+'1506': china
+'1507': china
+'1508': china
+'1509': china
+'151': usa
+'1510': china
+'1511': china
+'1512': china
+'1513': china
+'1514': china
+'1515': china
+'1516': china
+'1517': china
+'1518': china
+'1519': china
+'152': usa
+'1520': china
+'1521': china
+'1522': china
+'1523': china
+'1524': china
+'1525': china
+'1526': china
+'1527': china
+'1528': china
+'1529': china
+'153': usa
+'1530': china
+'1531': pacific island
+'1532': china
+'1533': china
+'1534': china
+'1535': china
+'1536': china
+'1537': china
+'1538': china
+'1539': china
+'154': usa
+'1540': china
+'1541': china
+'1542': china
+'1543': china
+'1544': china
+'1545': china
+'1546': china
+'1547': china
+'1548': china
+'1549': china
+'155': usa
+'1550': china
+'1551': china
+'1552': china
+'1553': china
+'1554': china
+'1555': china
+'1556': china
+'1557': china
+'1558': china
+'1559': china
+'156': usa
+'1560': indonesia
+'1561': china
+'1562': china
+'1563': china
+'1564': china
+'1565': china
+'1566': china
+'1567': china
+'1568': china
+'1569': china
+'157': usa
+'1570': china
+'1571': china
+'1572': china
+'1573': china
+'1574': china
+'1575': china
+'1576': china
+'1577': china
+'1578': china
+'1579': china
+'158': usa
+'1580': china
+'1581': china
+'1582': china
+'1583': china
+'1584': china
+'1585': china
+'1586': china
+'1587': asia
+'1588': asia
+'1589': asia
+'159': usa
+'1590': asia
+'1591': asia
+'1592': asia
+'1593': india
+'1594': china
+'1595': china
+'1596': china
+'1597': china
+'1598': china
+'1599': china
+'16': canada
+'160': usa
+'1600': china
+'1601': china
+'1602': china
+'1603': china
+'1604': china
+'1605': china
+'1606': china
+'1607': china
+'1608': china
+'1609': china
+'161': usa
+'1610': china
+'1611': china
+'1612': china
+'1613': china
+'1614': china
+'1615': china
+'1616': china
+'1617': china
+'1618': china
+'1619': asia
+'162': usa
+'1620': asia
+'1621': asia
+'1622': asia
+'1623': asia
+'1624': asia
+'1625': asia
+'1626': asia
+'1627': asia
+'1628': asia
+'1629': asia
+'163': usa
+'1630': asia
+'1631': asia
+'1632': asia
+'1633': asia
+'1634': asia
+'1635': asia
+'1636': asia
+'1637': asia
+'1638': japan
+'1639': japan
+'164': usa
+'1640': japan
+'1641': japan
+'1642': japan
+'1643': japan
+'1644': japan
+'1645': japan
+'1646': japan
+'1647': japan
+'1648': japan
+'1649': japan
+'165': usa
+'1650': japan
+'1651': japan
+'1652': japan
+'1653': japan
+'1654': japan
+'1655': japan
+'1656': japan
+'1657': japan
+'1658': japan
+'1659': japan
+'166': usa
+'1660': japan
+'1661': japan
+'1662': japan
+'1663': japan
+'1664': japan
+'1665': japan
+'1666': japan
+'1667': japan
+'1668': japan
+'1669': japan
+'167': usa
+'1670': japan
+'1671': japan
+'1672': japan
+'1673': japan
+'1674': japan
+'1675': japan
+'1676': japan
+'1677': japan
+'1678': japan
+'1679': japan
+'168': usa
+'1680': africa
+'1681': africa
+'1682': africa
+'1683': africa
+'1684': africa
+'1685': africa
+'1686': africa
+'1687': africa
+'1688': africa
+'1689': africa
+'169': usa
+'1690': africa
+'1691': africa
+'1692': africa
+'1693': africa
+'1694': africa
+'1695': africa
+'1696': africa
+'1697': africa
+'1698': africa
+'1699': africa
+'17': canada
+'170': usa
+'1700': africa
+'1701': africa
+'1702': africa
+'1703': africa
+'1704': africa
+'1705': africa
+'1706': africa
+'1707': africa
+'1708': africa
+'1709': africa
+'171': usa
+'1710': africa
+'1711': africa
+'1712': africa
+'1713': africa
+'1714': africa
+'1715': africa
+'1716': africa
+'1717': africa
+'1718': africa
+'1719': africa
+'172': usa
+'1720': africa
+'1721': africa
+'1722': africa
+'1723': south america
+'1724': africa
+'1725': africa
+'1726': africa
+'1727': africa
+'1728': africa
+'1729': africa
+'173': usa
+'1730': africa
+'1731': africa
+'1732': africa
+'1733': africa
+'1734': africa
+'1735': africa
+'1736': africa
+'1737': africa
+'1738': africa
+'1739': africa
+'174': usa
+'1740': africa
+'1741': africa
+'1742': africa
+'1743': africa
+'1744': africa
+'1745': africa
+'1746': africa
+'1747': africa
+'1748': africa
+'1749': africa
+'175': usa
+'1750': africa
+'1751': africa
+'1752': africa
+'1753': africa
+'1754': africa
+'1755': china
+'1756': central asia
+'1757': central asia
+'1758': africa
+'1759': africa
+'176': usa
+'1760': africa
+'1761': africa
+'1762': africa
+'1763': africa
+'1764': africa
+'1765': africa
+'1766': africa
+'1767': africa
+'1768': africa
+'1769': africa
+'177': usa
+'1770': africa
+'1771': africa
+'1772': africa
+'1773': africa
+'1774': africa
+'1775': africa
+'1776': africa
+'1777': africa
+'1778': africa
+'1779': africa
+'178': usa
+'1780': africa
+'1781': africa
+'1782': africa
+'1783': africa
+'1784': africa
+'1785': africa
+'1786': africa
+'1787': africa
+'1788': africa
+'1789': africa
+'179': usa
+'1790': africa
+'1791': africa
+'1792': africa
+'1793': africa
+'1794': africa
+'1795': africa
+'1796': africa
+'1797': africa
+'1798': africa
+'1799': africa
+'18': canada
+'180': usa
+'1800': africa
+'1801': africa
+'1802': africa
+'1803': africa
+'1804': africa
+'1805': africa
+'1806': africa
+'1807': africa
+'1808': africa
+'1809': africa
+'181': usa
+'1810': africa
+'1811': africa
+'1812': africa
+'1813': africa
+'1814': africa
+'1815': africa
+'1816': africa
+'1817': africa
+'1818': africa
+'1819': africa
+'182': usa
+'1820': africa
+'1821': africa
+'1822': africa
+'1823': africa
+'1824': africa
+'1825': africa
+'1826': africa
+'1827': africa
+'1828': africa
+'1829': africa
+'183': usa
+'1830': africa
+'1831': africa
+'1832': africa
+'1833': africa
+'1834': africa
+'1835': africa
+'1836': africa
+'1837': africa
+'1838': africa
+'1839': africa
+'184': usa
+'1840': africa
+'1841': africa
+'1842': africa
+'1843': africa
+'1844': africa
+'1845': africa
+'1846': africa
+'1847': africa
+'1848': africa
+'1849': africa
+'185': usa
+'1850': africa
+'1851': africa
+'1852': africa
+'1853': africa
+'1854': africa
+'1855': africa
+'1856': africa
+'1857': africa
+'1858': africa
+'1859': africa
+'186': usa
+'1860': africa
+'1861': africa
+'1862': africa
+'1863': africa
+'1864': africa
+'1865': africa
+'1866': africa
+'1867': africa
+'1868': africa
+'1869': africa
+'187': usa
+'1870': africa
+'1871': africa
+'1872': africa
+'1873': africa
+'1874': africa
+'1875': africa
+'1876': africa
+'1877': africa
+'1878': africa
+'1879': africa
+'188': usa
+'1880': africa
+'1881': africa
+'1882': africa
+'1883': africa
+'1884': africa
+'1885': africa
+'1886': africa
+'1887': africa
+'1888': africa
+'1889': africa
+'189': usa
+'1890': africa
+'1891': africa
+'1892': africa
+'1893': africa
+'1894': africa
+'1895': africa
+'1896': africa
+'1897': africa
+'1898': africa
+'1899': africa
+'19': canada
+'190': usa
+'1900': africa
+'1901': africa
+'1902': africa
+'1903': africa
+'1904': africa
+'1905': africa
+'1906': africa
+'1907': africa
+'1908': africa
+'1909': africa
+'191': usa
+'1910': africa
+'1911': africa
+'1912': africa
+'1913': africa
+'1914': africa
+'1915': africa
+'1916': africa
+'1917': africa
+'1918': africa
+'1919': africa
+'192': usa
+'1920': africa
+'1921': africa
+'1922': africa
+'1923': africa
+'1924': africa
+'1925': africa
+'1926': africa
+'1927': africa
+'1928': africa
+'1929': africa
+'193': usa
+'1930': africa
+'1931': africa
+'1932': africa
+'1933': africa
+'1934': africa
+'1935': africa
+'1936': africa
+'1937': africa
+'1938': africa
+'1939': africa
+'194': usa
+'1940': africa
+'1941': africa
+'1942': africa
+'1943': africa
+'1944': africa
+'1945': africa
+'1946': africa
+'1947': africa
+'1948': africa
+'1949': africa
+'195': usa
+'1950': africa
+'1951': africa
+'1952': africa
+'1953': africa
+'1954': africa
+'1955': africa
+'1956': africa
+'1957': africa
+'1958': africa
+'1959': africa
+'196': usa
+'1960': africa
+'1961': africa
+'1962': africa
+'1963': africa
+'1964': africa
+'1965': africa
+'1966': africa
+'1967': africa
+'1968': africa
+'1969': africa
+'197': usa
+'1970': africa
+'1971': africa
+'1972': africa
+'1973': africa
+'1974': africa
+'1975': africa
+'1976': africa
+'1977': africa
+'1978': africa
+'1979': south america
+'198': usa
+'1980': africa
+'1981': africa
+'1982': africa
+'1983': africa
+'1984': africa
+'1985': africa
+'1986': africa
+'1987': africa
+'1988': africa
+'1989': africa
+'199': usa
+'1990': africa
+'1991': africa
+'1992': africa
+'1993': africa
+'1994': africa
+'1995': africa
+'1996': africa
+'1997': africa
+'1998': africa
+'1999': africa
+'2': usa
+'20': canada
+'200': usa
+'2000': africa
+'2001': africa
+'2002': africa
+'2003': africa
+'2004': africa
+'2005': africa
+'2006': africa
+'2007': africa
+'2008': africa
+'2009': africa
+'201': usa
+'2010': africa
+'2011': africa
+'2012': africa
+'2013': africa
+'2014': africa
+'2015': africa
+'2016': africa
+'2017': africa
+'2018': africa
+'2019': africa
+'202': usa
+'2020': africa
+'2021': africa
+'2022': africa
+'2023': africa
+'2024': africa
+'2025': africa
+'2026': africa
+'2027': africa
+'2028': africa
+'2029': africa
+'203': carribean
+'2030': africa
+'2031': africa
+'2032': africa
+'2033': africa
+'2034': africa
+'2035': africa
+'2036': africa
+'2037': africa
+'2038': africa
+'2039': africa
+'204': usa
+'2040': africa
+'2041': africa
+'2042': africa
+'2043': africa
+'2044': africa
+'2045': africa
+'2046': africa
+'2047': africa
+'2048': africa
+'2049': africa
+'205': usa
+'2050': africa
+'2051': africa
+'2052': africa
+'2053': africa
+'2054': africa
+'2055': africa
+'2056': africa
+'2057': africa
+'2058': africa
+'2059': africa
+'206': usa
+'2060': africa
+'2061': africa
+'2062': china
+'2063': africa
+'2064': africa
+'2065': africa
+'2066': africa
+'2067': africa
+'2068': africa
+'2069': africa
+'207': usa
+'2070': africa
+'2071': africa
+'2072': africa
+'2073': africa
+'2074': africa
+'2075': africa
+'2076': africa
+'2077': africa
+'2078': africa
+'2079': africa
+'208': usa
+'2080': africa
+'2081': africa
+'2082': africa
+'2083': africa
+'2084': africa
+'2085': africa
+'2086': africa
+'2087': africa
+'2088': africa
+'2089': africa
+'209': usa
+'2090': africa
+'2091': africa
+'2092': africa
+'2093': africa
+'2094': africa
+'2095': africa
+'2096': africa
+'2097': africa
+'2098': africa
+'2099': africa
+'21': canada
+'210': usa
+'2100': africa
+'2101': africa
+'2102': africa
+'2103': africa
+'2104': africa
+'2105': africa
+'2106': africa
+'2107': africa
+'2108': africa
+'2109': africa
+'211': usa
+'2110': africa
+'2111': africa
+'2112': africa
+'2113': africa
+'2114': africa
+'2115': africa
+'2116': africa
+'2117': africa
+'2118': africa
+'2119': africa
+'212': usa
+'2120': africa
+'2121': africa
+'2122': africa
+'2123': africa
+'2124': africa
+'2125': africa
+'2126': africa
+'2127': africa
+'2128': india
+'2129': africa
+'213': usa
+'2130': africa
+'2131': south america
+'2132': africa
+'2133': south america
+'2134': africa
+'2135': africa
+'2136': africa
+'2137': mexico
+'2138': mexico
+'2139': mexico
+'214': usa
+'2140': mexico
+'2141': mexico
+'2142': mexico
+'2143': mexico
+'2144': mexico
+'2145': mexico
+'2146': mexico
+'2147': mexico
+'2148': mexico
+'2149': mexico
+'215': usa
+'2150': mexico
+'2151': mexico
+'2152': mexico
+'2153': mexico
+'2154': mexico
+'2155': mexico
+'2156': mexico
+'2157': mexico
+'2158': mexico
+'2159': mexico
+'216': usa
+'2160': mexico
+'2161': mexico
+'2162': mexico
+'2163': mexico
+'2164': mexico
+'2165': mexico
+'2166': mexico
+'2167': mexico
+'2168': mexico
+'2169': mexico
+'217': usa
+'2170': mexico
+'2171': mexico
+'2172': mexico
+'2173': mexico
+'2174': mexico
+'2175': mexico
+'2176': mexico
+'2177': mexico
+'2178': mexico
+'2179': mexico
+'218': usa
+'2180': mexico
+'2181': mexico
+'2182': mexico
+'2183': mexico
+'2184': mexico
+'2185': mexico
+'2186': south america
+'2187': south america
+'2188': south america
+'2189': south america
+'219': usa
+'2190': south america
+'2191': south america
+'2192': south america
+'2193': south america
+'2194': south america
+'2195': south america
+'2196': south america
+'2197': south america
+'2198': south america
+'2199': south america
+'22': canada
+'220': usa
+'2200': south america
+'2201': south america
+'2202': south america
+'2203': south america
+'2204': south america
+'2205': south america
+'2206': south america
+'2207': china
+'2208': south america
+'2209': carribean
+'221': usa
+'2210': carribean
+'2211': carribean
+'2212': carribean
+'2213': carribean
+'2214': carribean
+'2215': carribean
+'2216': carribean
+'2217': carribean
+'2218': carribean
+'2219': carribean
+'222': usa
+'2220': carribean
+'2221': china
+'2222': carribean
+'2223': carribean
+'2224': carribean
+'2225': carribean
+'2226': carribean
+'2227': carribean
+'2228': carribean
+'2229': carribean
+'223': usa
+'2230': carribean
+'2231': carribean
+'2232': carribean
+'2233': carribean
+'2234': carribean
+'2235': carribean
+'2236': carribean
+'2237': carribean
+'2238': carribean
+'2239': south america
+'224': usa
+'2240': south america
+'2241': south america
+'2242': south america
+'2243': south america
+'2244': indonesia
+'2245': south america
+'2246': south america
+'2247': south america
+'2248': south america
+'2249': south america
+'225': usa
+'2250': south america
+'2251': south america
+'2252': south america
+'2253': south america
+'2254': south america
+'2255': south america
+'2256': south america
+'2257': south america
+'2258': south america
+'2259': south america
+'226': usa
+'2260': south america
+'2261': south america
+'2262': south america
+'2263': south america
+'2264': south america
+'2265': south america
+'2266': south america
+'2267': south america
+'2268': south america
+'2269': south america
+'227': usa
+'2270': south america
+'2271': south america
+'2272': south america
+'2273': south america
+'2274': south america
+'2275': south america
+'2276': south america
+'2277': south america
+'2278': south america
+'2279': south america
+'228': usa
+'2280': south america
+'2281': south america
+'2282': south america
+'2283': south america
+'2284': south america
+'2285': south america
+'2286': south america
+'2287': south america
+'2288': south america
+'2289': south america
+'229': usa
+'2290': south america
+'2291': south america
+'2292': south america
+'2293': south america
+'2294': south america
+'2295': south america
+'2296': south america
+'2297': south america
+'2298': south america
+'2299': south america
+'23': canada
+'230': usa
+'2300': south america
+'2301': south america
+'2302': south america
+'2303': south america
+'2304': south america
+'2305': south america
+'2306': south america
+'2307': south america
+'2308': south america
+'2309': south america
+'231': usa
+'2310': south america
+'2311': south america
+'2312': south america
+'2313': south america
+'2314': south america
+'2315': south america
+'2316': south america
+'2317': south america
+'2318': south america
+'2319': south america
+'232': usa
+'2320': south america
+'2321': south america
+'2322': south america
+'2323': south america
+'2324': south america
+'2325': south america
+'2326': south america
+'2327': south america
+'2328': south america
+'2329': south america
+'233': usa
+'2330': south america
+'2331': south america
+'2332': south america
+'2333': south america
+'2334': south america
+'2335': south america
+'2336': pacific island
+'2337': south america
+'2338': south america
+'2339': south america
+'234': usa
+'2340': south america
+'2341': south america
+'2342': south america
+'2343': south america
+'2344': south america
+'2345': south america
+'2346': south america
+'2347': south america
+'2348': south america
+'2349': south america
+'235': usa
+'2350': south america
+'2351': south america
+'2352': south america
+'2353': south america
+'2354': south america
+'2355': south america
+'2356': south america
+'2357': south america
+'2358': south america
+'2359': south america
+'236': usa
+'2360': south america
+'2361': south america
+'2362': south america
+'2363': south america
+'2364': south america
+'2365': south america
+'2366': south america
+'2367': south america
+'2368': south america
+'2369': south america
+'237': usa
+'2370': south america
+'2371': south america
+'2372': south america
+'2373': south america
+'2374': south america
+'2375': south america
+'2376': south america
+'2377': south america
+'2378': south america
+'2379': south america
+'238': usa
+'2380': south america
+'2381': south america
+'2382': south america
+'2383': south america
+'2384': south america
+'2385': south america
+'2386': south america
+'2387': south america
+'2388': south america
+'2389': south america
+'239': usa
+'2390': south america
+'2391': south america
+'2392': south america
+'2393': south america
+'2394': south america
+'2395': south america
+'2396': south america
+'2397': south america
+'2398': south america
+'2399': south america
+'24': canada
+'240': usa
+'2400': south america
+'2401': south america
+'2402': south america
+'2403': south america
+'2404': south america
+'2405': south america
+'2406': indonesia
+'2407': south america
+'2408': south america
+'2409': carribean
+'241': usa
+'2410': south america
+'2411': south america
+'2412': south america
+'2413': south america
+'2414': south america
+'2415': south america
+'2416': south america
+'2417': south america
+'2418': south america
+'2419': south america
+'242': usa
+'2420': south america
+'2421': south america
+'2422': south america
+'2423': south america
+'2424': south america
+'2425': south america
+'2426': south america
+'2427': south america
+'2428': south america
+'2429': south america
+'243': usa
+'2430': south america
+'2431': south america
+'2432': south america
+'2433': south america
+'2434': south america
+'2435': south america
+'2436': south america
+'2437': south america
+'2438': south america
+'2439': south america
+'244': usa
+'2440': south america
+'2441': south america
+'2442': south america
+'2443': south america
+'2444': south america
+'2445': south america
+'2446': south america
+'2447': south america
+'2448': south america
+'2449': south america
+'245': usa
+'2450': south america
+'2451': south america
+'2452': south america
+'2453': south america
+'2454': pacific island
+'2455': south america
+'2456': south america
+'2457': south america
+'2458': south america
+'2459': south america
+'246': usa
+'2460': south america
+'2461': south america
+'2462': south america
+'2463': south america
+'2464': south america
+'2465': south america
+'2466': south america
+'2467': south america
+'2468': australia
+'2469': australia
+'247': usa
+'2470': australia
+'2471': australia
+'2472': australia
+'2473': australia
+'2474': australia
+'2475': australia
+'2476': australia
+'2477': australia
+'2478': australia
+'2479': australia
+'248': usa
+'2480': australia
+'2481': australia
+'2482': australia
+'2483': australia
+'2484': australia
+'2485': australia
+'2486': australia
+'2487': australia
+'2488': australia
+'2489': australia
+'249': usa
+'2490': australia
+'2491': australia
+'2492': australia
+'2493': australia
+'2494': australia
+'2495': australia
+'2496': australia
+'2497': australia
+'2498': australia
+'2499': australia
+'25': canada
+'250': canada
+'2500': australia
+'2501': australia
+'2502': australia
+'2503': australia
+'2504': australia
+'2505': australia
+'2506': australia
+'2507': australia
+'2508': pacific island
+'2509': australia
+'251': scandinavia
+'2510': australia
+'2511': australia
+'2512': australia
+'2513': australia
+'2514': australia
+'2515': australia
+'2516': australia
+'2517': pacific island
+'2518': pacific island
+'2519': pacific island
+'252': scandinavia
+'2520': pacific island
+'2521': pacific island
+'2522': pacific island
+'2523': pacific island
+'2524': pacific island
+'2525': pacific island
+'2526': pacific island
+'2527': pacific island
+'2528': indonesia
+'2529': indonesia
+'253': scandinavia
+'2530': indonesia
+'2531': indonesia
+'2532': south america
+'2533': austria
+'2534': pacific island
+'2535': pacific island
+'2536': pacific island
+'2537': pacific island
+'2538': austria
+'2539': pacific island
+'254': united kingdom
+'2540': pacific island
+'2541': pacific island
+'2542': pacific island
+'2543': pacific island
+'2544': pacific island
+'2545': pacific island
+'2546': pacific island
+'2547': pacific island
+'2548': pacific island
+'2549': south america
+'255': united kingdom
+'2550': south america
+'2551': pacific island
+'2552': pacific island
+'2553': pacific island
+'2554': south america
+'2555': usa
+'2556': usa
+'2557': scandinavia
+'2558': africa
+'2559': africa
+'256': united kingdom
+'2560': germany
+'2561': germany
+'2562': china
+'2563': africa
+'2564': africa
+'2565': indonesia
+'2566': india
+'2567': italy
+'2568': germany
+'2569': balkan
+'257': united kingdom
+'2570': france
+'2571': australia
+'2572': asia
+'2573': africa
+'2574': africa
+'2575': asia
+'2576': indonesia
+'2577': balkan
+'2578': south america
+'2579': pacific island
+'258': united kingdom
+'2580': soviet
+'2581': africa
+'2582': balkan
+'2583': balkan
+'2584': germany
+'2585': africa
+'2586': central asia
+'2587': soviet
+'2588': soviet
+'2589': soviet
+'259': united kingdom
+'2590': soviet
+'2591': scandinavia
+'2592': canada
+'2593': canada
+'2594': canada
+'2595': canada
+'2596': canada
+'2597': canada
+'2598': canada
+'2599': usa
+'26': canada
+'260': united kingdom
+'2600': south america
+'2601': australia
+'2602': australia
+'2603': australia
+'2604': australia
+'2605': australia
+'2606': soviet
+'2607': china
+'2608': china
+'2609': africa
+'261': united kingdom
+'2610': soviet
+'2611': soviet
+'2612': soviet
+'2613': soviet
+'2614': soviet
+'2615': soviet
+'2616': soviet
+'2617': china
+'2618': soviet
+'2619': soviet
+'262': united kingdom
+'2620': soviet
+'2621': soviet
+'2622': soviet
+'2623': pacific island
+'2624': africa
+'2625': canada
+'2626': canada
+'2627': canada
+'2628': canada
+'2629': canada
+'263': united kingdom
+'2630': usa
+'2631': usa
+'2632': scandinavia
+'2633': soviet
+'2634': soviet
+'2635': africa
+'2636': scandinavia
+'2637': soviet
+'2638': soviet
+'2639': soviet
+'264': united kingdom
+'2640': soviet
+'2641': soviet
+'2642': soviet
+'2643': soviet
+'2644': soviet
+'2645': soviet
+'2646': soviet
+'2647': soviet
+'2648': soviet
+'2649': soviet
+'265': united kingdom
+'2650': soviet
+'2651': soviet
+'2652': soviet
+'2653': soviet
+'2654': soviet
+'2655': soviet
+'2656': soviet
+'2657': soviet
+'2658': soviet
+'2659': soviet
+'266': united kingdom
+'2660': soviet
+'2661': soviet
+'2662': soviet
+'2663': soviet
+'2664': soviet
+'2665': soviet
+'2666': soviet
+'2667': soviet
+'2668': soviet
+'2669': soviet
+'267': united kingdom
+'2670': soviet
+'2671': soviet
+'2672': soviet
+'2673': soviet
+'2674': soviet
+'2675': soviet
+'2676': soviet
+'2677': soviet
+'2678': china
+'2679': china
+'268': united kingdom
+'2680': soviet
+'2681': soviet
+'2682': soviet
+'2683': soviet
+'2684': soviet
+'2685': soviet
+'2686': soviet
+'2687': soviet
+'2688': soviet
+'2689': soviet
+'269': united kingdom
+'2690': soviet
+'2691': soviet
+'2692': soviet
+'2693': soviet
+'2694': soviet
+'2695': soviet
+'2696': soviet
+'2697': soviet
+'2698': soviet
+'2699': soviet
+'27': canada
+'270': united kingdom
+'2700': soviet
+'2701': soviet
+'2702': soviet
+'271': united kingdom
+'272': united kingdom
+'273': united kingdom
+'274': united kingdom
+'275': united kingdom
+'276': united kingdom
+'277': united kingdom
+'278': united kingdom
+'279': united kingdom
+'28': canada
+'280': united kingdom
+'281': united kingdom
+'282': united kingdom
+'283': united kingdom
+'284': united kingdom
+'285': united kingdom
+'286': united kingdom
+'287': united kingdom
+'288': united kingdom
+'289': united kingdom
+'29': canada
+'290': united kingdom
+'291': united kingdom
+'292': united kingdom
+'293': united kingdom
+'294': united kingdom
+'295': united kingdom
+'296': united kingdom
+'297': united kingdom
+'298': united kingdom
+'299': united kingdom
+'3': usa
+'30': canada
+'300': united kingdom
+'301': united kingdom
+'302': united kingdom
+'303': united kingdom
+'304': united kingdom
+'305': scandinavia
+'306': scandinavia
+'307': scandinavia
+'308': scandinavia
+'309': scandinavia
+'31': canada
+'310': scandinavia
+'311': scandinavia
+'312': scandinavia
+'313': scandinavia
+'314': scandinavia
+'315': scandinavia
+'316': scandinavia
+'317': scandinavia
+'318': scandinavia
+'319': scandinavia
+'32': canada
+'320': scandinavia
+'321': scandinavia
+'322': scandinavia
+'323': scandinavia
+'324': scandinavia
+'3246': scandinavia
+'3249': pacific island
+'325': scandinavia
+'326': scandinavia
+'327': scandinavia
+'328': scandinavia
+'329': scandinavia
+'33': canada
+'330': scandinavia
+'331': scandinavia
+'332': scandinavia
+'333': scandinavia
+'334': scandinavia
+'335': scandinavia
+'336': scandinavia
+'337': scandinavia
+'338': scandinavia
+'339': scandinavia
+'34': canada
+'340': scandinavia
+'341': scandinavia
+'342': scandinavia
+'343': scandinavia
+'344': scandinavia
+'345': scandinavia
+'346': scandinavia
+'347': scandinavia
+'348': soviet
+'349': soviet
+'35': canada
+'350': soviet
+'351': soviet
+'352': soviet
+'353': soviet
+'354': soviet
+'355': soviet
+'356': soviet
+'357': soviet
+'358': soviet
+'359': soviet
+'36': canada
+'360': soviet
+'361': soviet
+'362': soviet
+'363': soviet
+'364': soviet
+'365': soviet
+'366': scandinavia
+'367': scandinavia
+'368': scandinavia
+'369': germany
+'37': canada
+'370': scandinavia
+'371': scandinavia
+'372': scandinavia
+'373': scandinavia
+'374': scandinavia
+'375': low countries
+'376': low countries
+'377': low countries
+'378': low countries
+'379': low countries
+'38': canada
+'380': low countries
+'381': low countries
+'382': low countries
+'383': low countries
+'384': low countries
+'385': low countries
+'386': low countries
+'387': low countries
+'388': low countries
+'389': low countries
+'39': canada
+'390': low countries
+'391': low countries
+'392': low countries
+'393': low countries
+'394': low countries
+'395': low countries
+'396': low countries
+'397': low countries
+'398': low countries
+'399': france
+'4': usa
+'40': canada
+'400': france
+'401': france
+'402': france
+'403': france
+'404': france
+'405': france
+'406': france
+'407': france
+'408': france
+'409': france
+'41': canada
+'410': france
+'411': france
+'412': france
+'413': france
+'414': france
+'415': france
+'416': france
+'417': france
+'418': france
+'419': united kingdom
+'42': canada
+'420': france
+'421': france
+'422': france
+'423': france
+'424': france
+'425': france
+'426': france
+'427': france
+'428': france
+'429': france
+'43': canada
+'430': france
+'431': france
+'432': france
+'433': france
+'434': france
+'435': france
+'436': france
+'437': france
+'438': france
+'439': france
+'44': canada
+'440': france
+'441': france
+'442': france
+'443': france
+'444': france
+'445': france
+'446': france
+'447': france
+'448': france
+'449': france
+'45': canada
+'450': france
+'451': france
+'452': france
+'453': france
+'454': france
+'455': france
+'456': france
+'457': france
+'458': france
+'459': france
+'46': canada
+'460': france
+'461': france
+'462': france
+'463': france
+'464': france
+'465': france
+'466': france
+'467': france
+'468': france
+'469': france
+'47': canada
+'470': france
+'471': france
+'472': france
+'473': france
+'474': spain
+'475': spain
+'476': spain
+'477': spain
+'478': spain
+'479': spain
+'48': canada
+'480': spain
+'481': spain
+'482': spain
+'483': spain
+'484': spain
+'485': spain
+'486': spain
+'487': spain
+'488': spain
+'489': spain
+'49': canada
+'490': spain
+'491': spain
+'492': spain
+'493': spain
+'494': spain
+'495': spain
+'496': spain
+'497': spain
+'498': spain
+'499': spain
+'5': usa
+'50': canada
+'500': spain
+'501': spain
+'502': spain
+'503': spain
+'504': spain
+'505': spain
+'506': spain
+'507': spain
+'508': spain
+'509': spain
+'51': canada
+'510': spain
+'511': spain
+'512': spain
+'513': spain
+'514': spain
+'515': spain
+'516': spain
+'517': united kingdom
+'518': portugal
+'519': portugal
+'52': canada
+'520': portugal
+'521': portugal
+'522': portugal
+'523': portugal
+'524': portugal
+'525': portugal
+'526': portugal
+'527': portugal
+'528': germany
+'529': germany
+'53': canada
+'530': germany
+'531': germany
+'532': germany
+'533': united kingdom
+'534': germany
+'535': germany
+'536': germany
+'537': germany
+'538': germany
+'539': germany
+'54': canada
+'540': germany
+'541': germany
+'542': germany
+'543': germany
+'544': germany
+'545': germany
+'546': germany
+'547': germany
+'548': germany
+'549': germany
+'55': canada
+'550': germany
+'551': germany
+'552': germany
+'553': germany
+'554': germany
+'555': germany
+'556': germany
+'557': germany
+'558': germany
+'559': germany
+'56': canada
+'560': germany
+'561': germany
+'562': germany
+'563': germany
+'564': germany
+'565': germany
+'566': germany
+'567': germany
+'568': germany
+'569': germany
+'57': canada
+'570': germany
+'571': germany
+'572': germany
+'573': germany
+'574': germany
+'575': germany
+'576': germany
+'577': germany
+'578': germany
+'579': germany
+'58': canada
+'580': germany
+'581': germany
+'582': germany
+'583': germany
+'584': germany
+'585': germany
+'586': germany
+'587': germany
+'588': germany
+'589': germany
+'59': canada
+'590': germany
+'591': germany
+'592': germany
+'593': germany
+'594': germany
+'595': germany
+'596': germany
+'597': germany
+'598': germany
+'599': germany
+'6': canada
+'60': canada
+'600': germany
+'601': germany
+'602': germany
+'603': germany
+'604': germany
+'605': germany
+'606': germany
+'607': germany
+'608': germany
+'609': germany
+'61': canada
+'610': pacific island
+'611': germany
+'612': austria
+'613': austria
+'614': austria
+'615': austria
+'616': austria
+'617': austria
+'618': austria
+'619': austria
+'62': canada
+'620': austria
+'621': austria
+'622': austria
+'623': austria
+'624': austria
+'625': austria
+'626': austria
+'627': austria
+'628': austria
+'629': austria
+'63': canada
+'630': austria
+'631': austria
+'632': austria
+'633': austria
+'634': austria
+'635': austria
+'636': austria
+'637': austria
+'638': austria
+'639': austria
+'64': canada
+'640': austria
+'641': austria
+'642': austria
+'643': austria
+'644': austria
+'645': austria
+'646': austria
+'647': austria
+'648': austria
+'649': austria
+'65': canada
+'650': austria
+'651': austria
+'652': austria
+'653': austria
+'654': austria
+'655': austria
+'656': austria
+'657': austria
+'658': usa
+'659': austria
+'66': canada
+'660': austria
+'661': austria
+'662': austria
+'663': austria
+'664': balkan
+'665': balkan
+'666': balkan
+'667': balkan
+'668': balkan
+'669': balkan
+'67': canada
+'670': balkan
+'671': balkan
+'672': balkan
+'673': balkan
+'674': balkan
+'675': balkan
+'676': soviet
+'677': soviet
+'678': soviet
+'679': germany
+'68': canada
+'680': germany
+'681': germany
+'682': germany
+'683': germany
+'684': germany
+'685': germany
+'686': pacific island
+'687': germany
+'688': austria
+'689': austria
+'69': canada
+'690': germany
+'691': germany
+'692': germany
+'693': germany
+'694': germany
+'695': germany
+'696': germany
+'697': germany
+'698': germany
+'699': germany
+'7': canada
+'70': canada
+'700': germany
+'701': germany
+'702': austria
+'703': germany
+'704': austria
+'705': austria
+'706': soviet
+'707': soviet
+'708': soviet
+'709': soviet
+'71': canada
+'710': soviet
+'711': soviet
+'712': soviet
+'713': soviet
+'714': austria
+'715': soviet
+'716': soviet
+'717': soviet
+'718': soviet
+'719': soviet
+'72': canada
+'720': italy
+'721': italy
+'722': italy
+'723': italy
+'724': italy
+'725': italy
+'726': austria
+'727': austria
+'728': austria
+'729': austria
+'73': canada
+'730': austria
+'731': austria
+'732': austria
+'733': austria
+'734': austria
+'735': austria
+'736': austria
+'737': austria
+'738': italy
+'739': italy
+'74': canada
+'740': italy
+'741': italy
+'742': italy
+'743': italy
+'744': italy
+'745': italy
+'746': italy
+'747': italy
+'748': italy
+'749': italy
+'75': canada
+'750': italy
+'751': italy
+'752': italy
+'753': italy
+'754': italy
+'755': italy
+'756': italy
+'757': italy
+'758': italy
+'759': italy
+'76': canada
+'760': italy
+'761': italy
+'762': italy
+'763': italy
+'764': italy
+'765': italy
+'766': italy
+'767': austria
+'768': austria
+'769': austria
+'77': canada
+'770': austria
+'771': austria
+'772': austria
+'773': austria
+'774': austria
+'775': austria
+'776': austria
+'777': austria
+'778': austria
+'779': austria
+'78': usa
+'780': austria
+'781': austria
+'782': austria
+'783': balkan
+'784': balkan
+'785': balkan
+'786': balkan
+'787': balkan
+'788': balkan
+'789': balkan
+'79': usa
+'790': africa
+'791': austria
+'792': austria
+'793': austria
+'794': balkan
+'795': balkan
+'796': balkan
+'797': balkan
+'798': balkan
+'799': balkan
+'8': canada
+'80': usa
+'800': balkan
+'801': pacific island
+'802': balkan
+'803': balkan
+'804': balkan
+'805': balkan
+'806': balkan
+'807': balkan
+'808': balkan
+'809': balkan
+'81': usa
+'810': balkan
+'811': balkan
+'812': balkan
+'813': balkan
+'814': balkan
+'815': balkan
+'816': balkan
+'817': balkan
+'818': balkan
+'819': balkan
+'82': usa
+'820': balkan
+'821': balkan
+'822': balkan
+'823': balkan
+'824': balkan
+'825': balkan
+'826': balkan
+'827': balkan
+'828': balkan
+'829': balkan
+'83': usa
+'830': balkan
+'831': balkan
+'832': balkan
+'833': balkan
+'834': balkan
+'835': balkan
+'836': balkan
+'837': balkan
+'838': balkan
+'839': balkan
+'84': mexico
+'840': balkan
+'841': balkan
+'842': balkan
+'843': balkan
+'844': balkan
+'845': balkan
+'846': balkan
+'847': balkan
+'848': balkan
+'849': balkan
+'85': mexico
+'850': balkan
+'851': balkan
+'852': balkan
+'853': balkan
+'854': united kingdom
+'855': balkan
+'856': balkan
+'857': balkan
+'858': balkan
+'859': balkan
+'86': mexico
+'860': balkan
+'861': balkan
+'862': balkan
+'863': balkan
+'864': balkan
+'865': balkan
+'866': balkan
+'867': balkan
+'868': balkan
+'869': balkan
+'87': mexico
+'870': balkan
+'871': balkan
+'872': balkan
+'873': balkan
+'874': balkan
+'875': balkan
+'876': balkan
+'877': balkan
+'878': balkan
+'879': balkan
+'88': mexico
+'880': balkan
+'881': balkan
+'882': balkan
+'883': balkan
+'884': balkan
+'885': balkan
+'886': balkan
+'887': balkan
+'888': balkan
+'889': balkan
+'89': mexico
+'890': balkan
+'891': balkan
+'892': balkan
+'893': balkan
+'894': balkan
+'895': balkan
+'896': balkan
+'897': balkan
+'898': balkan
+'899': balkan
+'9': canada
+'90': mexico
+'900': balkan
+'901': balkan
+'902': balkan
+'903': balkan
+'904': balkan
+'905': balkan
+'906': central asia
+'907': central asia
+'908': central asia
+'909': central asia
+'91': usa
+'910': central asia
+'911': central asia
+'912': balkan
+'913': balkan
+'914': balkan
+'915': central asia
+'916': central asia
+'917': central asia
+'918': central asia
+'919': central asia
+'92': usa
+'920': central asia
+'921': central asia
+'922': central asia
+'923': central asia
+'924': central asia
+'925': central asia
+'926': central asia
+'927': central asia
+'928': central asia
+'929': central asia
+'93': usa
+'930': central asia
+'931': central asia
+'932': central asia
+'933': central asia
+'934': central asia
+'935': central asia
+'936': soviet
+'937': soviet
+'938': soviet
+'939': soviet
+'94': mexico
+'940': soviet
+'941': soviet
+'942': soviet
+'943': soviet
+'944': soviet
+'945': soviet
+'946': soviet
+'947': soviet
+'948': soviet
+'949': soviet
+'95': mexico
+'950': austria
+'951': austria
+'952': austria
+'953': austria
+'954': soviet
+'955': soviet
+'956': soviet
+'957': soviet
+'958': soviet
+'959': soviet
+'96': mexico
+'960': soviet
+'961': soviet
+'962': soviet
+'963': soviet
+'964': soviet
+'965': soviet
+'966': soviet
+'967': soviet
+'968': soviet
+'969': soviet
+'97': mexico
+'970': soviet
+'971': soviet
+'972': soviet
+'973': soviet
+'974': soviet
+'975': soviet
+'976': soviet
+'977': soviet
+'978': soviet
+'979': soviet
+'98': mexico
+'980': soviet
+'981': soviet
+'982': scandinavia
+'983': soviet
+'984': soviet
+'985': soviet
+'986': soviet
+'987': soviet
+'988': soviet
+'989': soviet
+'99': usa
+'990': soviet
+'991': soviet
+'992': soviet
+'993': soviet
+'994': soviet
+'995': soviet
+'996': soviet
+'997': soviet
+'998': soviet
+'999': soviet

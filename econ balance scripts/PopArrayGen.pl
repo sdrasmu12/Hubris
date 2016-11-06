@@ -39,6 +39,18 @@ foreach my $sfolder (@subfolders){
 	};
 };
 
+
+{
+    my $yaml1 = Dump \%provids;
+    write_file('ProvinceIDS_to_Filename.yml', { binmode => ':raw' }, $yaml1);
+}
+
+{
+    my $yaml2 = Dump \%fullname;
+    write_file('ProvinceIDS_to_Subfolder.yml', { binmode => ':raw' }, $yaml2);
+}
+
+
 #Iterate over all provinces
 foreach my $key (keys %fullname){
 		# Open Each Province History File
@@ -138,11 +150,14 @@ foreach my $txt(@poptxt) {
 			my $goodcheck = $idstotrade_good{$id};
 			@pop[7] = $idstolife_rating{$id};
 			my $ratingcheck = $idstolife_rating{$id};
+			my $bigregion = $fullname{$id};
+			@pop[8] = $bigregion;
 			my @tocheck = ($id, $poptype, $culture, $religion, $size, $ownercheck, $goodcheck, $ratingcheck);
 			# check if any relevant values are undefined and print the file and row number
-			if (undef @tocheck[0 .. 7]){
+			if (undef @tocheck[0 .. 8]){
 				say "$txt, $rowcnt";
 			};
+			
 			push @poparray, [ @pop ];
 		};
 	}
@@ -154,7 +169,9 @@ foreach my $txt(@poptxt) {
     write_file('PopArray.yml', { binmode => ':raw' }, $yaml);
 }
 
+my %provdemo;
 
+### Create Hash conecting ID to province demographics for larger modification and printing
 
 
 

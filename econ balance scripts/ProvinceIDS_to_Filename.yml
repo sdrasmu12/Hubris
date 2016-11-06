@@ -1,0 +1,2705 @@
+---
+'1': 1 - Sitka.txt
+'10': 10 - Inuvik.txt
+'100': 100 - Phoenix.txt
+'1000': 1000 - Staritsa.txt
+'1001': 1001 - Yaroslavl.txt
+'1002': 1002 - Manzhouli.txt
+'1003': 1003 - Novgorod.txt
+'1004': 1004 - Tikhvin.txt
+'1005': 1005 - Borovichi.txt
+'1006': 1006 - Pskov.txt
+'1007': 1007 - Velikiye Luki.txt
+'1008': 1008 - Moscow.txt
+'1009': 1009 - Borodino.txt
+'101': 101 - Flagstaff.txt
+'1010': 1010 - Kaluga.txt
+'1011': 1011 - Tula.txt
+'1012': 1012 - Ryazan.txt
+'1013': 1013 - Vladimir.txt
+'1014': 1014 - Vyazma.txt
+'1015': 1015 - Peremyshl.txt
+'1016': 1016 - Bryansk.txt
+'1017': 1017 - Orel.txt
+'1018': 1018 - Belgorod.txt
+'1019': 1019 - Voronets.txt
+'102': 102 - Tucson.txt
+'1020': 1020 - Nizhni Novgorod.txt
+'1021': 1021 - Penza.txt
+'1022': 1022 - Ivanovo.txt
+'1023': 1023 - Kostorma.txt
+'1024': 1024 - Galich.txt
+'1025': 1025 - Tambov.txt
+'1026': 1026 - Perm.txt
+'1027': 1027 - Vetluga.txt
+'1028': 1028 - Vyatkha.txt
+'1029': 1029 - Glasov.txt
+'103': 103 - Santa Fe.txt
+'1030': 1030 - Kazan.txt
+'1031': 1031 - Sarapol.txt
+'1032': 1032 - Chistopol.txt
+'1033': 1033 - Simbirsk.txt
+'1034': 1034 - Samara.txt
+'1035': 1035 - Syzran.txt
+'1036': 1036 - Astrakhan.txt
+'1037': 1037 - Saratov.txt
+'1038': 1038 - Novo Uzensk.txt
+'1039': 1039 - Tsaritsyn.txt
+'104': 104 - Albuquerque.txt
+'1040': 1040 - Zarevka.txt
+'1041': 1041 - Elitsa.txt
+'1042': 1042 - Ufa.txt
+'1043': 1043 - Busuluk.txt
+'1044': 1044 - Orenburg.txt
+'1045': 1045 - Migolinskaya.txt
+'1046': 1046 - Chirskaya.txt
+'1047': 1047 - Azov.txt
+'1048': 1048 - Ekaterinodar.txt
+'1049': 1049 - Novorossiysk.txt
+'105': 105 - Las Cruces.txt
+'1050': 1050 - Stavropol.txt
+'1051': 1051 - Adygei.txt
+'1052': 1052 - Derbent.txt
+'1053': 1053 - Gunib.txt
+'1054': 1054 - Vladikavkaz.txt
+'1055': 1055 - Grozny.txt
+'1056': 1056 - Pyatigorsk.txt
+'1057': 1057 - Kizylyar.txt
+'1058': 1058 - Ekaterinburg.txt
+'1059': 1059 - Chelyabinsk.txt
+'106': 106 - Denver.txt
+'1060': 1060 - Orsk.txt
+'1061': 1061 - Tyumen.txt
+'1062': 1062 - Berezov.txt
+'1063': 1063 - Tomsk.txt
+'1064': 1064 - Omsk.txt
+'1065': 1065 - Nizhnevartovsk.txt
+'1066': 1066 - Tobolsk.txt
+'1067': 1067 - Barnaul.txt
+'1068': 1068 - Ulala.txt
+'1069': 1069 - Vilyuysk.txt
+'107': 107 - Grand Junction.txt
+'1070': 1070 - Bryanka.txt
+'1071': 1071 - Bytantaysk.txt
+'1072': 1072 - Okhotsk.txt
+'1073': 1073 - Yevensk.txt
+'1074': 1074 - Petropavlovsk.txt
+'1075': 1075 - Irkutsk.txt
+'1076': 1076 - Bratsk.txt
+'1077': 1077 - Krasnoyarsk.txt
+'1078': 1078 - Chita.txt
+'1079': 1079 - Nerchinsk.txt
+'108': 108 - Alamosa.txt
+'1080': 1080 - Chernomin.txt
+'1081': 1081 - Yaksa.txt
+'1082': 1082 - HaIshenwai.txt
+'1083': 1083 - Boli.txt
+'1084': 1084 - Utchan.txt
+'1085': 1085 - Ulusamudan.txt
+'1086': 1086 - Pogobi.txt
+'1087': 1087 - Ootomari.txt
+'1088': 1088 - Shumshu.txt
+'1089': 1089 - Etorofu.txt
+'109': 109 - Pueblo.txt
+'1090': 1090 - Tblisi.txt
+'1091': 1091 - Pasanauri.txt
+'1092': 1092 - Kutaisi.txt
+'1093': 1093 - Akihaltsikle.txt
+'1094': 1094 - Poti.txt
+'1095': 1095 - Sukhumi.txt
+'1096': 1096 - Batum.txt
+'1097': 1097 - New Caledonia.txt
+'1098': 1098 - Erivan.txt
+'1099': 1099 - Gyumri.txt
+'11': 11 - Echo Bay.txt
+'110': 110 - Cheyenne.txt
+'1100': 1100 - Kapan.txt
+'1101': 1101 - Nakhichevan.txt
+'1102': 1102 - Baku.txt
+'1103': 1103 - Siyazen.txt
+'1104': 1104 - Sheki.txt
+'1105': 1105 - Ganja.txt
+'1106': 1106 - Agdam.txt
+'1107': 1107 - Lankaran.txt
+'1108': 1108 - Tabriz.txt
+'1109': 1109 - Khvoy.txt
+'111': 111 - Cody.txt
+'1110': 1110 - Urumia.txt
+'1111': 1111 - Mahabad.txt
+'1112': 1112 - Ardabil.txt
+'1113': 1113 - Rasht.txt
+'1114': 1114 - Noshehr.txt
+'1115': 1115 - Sari.txt
+'1116': 1116 - Gorgan.txt
+'1117': 1117 - Kermanshah.txt
+'1118': 1118 - Sanandaj.txt
+'1119': 1119 - Ilam.txt
+'112': 112 - Casper.txt
+'1120': 1120 - Khoramabad.txt
+'1121': 1121 - Tehran.txt
+'1122': 1122 - Hamadan.txt
+'1123': 1123 - Zanjan.txt
+'1124': 1124 - Qazvin.txt
+'1125': 1125 - Qom.txt
+'1126': 1126 - Semnan.txt
+'1127': 1127 - Isfahan.txt
+'1128': 1128 - Arak.txt
+'1129': 1129 - Kashan.txt
+'113': 113 - Bozeman.txt
+'1130': 1130 - Yazd.txt
+'1131': 1131 - Ahvaz.txt
+'1132': 1132 - Abadan.txt
+'1133': 1133 - Dezful.txt
+'1134': 1134 - Dehkord.txt
+'1135': 1135 - Shiraz.txt
+'1136': 1136 - Bushire.txt
+'1137': 1137 - Yasuj.txt
+'1138': 1138 - Kangan.txt
+'1139': 1139 - Sirjan.txt
+'114': 114 - Missoula.txt
+'1140': 1140 - Kerman.txt
+'1141': 1141 - Lengeh.txt
+'1142': 1142 - Bandar Abbas.txt
+'1143': 1143 - Bam.txt
+'1144': 1144 - Zahedan.txt
+'1145': 1145 - Jask.txt
+'1146': 1146 - Chabahar.txt
+'1147': 1147 - Mashhad.txt
+'1148': 1148 - Birjand.txt
+'1149': 1149 - Sabzevan.txt
+'115': 115 - Great Falls.txt
+'1150': 1150 - Bojnurd.txt
+'1151': 1151 - Mecca.txt
+'1152': 1152 - Jidda.txt
+'1153': 1153 - Medina.txt
+'1154': 1154 - Tabuk.txt
+'1155': 1155 - Abha.txt
+'1156': 1156 - Kaf.txt
+'1157': 1157 - Riyadh.txt
+'1158': 1158 - Rafha.txt
+'1159': 1159 - Halaban.txt
+'116': 116 - Billings.txt
+'1160': 1160 - Hail.txt
+'1161': 1161 - Sharawrah.txt
+'1162': 1162 - Bahrain.txt
+'1163': 1163 - Qatif.txt
+'1164': 1164 - Hufuf.txt
+'1165': 1165 - Doha.txt
+'1166': 1166 - Muscat.txt
+'1167': 1167 - Abu Dhabi.txt
+'1168': 1168 - Dubai.txt
+'1169': 1169 - Suhar.txt
+'117': 117 - Bismarck.txt
+'1170': 1170 - Nizwa.txt
+'1171': 1171 - Sur.txt
+'1172': 1172 - Duqm.txt
+'1173': 1173 - Mukalla.txt
+'1174': 1174 - Salalah.txt
+'1175': 1175 - Ghayda.txt
+'1176': 1176 - Bayda.txt
+'1177': 1177 - Socotra.txt
+'1178': 1178 - Sana.txt
+'1179': 1179 - Hodeida.txt
+'118': 118 - Minot.txt
+'1180': 1180 - Taizz.txt
+'1181': 1181 - Qaraganda.txt
+'1182': 1182 - Guryev.txt
+'1183': 1183 - Aqtobe.txt
+'1184': 1184 - Kokshetau.txt
+'1185': 1185 - Yasi.txt
+'1186': 1186 - Alma Ata.txt
+'1187': 1187 - Semipalatinsk.txt
+'1188': 1188 - Qaratal.txt
+'1189': 1189 - Bishkek.txt
+'119': 119 - Dickinson.txt
+'1190': 1190 - Naryn.txt
+'1191': 1191 - Khiva.txt
+'1192': 1192 - Nukus.txt
+'1193': 1193 - Kyzylorda.txt
+'1194': 1194 - Aqtau.txt
+'1195': 1195 - Tashkent.txt
+'1196': 1196 - Dashhowuz.txt
+'1197': 1197 - Shymkent.txt
+'1198': 1198 - Bukhara.txt
+'1199': 1199 - Samarkand.txt
+'12': 12 - Reliance.txt
+'120': 120 - Sioux Falls.txt
+'1200': 1200 - Qarshi.txt
+'1201': 1201 - Khojand.txt
+'1202': 1202 - Kokand.txt
+'1203': 1203 - Osh.txt
+'1204': 1204 - Ashkhabad.txt
+'1205': 1205 - Kizil Arvat.txt
+'1206': 1206 - Merv.txt
+'1207': 1207 - Kulob.txt
+'1208': 1208 - Khorug.txt
+'1209': 1209 - Kabul.txt
+'121': 121 - Dupree.txt
+'1210': 1210 - Faizabad.txt
+'1211': 1211 - Balkh.txt
+'1212': 1212 - Herat.txt
+'1213': 1213 - Bamyan.txt
+'1214': 1214 - Farrah.txt
+'1215': 1215 - Kandahar.txt
+'1216': 1216 - Jalalabad.txt
+'1217': 1217 - Ghazni.txt
+'1218': 1218 - Peshawar.txt
+'1219': 1219 - Quetta.txt
+'122': 122 - Rapid City.txt
+'1220': 1220 - Dalbandin.txt
+'1221': 1221 - Kalat.txt
+'1222': 1222 - Bela.txt
+'1223': 1223 - Chitral.txt
+'1224': 1224 - Srinagar.txt
+'1225': 1225 - Gilgit.txt
+'1226': 1226 - Leh.txt
+'1227': 1227 - Lahore.txt
+'1228': 1228 - Multan.txt
+'1229': 1229 - Sialkot.txt
+'123': 123 - Omaha.txt
+'1230': 1230 - Attock.txt
+'1231': 1231 - Bahawalpur.txt
+'1232': 1232 - Shahpur.txt
+'1233': 1233 - Amritsar.txt
+'1234': 1234 - Firuzapur.txt
+'1235': 1235 - Simla.txt
+'1236': 1236 - Delhi.txt
+'1237': 1237 - Panipat.txt
+'1238': 1238 - Dehra Dun.txt
+'1239': 1239 - Meerut.txt
+'124': 124 - Alliance.txt
+'1240': 1240 - Agra.txt
+'1241': 1241 - Cawnpore.txt
+'1242': 1242 - Lucknow.txt
+'1243': 1243 - Allahabad.txt
+'1244': 1244 - Fyzabad.txt
+'1245': 1245 - Benares.txt
+'1246': 1246 - Gorakhpur.txt
+'1247': 1247 - Patna.txt
+'1248': 1248 - Gaya.txt
+'1249': 1249 - Kharswari.txt
+'125': 125 - North Platte.txt
+'1250': 1250 - Bhagalpur.txt
+'1251': 1251 - Calcutta.txt
+'1252': 1252 - Darjeeling.txt
+'1253': 1253 - Bardwan.txt
+'1254': 1254 - Dacca.txt
+'1255': 1255 - Rajshahi.txt
+'1256': 1256 - Jessore.txt
+'1257': 1257 - Chittagong.txt
+'1258': 1258 - Gauhati.txt
+'1259': 1259 - Imphal.txt
+'126': 126 - Topeka.txt
+'1260': 1260 - Dibrugarh.txt
+'1261': 1261 - Cuttack.txt
+'1262': 1262 - Keunjahr.txt
+'1263': 1263 - Sambalpur.txt
+'1264': 1264 - Ajmer.txt
+'1265': 1265 - Jaisalmer.txt
+'1266': 1266 - Jodhpur.txt
+'1267': 1267 - Bikaner.txt
+'1268': 1268 - Jaipur.txt
+'1269': 1269 - Udaipur.txt
+'127': 127 - Goodland.txt
+'1270': 1270 - Gwalior.txt
+'1271': 1271 - Indore.txt
+'1272': 1272 - Bhopal.txt
+'1273': 1273 - Chhatarpur.txt
+'1274': 1274 - Rewali.txt
+'1275': 1275 - Jubulpore.txt
+'1276': 1276 - Hoshangabad.txt
+'1277': 1277 - Nagpur.txt
+'1278': 1278 - Amarati.txt
+'1279': 1279 - Jagdalpur.txt
+'128': 128 - Wichita.txt
+'1280': 1280 - Raipur.txt
+'1281': 1281 - Bilaspur.txt
+'1282': 1282 - Raigarh.txt
+'1283': 1283 - Hyderabad.txt
+'1284': 1284 - Aurangabad.txt
+'1285': 1285 - Nizamabad.txt
+'1286': 1286 - Gulbarga.txt
+'1287': 1287 - Warangal.txt
+'1288': 1288 - Karachi.txt
+'1289': 1289 - Sukkur.txt
+'129': 129 - Oklahoma City.txt
+'1290': 1290 - Umarkot.txt
+'1291': 1291 - Ahmedabad.txt
+'1292': 1292 - Rajkot.txt
+'1293': 1293 - Mandvi.txt
+'1294': 1294 - Patan.txt
+'1295': 1295 - Beroda.txt
+'1296': 1296 - Surat.txt
+'1297': 1297 - Bombay.txt
+'1298': 1298 - Nasik.txt
+'1299': 1299 - Poona.txt
+'13': 13 - Vancouver.txt
+'130': 130 - Tahlequah.txt
+'1300': 1300 - Bijapur.txt
+'1301': 1301 - Kolhapur.txt
+'1302': 1302 - Belgaum.txt
+'1303': 1303 - Goa.txt
+'1304': 1304 - Madras.txt
+'1305': 1305 - Vizagapatnam.txt
+'1306': 1306 - Masulipatnam.txt
+'1307': 1307 - Nellore.txt
+'1308': 1308 - Kurnool.txt
+'1309': 1309 - Tanjore.txt
+'131': 131 - Okmulgee.txt
+'1310': 1310 - Madurai.txt
+'1311': 1311 - Coimbatore.txt
+'1312': 1312 - Pondicherry.txt
+'1313': 1313 - Bangalore.txt
+'1314': 1314 - Mysore.txt
+'1315': 1315 - Chitaldroog.txt
+'1316': 1316 - Mangalore.txt
+'1317': 1317 - Calicut.txt
+'1318': 1318 - Cochin.txt
+'1319': 1319 - Trivandrum.txt
+'132': 132 - Houston.txt
+'1320': 1320 - Andaman Islands.txt
+'1321': 1321 - Colombo.txt
+'1322': 1322 - Jaffna.txt
+'1323': 1323 - Kandy.txt
+'1324': 1324 - Trincomalee.txt
+'1325': 1325 - Maldives.txt
+'1326': 1326 - Katmandu.txt
+'1327': 1327 - Jumla.txt
+'1328': 1328 - Tumlong.txt
+'1329': 1329 - Thimpu.txt
+'133': 133 - Austin.txt
+'1330': 1330 - Rangoon.txt
+'1331': 1331 - Bassein.txt
+'1332': 1332 - Pegu.txt
+'1333': 1333 - Toungoo.txt
+'1334': 1334 - Ava.txt
+'1335': 1335 - Kyaukse.txt
+'1336': 1336 - Magwe.txt
+'1337': 1337  Prome.txt
+'1338': 1338 - Taunggye.txt
+'1339': 1339 - Haka.txt
+'134': 134 - Dallas.txt
+'1340': 1340 - Lashio.txt
+'1341': 1341 - Putao.txt
+'1342': 1342 - Myitkyina.txt
+'1343': 1343 - Moulmein.txt
+'1344': 1344 - Mergui.txt
+'1345': 1345 - Sittwe.txt
+'1346': 1346 - Bangkok.txt
+'1347': 1347 - Lopburi.txt
+'1348': 1348 - Nakhon Sawan.txt
+'1349': 1349 - Sukothai.txt
+'135': 135 - Lubbock.txt
+'1350': 1350 - Nakhon Ratchasima.txt
+'1351': 1351 - Prachinburi.txt
+'1352': 1352 - Phuket.txt
+'1353': 1353 - Ratchaburi.txt
+'1354': 1354 - Nakhon Si Thammarat.txt
+'1355': 1355 - Chiang Mai.txt
+'1356': 1356 - Luangprabang.txt
+'1357': 1357 - Vientiane.txt
+'1358': 1358 - Udon Thani.txt
+'1359': 1359 - Sisaket.txt
+'136': 136 - El Paso.txt
+'1360': 1360 - Xiangabouli.txt
+'1361': 1361 - Savannakhet.txt
+'1362': 1362 - Satavan.txt
+'1363': 1363 - Pakche.txt
+'1364': 1364 - Phnom Penh.txt
+'1365': 1365 - Chanthaburi.txt
+'1366': 1366 - Battambang.txt
+'1367': 1367 - Kampot.txt
+'1368': 1368 - Stongtreng.txt
+'1369': 1369 - Hanoi.txt
+'137': 137 - San Antonio.txt
+'1370': 1370 - Haiphong.txt
+'1371': 1371 - Cao Bang.txt
+'1372': 1372 - Son La.txt
+'1373': 1373 - Lang Son.txt
+'1374': 1374 - Thanh Hoa.txt
+'1375': 1375 - Hue.txt
+'1376': 1376 - Vinh.txt
+'1377': 1377 - Tourane.txt
+'1378': 1378 - Pleiku.txt
+'1379': 1379 - Quinhon.txt
+'138': 138 - Laredo.txt
+'1380': 1380 - Saigon.txt
+'1381': 1381 - Dongquai.txt
+'1382': 1382 - Hatien.txt
+'1383': 1383 - Vinhlong.txt
+'1384': 1384 - Singapore.txt
+'1385': 1385 - Johor Bahru.txt
+'1386': 1386 - Malacca.txt
+'1387': 1387 - Kuala Lumpur.txt
+'1388': 1388 - Penang.txt
+'1389': 1389 - Alor Setar.txt
+'139': 139 - New Orleans.txt
+'1390': 1390 - Kuantan.txt
+'1391': 1391 - Kota Bahru.txt
+'1392': 1392 - Pattani.txt
+'1393': 1393 - Brunei.txt
+'1394': 1394 - Kuching.txt
+'1395': 1395 - Bintulu.txt
+'1396': 1396 - Api.txt
+'1397': 1397 - Sandakan.txt
+'1398': 1398 - Jambi.txt
+'1399': 1399 - Palembang.txt
+'14': 14 - Vancouver Island.txt
+'140': 140 - Baton Rouge.txt
+'1400': 1400 - Inderagiri.txt
+'1401': 1401 - Siak.txt
+'1402': 1402 - Tanjungpinang.txt
+'1403': 1403 - Lampung.txt
+'1404': 1404 - Palak Pinang.txt
+'1405': 1405 - Banda Aceh.txt
+'1406': 1406 - Medan.txt
+'1407': 1407 - Tapaktuan.txt
+'1408': 1408 - Padang.txt
+'1409': 1409 - Sibolga.txt
+'141': 141 - Lake Charles.txt
+'1410': 1410 - Bencoolen.txt
+'1411': 1411 - Gunungsitoli.txt
+'1412': 1412 - Aden.txt
+'1413': 1413 - Batavia.txt
+'1414': 1414 - Bogor.txt
+'1415': 1415 - Cirebon.txt
+'1416': 1416 - Yogyakarta.txt
+'1417': 1417 - Semarang.txt
+'1418': 1418 - Surabaya.txt
+'1419': 1419 - Surakarta.txt
+'142': 142 - Shreveport.txt
+'1420': 1420 - Probolinggo.txt
+'1421': 1421 - Madura.txt
+'1422': 1422 - Muraleve.txt
+'1423': 1423 - Banjarmasin.txt
+'1424': 1424 - Pasir.txt
+'1425': 1425 - Tarakan.txt
+'1426': 1426 - Pontianak.txt
+'1427': 1427 - Kota Waringin.txt
+'1428': 1428 - Sintang.txt
+'1429': 1429 - Samarinda.txt
+'143': 143 - Little Rock.txt
+'1430': 1430 - Makassar.txt
+'1431': 1431 - Bone.txt
+'1432': 1432 - Mamuju.txt
+'1433': 1433 - Menado.txt
+'1434': 1434 - Luwuk.txt
+'1435': 1435 - Palu.txt
+'1436': 1436 - Kendari.txt
+'1437': 1437 - Bulon.txt
+'1438': 1438 - Bali.txt
+'1439': 1439 - Flores.txt
+'144': 144 - Hot Springs.txt
+'1440': 1440 - Sumbawa.txt
+'1441': 1441 - Sumba.txt
+'1442': 1442 - Lombok.txt
+'1443': 1443 - Roti.txt
+'1444': 1444 - Alor.txt
+'1445': 1445 - Kaupeng.txt
+'1446': 1446 - Dili.txt
+'1447': 1447 - Ternate.txt
+'1448': 1448 - Jilolo.txt
+'1449': 1449 - Ambon.txt
+'145': 145 - Fayetteville.txt
+'1450': 1450 - Ceram.txt
+'1451': 1451 - Aru.txt
+'1452': 1452 - Biak.txt
+'1453': 1453 - Sorong.txt
+'1454': 1454 - Merah.txt
+'1455': 1455 - Manila.txt
+'1456': 1456 - Vigan.txt
+'1457': 1457 - Legazpi.txt
+'1458': 1458 - Mindoro.txt
+'1459': 1459 - Palawan.txt
+'146': 146 - St Louis.txt
+'1460': 1460 - Iloilo.txt
+'1461': 1461 - Tacloban.txt
+'1462': 1462 - Zamboanga.txt
+'1463': 1463 - Davao.txt
+'1464': 1464 - Sulu.txt
+'1465': 1465 - Urga.txt
+'1466': 1466 - Dalandzadgad.txt
+'1467': 1467 - Bayan Tumen.txt
+'1468': 1468 - Uliastai.txt
+'1469': 1469 - Kyzyl.txt
+'147': 147 - Joplin.txt
+'1470': 1470 - Anqing.txt
+'1471': 1471 - Chizhou.txt
+'1472': 1472 - Fengyang.txt
+'1473': 1473 - Huizhou.txt
+'1474': 1474 - Luzhou.txt
+'1475': 1475 - Ningguo.txt
+'1476': 1476 - Sizhou.txt
+'1477': 1477 - Taiping.txt
+'1478': 1478 - Yingzhou.txt
+'1479': 1479 - Mukden.txt
+'148': 148 - Malden.txt
+'1480': 1480 - Jinzhou.txt
+'1481': 1481 - Port Arthur.txt
+'1482': 1482 - Fuzhou.txt
+'1483': 1483 - Jianning.txt
+'1484': 1484 - Quanzhou.txt
+'1485': 1485 - Taibei.txt
+'1486': 1486 - Tingzhou.txt
+'1487': 1487 - Zhangzhou.txt
+'1488': 1488 - Gansu.txt
+'1489': 1489 - Gongchang.txt
+'149': 149 - Jefferson City.txt
+'1490': 1490 - Lanzhou.txt
+'1491': 1491 - Ningxia.txt
+'1492': 1492 - Pingliang.txt
+'1493': 1493 - Canton.txt
+'1494': 1494 - Chaozhou.txt
+'1495': 1495 - Gauzhou.txt
+'1496': 1496 - Hong Kong.txt
+'1497': 1497 - Waizao.txt
+'1498': 1498 - Macao.txt
+'1499': 1499 - Hainan.txt
+'15': 15 - Prince Rupert.txt
+'150': 150 - Kansas City.txt
+'1500': 1500 - Shaozhou.txt
+'1501': 1501 - Zhaoqing.txt
+'1502': 1502 - Nanning.txt
+'1503': 1503 - Guilin.txt
+'1504': 1504 - Pingle.txt
+'1505': 1505 - Guiyang.txt
+'1506': 1506 - Anshun.txt
+'1507': 1507 - Zhenyuan.txt
+'1508': 1508 - Kaifeng.txt
+'1509': 1509 - Guide.txt
+'151': 151 - Des Moines.txt
+'1510': 1510 - Henan.txt
+'1511': 1511 - Huaiqing.txt
+'1512': 1512 - Chenzhou.txt
+'1513': 1513 - Nanyang.txt
+'1514': 1514 - Runing.txt
+'1515': 1515 - Weihui.txt
+'1516': 1516 - Hanyang.txt
+'1517': 1517 - Dean.txt
+'1518': 1518 - Huangzhou.txt
+'1519': 1519 - Anlu.txt
+'152': 152 - Oskaloosa.txt
+'1520': 1520 - Jingzhou.txt
+'1521': 1521 - Shinan.txt
+'1522': 1522 - Wuchang.txt
+'1523': 1523 - Xiangyang.txt
+'1524': 1524 - Changsha.txt
+'1525': 1525 - Changde.txt
+'1526': 1526 - Baoqing.txt
+'1527': 1527 - Hengzhou.txt
+'1528': 1528 - Yuezhou.txt
+'1529': 1529 - Yongshun.txt
+'153': 153 - Cedar Rapids.txt
+'1530': 1530 - Yongzhou.txt
+'1531': 1531 - New Ireland.txt
+'1532': 1532 - Guihua Tumed.txt
+'1533': 1533 - Jirim Chuulgan.txt
+'1534': 1534 - Ulaan Chab Chuulghan.txt
+'1535': 1535 - Yeke Juu Chuulghan.txt
+'1536': 1536 - Huaian.txt
+'1537': 1537 - Changzhou.txt
+'1538': 1538 - Shanghai.txt
+'1539': 1539 - Suzhou.txt
+'154': 154 - Sioux City.txt
+'1540': 1540 - Taicangzhou.txt
+'1541': 1541 - Tongzhou.txt
+'1542': 1542 - Xuzhou.txt
+'1543': 1543 - Yangzhou.txt
+'1544': 1544 - Zhenjiang.txt
+'1545': 1545 - Nanchang.txt
+'1546': 1546 - Guangxin.txt
+'1547': 1547 - Jian.txt
+'1548': 1548 - Jianchang.txt
+'1549': 1549 - Jiujiang.txt
+'155': 155 - Minneapolis.txt
+'1550': 1550 - Ganzhou.txt
+'1551': 1551 - Raozhou.txt
+'1552': 1552 - Qiqihar.txt
+'1553': 1553 - Aigun.txt
+'1554': 1554 - Ninguta.txt
+'1555': 1555 - Jilin.txt
+'1556': 1556 - Makhai.txt
+'1557': 1557 - Balekungomi.txt
+'1558': 1558 - Kegudo.txt
+'1559': 1559 - Xian.txt
+'156': 156 - Granite Falls.txt
+'1560': 1560 - Merauke.txt
+'1561': 1561 - Yenan.txt
+'1562': 1562 - Hanzhong.txt
+'1563': 1563 - Jinan.txt
+'1564': 1564 - Caozhou.txt
+'1565': 1565 - Laizhou.txt
+'1566': 1566 - Qingdao.txt
+'1567': 1567 - Qingzhou.txt
+'1568': 1568 - Taian.txt
+'1569': 1569 - Weihaiwei.txt
+'157': 157 - Moorehead.txt
+'1570': 1570 - Wuding.txt
+'1571': 1571 - Yizhou.txt
+'1572': 1572 - Taiyuan.txt
+'1573': 1573 - Fenzhou.txt
+'1574': 1574 - Luan.txt
+'1575': 1575 - Pingyang.txt
+'1576': 1576 - Datong.txt
+'1577': 1577 - Chongqing.txt
+'1578': 1578 - Chengdu.txt
+'1579': 1579 - Baotung.txt
+'158': 158 - Duluth.txt
+'1580': 1580 - Jiading.txt
+'1581': 1581 - Kuizhou.txt
+'1582': 1582 - Longan.txt
+'1583': 1583 - Shunqing.txt
+'1584': 1584 - Tongchuan.txt
+'1585': 1585 - Yibin.txt
+'1586': 1586 - Yazhou.txt
+'1587': 1587 - Lhasa.txt
+'1588': 1588 - Chamdo.txt
+'1589': 1589 - Shigatse.txt
+'159': 159 - Milwaukee.txt
+'1590': 1590 - Lhodrak.txt
+'1591': 1591 - Changtang.txt
+'1592': 1592 - Ngari.txt
+'1593': 1593 - Tawang.txt
+'1594': 1594 - Kashgar.txt
+'1595': 1595 - Ili.txt
+'1596': 1596 - Tulta.txt
+'1597': 1597 - Aksu.txt
+'1598': 1598 - Khotan.txt
+'1599': 1599 - Kumul.txt
+'16': 16 - Glenora.txt
+'160': 160 - Eau Claire.txt
+'1600': 1600 - Urumqi.txt
+'1601': 1601 - Kunming.txt
+'1602': 1602 - Dali.txt
+'1603': 1603 - Puer.txt
+'1604': 1604 - Hangzhou.txt
+'1605': 1605 - Huzhou.txt
+'1606': 1606 - Jiaxing.txt
+'1607': 1607 - Jinhua.txt
+'1608': 1608 - Ningbo.txt
+'1609': 1609 - Shaoxing.txt
+'161': 161 - Green Bay.txt
+'1610': 1610 - Taizhou.txt
+'1611': 1611 - Wenzhou.txt
+'1612': 1612 - Beijing.txt
+'1613': 1613 - Chengde.txt
+'1614': 1614 - Daming.txt
+'1615': 1615 - Jizhou.txt
+'1616': 1616 - Shuntian.txt
+'1617': 1617 - Tianjin.txt
+'1618': 1618 - Zhongding.txt
+'1619': 1619 - Pyongyang.txt
+'162': 162 - Madison.txt
+'1620': 1620 - Chonchon.txt
+'1621': 1621 - Hamhung.txt
+'1622': 1622 - Chongjin.txt
+'1623': 1623 - Kimchaek.txt
+'1624': 1624 - Seoul.txt
+'1625': 1625 - Kaesong.txt
+'1626': 1626 - Haeju.txt
+'1627': 1627 - Sariwon.txt
+'1628': 1628 - Inchon.txt
+'1629': 1629 - Wonsan.txt
+'163': 163 - Chicago.txt
+'1630': 1630 - Kangnung.txt
+'1631': 1631 - Wonju.txt
+'1632': 1632 - Pusan.txt
+'1633': 1633 - Taegu.txt
+'1634': 1634 - Pohang.txt
+'1635': 1635 - Kwangju.txt
+'1636': 1636 - Taejon.txt
+'1637': 1637 - Cheju.txt
+'1638': 1638 - Hiroshima.txt
+'1639': 1639 - Okayama.txt
+'164': 164 - Rockford.txt
+'1640': 1640 - Yamaguchi.txt
+'1641': 1641 - Matsue.txt
+'1642': 1642 - Hakodate.txt
+'1643': 1643 - Ishikara.txt
+'1644': 1644 - Nemuru.txt
+'1645': 1645 - Niigata.txt
+'1646': 1646 - Kanazawa.txt
+'1647': 1647 - Fukui.txt
+'1648': 1648 - Toyama.txt
+'1649': 1649 - Edo.txt
+'165': 165 - Champaign.txt
+'1650': 1650 - Chiba.txt
+'1651': 1651 - Yokohama.txt
+'1652': 1652 - Urawa.txt
+'1653': 1653 - Mito.txt
+'1654': 1654 - Bonin.txt
+'1655': 1655 - Osaka.txt
+'1656': 1656 - Wakayama.txt
+'1657': 1657 - Kyoto.txt
+'1658': 1658 - Nara.txt
+'1659': 1659 - Kobe.txt
+'166': 166 - Peoria.txt
+'1660': 1660 - Fukuoka.txt
+'1661': 1661 - Nagasaki.txt
+'1662': 1662 - Kagoshima.txt
+'1663': 1663 - Miyazaki.txt
+'1664': 1664 - Kumamoto.txt
+'1665': 1665 - Kochi.txt
+'1666': 1666 - Matsuyama.txt
+'1667': 1667 - Tokushima.txt
+'1668': 1668 - Sendai.txt
+'1669': 1669 - Fukushima.txt
+'167': 167 - Springfield.txt
+'1670': 1670 - Morioka.txt
+'1671': 1671 - Akita.txt
+'1672': 1672 - Aomori.txt
+'1673': 1673 - Yamagata.txt
+'1674': 1674 - Utsunomiya.txt
+'1675': 1675 - Nagoya.txt
+'1676': 1676 - Shizuoka.txt
+'1677': 1677 - Nagano.txt
+'1678': 1678 - Okinawa.txt
+'1679': 1679 - Amari.txt
+'168': 168 - Carbondale.txt
+'1680': 1680 - Fez.txt
+'1681': 1681 - Wazzan.txt
+'1682': 1682 - Meknes.txt
+'1683': 1683 - Taza.txt
+'1684': 1684 - Wujda.txt
+'1685': 1685 - Rabat.txt
+'1686': 1686 - Tangier.txt
+'1687': 1687 - Tetouan.txt
+'1688': 1688 - Ajdir.txt
+'1689': 1689 - Melilla.txt
+'169': 169 - Indianapolis.txt
+'1690': 1690 - Marrakesh.txt
+'1691': 1691 - Casablanca.txt
+'1692': 1692 - Huribka.txt
+'1693': 1693 - Sawira.txt
+'1694': 1694 - Agadir.txt
+'1695': 1695 - Ifni.txt
+'1696': 1696 - Tarfaya.txt
+'1697': 1697 - Figuig.txt
+'1698': 1698 - Rashidia.txt
+'1699': 1699 - Warzazat.txt
+'17': 17 - Atlin.txt
+'170': 170 - Evansville.txt
+'1700': 1700 - Algiers.txt
+'1701': 1701 - Bougie.txt
+'1702': 1702 - Setif.txt
+'1703': 1703 - Medea.txt
+'1704': 1704 - Oran.txt
+'1705': 1705 - Tlemcen.txt
+'1706': 1706 - Mustaghanim.txt
+'1707': 1707 - Mascara.txt
+'1708': 1708 - Constantine.txt
+'1709': 1709 - Bone.txt
+'171': 171 - South Bend.txt
+'1710': 1710 - Biskra.txt
+'1711': 1711 - Ouargla.txt
+'1712': 1712 - Tuggurt.txt
+'1713': 1713 - Laghwat.txt
+'1714': 1714 - Bechar.txt
+'1715': 1715 - Naama.txt
+'1716': 1716 - Tindouf.txt
+'1717': 1717 - Chenachene.txt
+'1718': 1718 - In Salah.txt
+'1719': 1719 - Ilizi.txt
+'172': 172 - Fort Wayne.txt
+'1720': 1720 - Timimoun.txt
+'1721': 1721 - In Guezzam.txt
+'1722': 1722 - Tin Zawatene.txt
+'1723': 1723 - Panama Canal.txt
+'1724': 1724 - Tamanrasset.txt
+'1725': 1725 - Tunis.txt
+'1726': 1726 - Bizerte.txt
+'1727': 1727 - Gafsa.txt
+'1728': 1728 - Kairouan.txt
+'1729': 1729 - Tozeur.txt
+'173': 173 - Detroit.txt
+'1730': 1730 - Gabes.txt
+'1731': 1731 - Tripoli.txt
+'1732': 1732 - Ghayran.txt
+'1733': 1733 - Misratah.txt
+'1734': 1734 - Sirt.txt
+'1735': 1735 - Benghazi.txt
+'1736': 1736 - Darna.txt
+'1737': 1737 - Tobruk.txt
+'1738': 1738 - Jaghbub.txt
+'1739': 1739 - Kufra.txt
+'174': 174 - Grand Rapids.txt
+'1740': 1740 - Waddan.txt
+'1741': 1741 - Murzuk.txt
+'1742': 1742 - Sabha.txt
+'1743': 1743 - Ghat.txt
+'1744': 1744 - Ghadamis.txt
+'1745': 1745 - Cairo.txt
+'1746': 1746 - Dumyat.txt
+'1747': 1747 - Tanta.txt
+'1748': 1748 - Mansura.txt
+'1749': 1749 - Ziqaziq.txt
+'175': 175 - Saginaw.txt
+'1750': 1750 - Giza.txt
+'1751': 1751 - Alexandria.txt
+'1752': 1752 - Matruh.txt
+'1753': 1753 - Sidi Barrani.txt
+'1754': 1754 - Siwa.txt
+'1755': 1755 - Suez Canal.txt
+'1756': 1756 - Al Arish.txt
+'1757': 1757 - Sharm al Shaykh.txt
+'1758': 1758 - Farafra.txt
+'1759': 1759 - Bawiti.txt
+'176': 176 - Traverse City.txt
+'1760': 1760 - Mut.txt
+'1761': 1761 - Baris.txt
+'1762': 1762 - Asyut.txt
+'1763': 1763 - Bani Suwayf.txt
+'1764': 1764 - Minya.txt
+'1765': 1765 - Fayyum.txt
+'1766': 1766 - Aswan.txt
+'1767': 1767 - Luxor.txt
+'1768': 1768 - Idfu.txt
+'1769': 1769 - Qina.txt
+'177': 177 - Marquette.txt
+'1770': 1770 - Qusayr.txt
+'1771': 1771 - Marsa Alam.txt
+'1772': 1772 - Ras Gharib.txt
+'1773': 1773 - Aaiun.txt
+'1774': 1774 - Dakhla.txt
+'1775': 1775 - Nouakchott.txt
+'1776': 1776 - Rosso.txt
+'1777': 1777 - Aleg.txt
+'1778': 1778 - Maghama.txt
+'1779': 1779 - Shingit.txt
+'178': 178 - Cleveland.txt
+'1780': 1780 - Tishit.txt
+'1781': 1781 - Walata.txt
+'1782': 1782 - Bir Murghayn.txt
+'1783': 1783 - Dakar.txt
+'1784': 1784 - Saint.txt
+'1785': 1785 - Banjul.txt
+'1786': 1786 - Linguere.txt
+'1787': 1787 - Diourbel.txt
+'1788': 1788 - Kaolack.txt
+'1789': 1789 - Podor.txt
+'179': 179 - Columbus.txt
+'1790': 1790 - Matam.txt
+'1791': 1791 - Bakel.txt
+'1792': 1792 - Ziguinchor.txt
+'1793': 1793 - Velingara.txt
+'1794': 1794 - Bamako.txt
+'1795': 1795 - Kayes.txt
+'1796': 1796 - Nioro.txt
+'1797': 1797 - Kita.txt
+'1798': 1798 - Bougouni.txt
+'1799': 1799 - Sikasso.txt
+'18': 18 - Fort Saint John.txt
+'180': 180 - Sandusky.txt
+'1800': 1800 - Segu.txt
+'1801': 1801 - Mourdiah.txt
+'1802': 1802 - Jenne.txt
+'1803': 1803 - Timbuktu.txt
+'1804': 1804 - Bandiagara.txt
+'1805': 1805 - Gao.txt
+'1806': 1806 - Taoudenni.txt
+'1807': 1807 - Tessalit.txt
+'1808': 1808 - Niamey.txt
+'1809': 1809 - Say.txt
+'181': 181 - Dayton.txt
+'1810': 1810 - Dosso.txt
+'1811': 1811 - Maradi.txt
+'1812': 1812 - Agades.txt
+'1813': 1813 - Arlit.txt
+'1814': 1814 - Madama.txt
+'1815': 1815 - Zinder.txt
+'1816': 1816 - Kufe.txt
+'1817': 1817 - Bilma.txt
+'1818': 1818 - Massenya.txt
+'1819': 1819 - Moundou.txt
+'182': 182 - Cincinnati.txt
+'1820': 1820 - Bongor.txt
+'1821': 1821 - Abeche.txt
+'1822': 1822 - Am Timan.txt
+'1823': 1823 - Mongo.txt
+'1824': 1824 - Mao.txt
+'1825': 1825 - Zouar.txt
+'1826': 1826 - Faya.txt
+'1827': 1827 - Khartoum.txt
+'1828': 1828 - Wad Madani.txt
+'1829': 1829 - Kassala.txt
+'183': 183 - Marietta.txt
+'1830': 1830 - Sennar.txt
+'1831': 1831 - Rabak.txt
+'1832': 1832 - Fashoda.txt
+'1833': 1833 - Suakin.txt
+'1834': 1834 - Halaib.txt
+'1835': 1835 - Dongola.txt
+'1836': 1836 - Hayya.txt
+'1837': 1837 - Atbara.txt
+'1838': 1838 - Obeid.txt
+'1839': 1839 - Nuhud.txt
+'184': 184 - Louisville.txt
+'1840': 1840 - Kaduqli.txt
+'1841': 1841 - Fasher.txt
+'1842': 1842 - Junayah.txt
+'1843': 1843 - Waw.txt
+'1844': 1844 - Bor.txt
+'1845': 1845 - Yambio.txt
+'1846': 1846 - Lado.txt
+'1847': 1847 - Kapoeta.txt
+'1848': 1848 - Asmara.txt
+'1849': 1849 - Massawa.txt
+'185': 185 - Lexington.txt
+'1850': 1850 - Akordat.txt
+'1851': 1851 - Assab.txt
+'1852': 1852 - Gonder.txt
+'1853': 1853 - Debre Tabor.txt
+'1854': 1854 - Matamma.txt
+'1855': 1855 - Debre Markos.txt
+'1856': 1856 - Aksum.txt
+'1857': 1857 - Antalo.txt
+'1858': 1858 - Awsa.txt
+'1859': 1859 - Ankober.txt
+'186': 186 - Bowling Green.txt
+'1860': 1860 - Awasa.txt
+'1861': 1861 - Aselia.txt
+'1862': 1862 - Bonga.txt
+'1863': 1863 - Asosa.txt
+'1864': 1864 - Negele.txt
+'1865': 1865 - Harer.txt
+'1866': 1866 - Goba.txt
+'1867': 1867 - Werder.txt
+'1868': 1868 - Mogadishu.txt
+'1869': 1869 - Baidoa.txt
+'187': 187 - Paducah.txt
+'1870': 1870 - Kismayo.txt
+'1871': 1871 - Hobye.txt
+'1872': 1872 - Busaso.txt
+'1873': 1873 - Berbera.txt
+'1874': 1874 - Zeyla.txt
+'1875': 1875 - Djibuti.txt
+'1876': 1876 - Cape Verde.txt
+'1877': 1877 - Bissau.txt
+'1878': 1878 - Gabu.txt
+'1879': 1879 - Boffa.txt
+'188': 188 - Nashville.txt
+'1880': 1880 - Timbo.txt
+'1881': 1881 - Dinguiraye.txt
+'1882': 1882 - Kankan.txt
+'1883': 1883 - Beyla.txt
+'1884': 1884 - Freetown.txt
+'1885': 1885 - Falaba.txt
+'1886': 1886 - Bo.txt
+'1887': 1887 - Monrovia.txt
+'1888': 1888 - Harper.txt
+'1889': 1889 - Bopolu.txt
+'189': 189 - Memphis.txt
+'1890': 1890 - Gbarnga.txt
+'1891': 1891 - Zwedru.txt
+'1892': 1892 - Grand Lahou.txt
+'1893': 1893 - Sassandra.txt
+'1894': 1894 - Grand Bassam.txt
+'1895': 1895 - Bouake.txt
+'1896': 1896 - Man.txt
+'1897': 1897 - Akoupe.txt
+'1898': 1898 - Kong.txt
+'1899': 1899 - Bondouku.txt
+'19': 19 - Prince George.txt
+'190': 190 - Knoxville.txt
+'1900': 1900 - Odienne.txt
+'1901': 1901 - Wagadugu.txt
+'1902': 1902 - Wahiguya.txt
+'1903': 1903 - Dori.txt
+'1904': 1904 - Fada Ngourma.txt
+'1905': 1905 - Bobo Dioulasso.txt
+'1906': 1906 - Orodaro.txt
+'1907': 1907 - Accra.txt
+'1908': 1908 - Cape Coast.txt
+'1909': 1909 - Sekondi.txt
+'191': 191 - Chattanooga.txt
+'1910': 1910 - Kumasi.txt
+'1911': 1911 - Kintampo.txt
+'1912': 1912 - Wa.txt
+'1913': 1913 - Tamale.txt
+'1914': 1914 - Lome.txt
+'1915': 1915 - Ho.txt
+'1916': 1916 - Yendi.txt
+'1917': 1917 - Atakpane.txt
+'1918': 1918 - Sokode.txt
+'1919': 1919 - Cotonou.txt
+'192': 192 - Jackson.txt
+'1920': 1920 - Abomey.txt
+'1921': 1921 - Nikki.txt
+'1922': 1922 - Jugu.txt
+'1923': 1923 - Lagos.txt
+'1924': 1924 - Abeokuta.txt
+'1925': 1925 - Ibadan.txt
+'1926': 1926 - Ife.txt
+'1927': 1927 - Ilorin.txt
+'1928': 1928 - Benin.txt
+'1929': 1929 - Akure.txt
+'193': 193 - Vicksburg.txt
+'1930': 1930 - Lokoja.txt
+'1931': 1931 - Warri.txt
+'1932': 1932 - Bonny.txt
+'1933': 1933 - Awka.txt
+'1934': 1934 - Calabar.txt
+'1935': 1935 - Aruchukwu.txt
+'1936': 1936 - Makurdi.txt
+'1937': 1937 - Tukari.txt
+'1938': 1938 - Bussa.txt
+'1939': 1939 - Zaria.txt
+'194': 194 - Biloxi.txt
+'1940': 1940 - Bida.txt
+'1941': 1941 - Abuja.txt
+'1942': 1942 - Bauchi.txt
+'1943': 1943 - Jos.txt
+'1944': 1944 - Gombe.txt
+'1945': 1945 - Kano.txt
+'1946': 1946 - Kebbi.txt
+'1947': 1947 - Katsina.txt
+'1948': 1948 - Sokoto.txt
+'1949': 1949 - Hadejia.txt
+'195': 195 - Montgomery.txt
+'1950': 1950 - Yola.txt
+'1951': 1951 - Kuka.txt
+'1952': 1952 - Nguru.txt
+'1953': 1953 - Dikoa.txt
+'1954': 1954 - Sao Tome.txt
+'1955': 1955 - Fernando Po.txt
+'1956': 1956 - Douala.txt
+'1957': 1957 - Buea.txt
+'1958': 1958 - Kribi.txt
+'1959': 1959 - Yaounde.txt
+'196': 196 - Tuscaloosa.txt
+'1960': 1960 - Bafoussam.txt
+'1961': 1961 - Bamenda.txt
+'1962': 1962 - Bertoua.txt
+'1963': 1963 - Ngaoundere.txt
+'1964': 1964 - Maroua.txt
+'1965': 1965 - Bangui.txt
+'1966': 1966 - Nola.txt
+'1967': 1967 - Bouar.txt
+'1968': 1968 - Bossangoa.txt
+'1969': 1969 - Zemio.txt
+'197': 197 - Mobile.txt
+'1970': 1970 - Bangassou.txt
+'1971': 1971 - Ndele.txt
+'1972': 1972 - Libreville.txt
+'1973': 1973 - Bata.txt
+'1974': 1974 - Mayumbe.txt
+'1975': 1975 - Moanda.txt
+'1976': 1976 - Makokou.txt
+'1977': 1977 - Nkuna.txt
+'1978': 1978 - Madingou.txt
+'1979': 1979 - Biloka.txt
+'198': 198 - Tallahassee.txt
+'1980': 1980 - Djambala.txt
+'1981': 1981 - Impfondo.txt
+'1982': 1982 - Kinshasa.txt
+'1983': 1983 - Boma.txt
+'1984': 1984 - Kananga.txt
+'1985': 1985 - Kumbana.txt
+'1986': 1986 - Lusambo.txt
+'1987': 1987 - Bunkeya.txt
+'1988': 1988 - Mussumba.txt
+'1989': 1989 - Munza.txt
+'199': 199 - St Augustine.txt
+'1990': 1990 - Nyangwe.txt
+'1991': 1991 - Uvira.txt
+'1992': 1992 - Basoko.txt
+'1993': 1993 - Irebu.txt
+'1994': 1994 - Nsheng.txt
+'1995': 1995 - Gemena.txt
+'1996': 1996 - Kisangani.txt
+'1997': 1997 - Mungbane.txt
+'1998': 1998 - Baramo.txt
+'1999': 1999 - Luanda.txt
+'2': 2 - Yakutat.txt
+'20': 20 - Kelowna.txt
+'200': 200 - Tampa.txt
+'2000': 2000 - Cabinda.txt
+'2001': 2001 - Mbanza.txt
+'2002': 2002 - Quibala.txt
+'2003': 2003 - Benguela.txt
+'2004': 2004 - Mocamedes.txt
+'2005': 2005 - Huambo.txt
+'2006': 2006 - Kuito.txt
+'2007': 2007 - Mavinga.txt
+'2008': 2008 - Ondjiva.txt
+'2009': 2009 - Malanje.txt
+'201': 201 - Atlanta.txt
+'2010': 2010 - Saurimo.txt
+'2011': 2011 - Kubanda.txt
+'2012': 2012 - Lusaka.txt
+'2013': 2013 - Mongu.txt
+'2014': 2014 - Kasempa.txt
+'2015': 2015 - Monzo.txt
+'2016': 2016 - Kazembe.txt
+'2017': 2017 - Kasema.txt
+'2018': 2018 - Chipata.txt
+'2019': 2019 - Entebbe.txt
+'202': 202 - Valdosta.txt
+'2020': 2020 - Mbarara.txt
+'2021': 2021 - Masindi.txt
+'2022': 2022 - Kitgum.txt
+'2023': 2023 - Jinja.txt
+'2024': 2024 - Nairobi.txt
+'2025': 2025 - Marsabit.txt
+'2026': 2026 - Lodwar.txt
+'2027': 2027 - Nakuru.txt
+'2028': 2028 - Kisumu.txt
+'2029': 2029 - Mombasa.txt
+'203': 203 - Bermuda.txt
+'2030': 2030 - Lamu.txt
+'2031': 2031 - Wajir.txt
+'2032': 2032 - Garissa.txt
+'2033': 2033 - Voi.txt
+'2034': 2034 - Kigali.txt
+'2035': 2035 - Usumbura.txt
+'2036': 2036 - Dar Es Salaam.txt
+'2037': 2037 - Tanga.txt
+'2038': 2038 - Kilwa.txt
+'2039': 2039 - Lindi.txt
+'204': 204 - Savannah.txt
+'2040': 2040 - Songea.txt
+'2041': 2041 - Masasi.txt
+'2042': 2042 - Iringa.txt
+'2043': 2043 - Tabora.txt
+'2044': 2044 - Mwanza.txt
+'2045': 2045 - Morogoro.txt
+'2046': 2046 - Ujiji.txt
+'2047': 2047 - Arusha.txt
+'2048': 2048 - Zanzibar.txt
+'2049': 2049 - Maputo.txt
+'205': 205 - Charleston.txt
+'2050': 2050 - Chaimate.txt
+'2051': 2051 - Inhambane.txt
+'2052': 2052 - Massekisse.txt
+'2053': 2053 - Sena.txt
+'2054': 2054 - Tete.txt
+'2055': 2055 - Songo.txt
+'2056': 2056 - Zombo.txt
+'2057': 2057 - Sofala.txt
+'2058': 2058 - Mossurize.txt
+'2059': 2059 - Quelimane.txt
+'206': 206 - Columbia.txt
+'2060': 2060 - Mocambique.txt
+'2061': 2061 - Angoche.txt
+'2062': 2062 - Shangzhou.txt
+'2063': 2063 - Ibo.txt
+'2064': 2064 - Nampula.txt
+'2065': 2065 - Milange.txt
+'2066': 2066 - Zomba.txt
+'2067': 2067 - Lilongwe.txt
+'2068': 2068 - Harare.txt
+'2069': 2069 - Gweru.txt
+'207': 207 - Greenville.txt
+'2070': 2070 - Mutare.txt
+'2071': 2071 - Bulawayo.txt
+'2072': 2072 - Hwange.txt
+'2073': 2073 - Masvingo.txt
+'2074': 2074 - Gaborone.txt
+'2075': 2075 - Serowe.txt
+'2076': 2076 - Nokaneng.txt
+'2077': 2077 - Tsabong.txt
+'2078': 2078 - Windhoek.txt
+'2079': 2079 - Swakopmund.txt
+'208': 208 - Raleigh.txt
+'2080': 2080 - Tsumeb.txt
+'2081': 2081 - Linyati.txt
+'2082': 2082 - Otjinene.txt
+'2083': 2083 - Walvis Bay.txt
+'2084': 2084 - Angra Pequena.txt
+'2085': 2085 - Nugouses.txt
+'2086': 2086 - Karasburg.txt
+'2087': 2087 - Cape Town.txt
+'2088': 2088 - Springbok.txt
+'2089': 2089 - Worcester.txt
+'209': 209 - Charlotte.txt
+'2090': 2090 - Swettenham.txt
+'2091': 2091 - Mossel Bay.txt
+'2092': 2092 - Beaufort.txt
+'2093': 2093 - Calvinia.txt
+'2094': 2094 - Kimberley.txt
+'2095': 2095 - Dikathong.txt
+'2096': 2096 - Port Elizabeth.txt
+'2097': 2097 - Graaf Reinet.txt
+'2098': 2098 - Bisho.txt
+'2099': 2099 - Mathele.txt
+'21': 21 - Vernon.txt
+'210': 210 - Wilmington.txt
+'2100': 2100 - Umtata.txt
+'2101': 2101 - Bloemfontein.txt
+'2102': 2102 - Winburg.txt
+'2103': 2103 - Philippolis.txt
+'2104': 2104 - Thaba Bosiu.txt
+'2105': 2105 - Pretoria.txt
+'2106': 2106 - Johannesburg.txt
+'2107': 2107 - Klerksdorp.txt
+'2108': 2108 - Mosega.txt
+'2109': 2109 - Lydenburg.txt
+'211': 211 - Richmond.txt
+'2110': 2110 - Thohoyandu.txt
+'2111': 2111 - Durban.txt
+'2112': 2112 - Ladysmith.txt
+'2113': 2113 - Ulundi.txt
+'2114': 2114 - Mbabane.txt
+'2115': 2115 - Tananarive.txt
+'2116': 2116 - Fianarantsoa.txt
+'2117': 2117 - Ampanihy.txt
+'2118': 2118 - Tolanaro.txt
+'2119': 2119 - Toamasina.txt
+'212': 212 - Manassas.txt
+'2120': 2120 - Antsiranana.txt
+'2121': 2121 - Mahajanga.txt
+'2122': 2122 - Toliara.txt
+'2123': 2123 - Comoros.txt
+'2124': 2124 - Mayotte.txt
+'2125': 2125 - Mauritius.txt
+'2126': 2126 - Bourbon.txt
+'2127': 2127 - Seychelles.txt
+'2128': 2128 - Diego Garcia.txt
+'2129': 2129 - Saint Helena.txt
+'213': 213 - Fredericksburg.txt
+'2130': 2130 - Ascension.txt
+'2131': 2131 - Falkland Islands.txt
+'2132': 2132 - Tristan da Cunha.txt
+'2133': 2133 - South Georgia.txt
+'2134': 2134 - Azores.txt
+'2135': 2135 - Madeira.txt
+'2136': 2136 - Canary Islands.txt
+'2137': 2137 - Hermosillo.txt
+'2138': 2138 - Loreto.txt
+'2139': 2139 - Rosarito.txt
+'214': 214 - Norfolk.txt
+'2140': 2140 - Nogales.txt
+'2141': 2141 - Guaymas.txt
+'2142': 2142 - Chihuahua.txt
+'2143': 2143 - Paso del Norte.txt
+'2144': 2144 - Delicias.txt
+'2145': 2145 - Parral.txt
+'2146': 2146 - Monterrey.txt
+'2147': 2147 - Morelos.txt
+'2148': 2148 - Reynosa.txt
+'2149': 2149 - Matamoros.txt
+'215': 215 - Staunton.txt
+'2150': 2150 - Ciudad Victoria.txt
+'2151': 2151 - Saltillo.txt
+'2152': 2152 - Monclova.txt
+'2153': 2153 - Durango.txt
+'2154': 2154 - Santa Maria del Oro.txt
+'2155': 2155 - Torreon.txt
+'2156': 2156 - Mazatlan.txt
+'2157': 2157 - Culiacan.txt
+'2158': 2158 - Zacatecas.txt
+'2159': 2159 - San Luis Potosi.txt
+'216': 216 - Roanoke.txt
+'2160': 2160 - Aguascalientes.txt
+'2161': 2161 - Tepic.txt
+'2162': 2162 - Veracruz.txt
+'2163': 2163 - Tampico.txt
+'2164': 2164 - Minatitlan.txt
+'2165': 2165 - Villahermosa.txt
+'2166': 2166 - Guadalajara.txt
+'2167': 2167 - Guanajuato.txt
+'2168': 2168 - Puerto Vallarta.txt
+'2169': 2169 - Colima.txt
+'217': 217 - Wheeling.txt
+'2170': 2170 - Morelia.txt
+'2171': 2171 - Los Alaniles.txt
+'2172': 2172 - Mexico City.txt
+'2173': 2173 - Queretaro.txt
+'2174': 2174 - Toluca.txt
+'2175': 2175 - Tulancingo.txt
+'2176': 2176 - Puebla.txt
+'2177': 2177 - Oaxaca.txt
+'2178': 2178 - Collataro.txt
+'2179': 2179 - Acapulco.txt
+'218': 218 - Huntington.txt
+'2180': 2180 - Chilpancingo.txt
+'2181': 2181 - Tuxtla.txt
+'2182': 2182 - Tapachula.txt
+'2183': 2183 - Merida.txt
+'2184': 2184 - Campeche.txt
+'2185': 2185 - Bacalar.txt
+'2186': 2186 - Guatemala.txt
+'2187': 2187 - Quetzaltenango.txt
+'2188': 2188 - Puerto Barrios.txt
+'2189': 2189 - Sayaxche.txt
+'219': 219 - Baltimore.txt
+'2190': 2190 - Belize.txt
+'2191': 2191 - San Salvador.txt
+'2192': 2192 - San Miguel.txt
+'2193': 2193 - Comayagua.txt
+'2194': 2194 - San Pedro Sula.txt
+'2195': 2195 - La Ceiba.txt
+'2196': 2196 - Puerto Lempira.txt
+'2197': 2197 - Managua.txt
+'2198': 2198 - Rivas.txt
+'2199': 2199 - Leon.txt
+'22': 22 - Edmonton.txt
+'220': 220 - Washington.txt
+'2200': 2200 - Bluefields.txt
+'2201': 2201 - San Jose.txt
+'2202': 2202 - Liberia.txt
+'2203': 2203 - Limon.txt
+'2204': 2204 - Panama City.txt
+'2205': 2205 - David.txt
+'2206': 2206 - Penonome.txt
+'2207': 2207 - Sainshand.txt
+'2208': 2208 - Yaviza.txt
+'2209': 2209 - Havana.txt
+'221': 221 - Hagerstown.txt
+'2210': 2210 - Jagua.txt
+'2211': 2211 - Camaguey.txt
+'2212': 2212 - Santiago de Cuba.txt
+'2213': 2213 - Port Au Prince.txt
+'2214': 2214 - Santo Domingo.txt
+'2215': 2215 - Cap Haitien.txt
+'2216': 2216 - La Vega.txt
+'2217': 2217 - Jamaica.txt
+'2218': 2218 - Cayman Islands.txt
+'2219': 2219 - Bahamas.txt
+'222': 222 - Dover.txt
+'2220': 2220 - Turks And Caicos.txt
+'2221': 2221 - Nanjing.txt
+'2222': 2222 - Puerto Rico.txt
+'2223': 2223 - Saint Thomas.txt
+'2224': 2224 - Antigua.txt
+'2225': 2225 - Montserrat.txt
+'2226': 2226 - Tortola.txt
+'2227': 2227 - Saint Kitts.txt
+'2228': 2228 - Martinique.txt
+'2229': 2229 - Barbados.txt
+'223': 223 - Philadelphia.txt
+'2230': 2230 - Guadeloupe.txt
+'2231': 2231 - Saint Lucia.txt
+'2232': 2232 - Dominica.txt
+'2233': 2233 - Grenada.txt
+'2234': 2234 - Curacao.txt
+'2235': 2235 - Aruba.txt
+'2236': 2236 - Saint Martin.txt
+'2237': 2237 - Trinidad.txt
+'2238': 2238 - Tobago.txt
+'2239': 2239 - Georgetown.txt
+'224': 224 - Scranton.txt
+'2240': 2240 - Paramaribo.txt
+'2241': 2241 - Cayenne.txt
+'2242': 2242 - Mahdia.txt
+'2243': 2243 - Essequibo.txt
+'2244': 2244 - Christmas Island.txt
+'2245': 2245 - Apetina.txt
+'2246': 2246 - Maripasoula.txt
+'2247': 2247 - Bogota.txt
+'2248': 2248 - Ibague.txt
+'2249': 2249 - Tunja.txt
+'225': 225 - Williamsport.txt
+'2250': 2250 - Manizales.txt
+'2251': 2251 - Cucuta.txt
+'2252': 2252 - Medellin.txt
+'2253': 2253 - Quibdo.txt
+'2254': 2254 - Cartagena de Indias.txt
+'2255': 2255 - Barranquilla.txt
+'2256': 2256 - Cali.txt
+'2257': 2257 - Popayan.txt
+'2258': 2258 - Buenaventura.txt
+'2259': 2259 - Pasto.txt
+'226': 226 - Harrisburg.txt
+'2260': 2260 - San Jose del Guaviare.txt
+'2261': 2261 - Obando.txt
+'2262': 2262 - Casanare.txt
+'2263': 2263 - El Encanto.txt
+'2264': 2264 - Caracas.txt
+'2265': 2265 - Guanare.txt
+'2266': 2266 - Calabozo.txt
+'2267': 2267 - Cumana.txt
+'2268': 2268 - San Felipe.txt
+'2269': 2269 - Guiria.txt
+'227': 227 - Pittsburgh.txt
+'2270': 2270 - Maracaibo.txt
+'2271': 2271 - Valera.txt
+'2272': 2272 - Coro.txt
+'2273': 2273 - Barquisimento.txt
+'2274': 2274 - Barinas.txt
+'2275': 2275 - Angostura.txt
+'2276': 2276 - Curiapo.txt
+'2277': 2277 - El Jobal.txt
+'2278': 2278 - San Fernado de Atabapo.txt
+'2279': 2279 - Quito.txt
+'228': 228 - Erie.txt
+'2280': 2280 - Guayaquil.txt
+'2281': 2281 - Esmereldas.txt
+'2282': 2282 - Loja.txt
+'2283': 2283 - Zamora.txt
+'2284': 2284 - Tena.txt
+'2285': 2285 - Galapagos.txt
+'2286': 2286 - Iquitos.txt
+'2287': 2287 - Yurimaguas.txt
+'2288': 2288 - Yuncos.txt
+'2289': 2289 - Puca Urco.txt
+'229': 229 - Newark.txt
+'2290': 2290 - Cajamarca.txt
+'2291': 2291 - Piura.txt
+'2292': 2292 - Trujillo.txt
+'2293': 2293 - Huanuco.txt
+'2294': 2294 - Moyobamba.txt
+'2295': 2295 - Lima.txt
+'2296': 2296 - Huancavelica.txt
+'2297': 2297 - Ica.txt
+'2298': 2298 - Huaraz.txt
+'2299': 2299 - Ayacucho.txt
+'23': 23 - Athabaska Landing.txt
+'230': 230 - Trenton.txt
+'2300': 2300 - Pucallpa.txt
+'2301': 2301 - Puerto Maldonado.txt
+'2302': 2302 - Cusco.txt
+'2303': 2303 - Puno.txt
+'2304': 2304 - Arequipa.txt
+'2305': 2305 - Antofagasta.txt
+'2306': 2306 - Sorocaba.txt
+'2307': 2307 - Iquique.txt
+'2308': 2308 - Arica.txt
+'2309': 2309 - Calama.txt
+'231': 231 - Atlantic City.txt
+'2310': 2310 - La Paz.txt
+'2311': 2311 - Cochabamba.txt
+'2312': 2312 - Oruro.txt
+'2313': 2313 - Chuquisaca.txt
+'2314': 2314 - Potosi.txt
+'2315': 2315 - Tarija.txt
+'2316': 2316 - Santa Cruz.txt
+'2317': 2317 - San Ignacio.txt
+'2318': 2318 - Robore.txt
+'2319': 2319 - Santa Ana.txt
+'232': 232 - New York.txt
+'2320': 2320 - Riberalta.txt
+'2321': 2321 - Cobija.txt
+'2322': 2322 - Copiapo.txt
+'2323': 2323 - La Serena.txt
+'2324': 2324 - Santiago.txt
+'2325': 2325 - Valparaiso.txt
+'2326': 2326 - Vina del Mar.txt
+'2327': 2327 - Talca.txt
+'2328': 2328 - Valdivia.txt
+'2329': 2329 - Temuco.txt
+'233': 233 - Long Island.txt
+'2330': 2330 - Cauquenes.txt
+'2331': 2331 - Chillan.txt
+'2332': 2332 - Osorno.txt
+'2333': 2333 - Puerto Aisen.txt
+'2334': 2334 - Punta Arenas.txt
+'2335': 2335 - Porvenir.txt
+'2336': 2336 - Easter Island.txt
+'2337': 2337 - Fortin Falcon.txt
+'2338': 2338 - Puerto Guarani.txt
+'2339': 2339 - Asuncion.txt
+'234': 234 - Albany.txt
+'2340': 2340 - Pilar.txt
+'2341': 2341 - Encarnacion.txt
+'2342': 2342 - San Pedro.txt
+'2343': 2343 - Concepcion.txt
+'2344': 2344 - Montevideo.txt
+'2345': 2345 - Paysandu.txt
+'2346': 2346 - Tacumba.txt
+'2347': 2347 - Melo.txt
+'2348': 2348 - Buenos Aires.txt
+'2349': 2349 - Junin.txt
+'235': 235 - Binghamton.txt
+'2350': 2350 - Azul.txt
+'2351': 2351 - La Plata.txt
+'2352': 2352 - Mar del Plata.txt
+'2353': 2353 - Trenque Lanquen.txt
+'2354': 2354 - Bahia Blanca.txt
+'2355': 2355 - Carmen.txt
+'2356': 2356 - Corrientes.txt
+'2357': 2357 - Curuzu Cuatia.txt
+'2358': 2358 - Santo Tomas.txt
+'2359': 2359 - Colon.txt
+'236': 236 - Buffalo.txt
+'2360': 2360 - Parana.txt
+'2361': 2361 - Santa Espiritu.txt
+'2362': 2362 - Reconquista.txt
+'2363': 2363 - Rosario.txt
+'2364': 2364 - Resistencia.txt
+'2365': 2365 - Villa Angela.txt
+'2366': 2366 - Formosa.txt
+'2367': 2367 - Xolotas.txt
+'2368': 2368 - Salta.txt
+'2369': 2369 - Jujuy.txt
+'237': 237 - Rochester.txt
+'2370': 2370 - Cochinoca.txt
+'2371': 2371 - Equia.txt
+'2372': 2372 - Rivadavia.txt
+'2373': 2373 - Tucuman.txt
+'2374': 2374 - Catamarca.txt
+'2375': 2375 - Vinchina.txt
+'2376': 2376 - Santiago del Estero.txt
+'2377': 2377 - Anatuya.txt
+'2378': 2378 - Mailin.txt
+'2379': 2379 - Cordoba de Argentina.txt
+'238': 238 - Syracuse.txt
+'2380': 2380 - Villa Nueva.txt
+'2381': 2381 - Rio Cuarto.txt
+'2382': 2382 - Renanco.txt
+'2383': 2383 - San Luis.txt
+'2384': 2384 - Mercedes.txt
+'2385': 2385 - La Rioja.txt
+'2386': 2386 - Santa Rita.txt
+'2387': 2387 - San Juan.txt
+'2388': 2388 - Calingasta.txt
+'2389': 2389 - Mendoza.txt
+'239': 239 - Watertown.txt
+'2390': 2390 - San Rafael.txt
+'2391': 2391 - Neuquen.txt
+'2392': 2392 - Viedma.txt
+'2393': 2393 - Telen.txt
+'2394': 2394 - Bariloche.txt
+'2395': 2395 - Curaco.txt
+'2396': 2396 - Rawson.txt
+'2397': 2397 - Esquel.txt
+'2398': 2398 - Puerto Deseado.txt
+'2399': 2399 - Rio Gallegos.txt
+'24': 24 - Jasper.txt
+'240': 240 - Plattsburgh.txt
+'2400': 2400 - Rio Grande.txt
+'2401': 2401 - Marabitanas.txt
+'2402': 2402 - Manaus.txt
+'2403': 2403 - Cachoeira.txt
+'2404': 2404 - Tefe.txt
+'2405': 2405 - Borba.txt
+'2406': 2406 - Cocos Islands.txt
+'2407': 2407 - Tabatinga.txt
+'2408': 2408 - Oriximina.txt
+'2409': 2409 - Saint Vincent.txt
+'241': 241 - Hartford.txt
+'2410': 2410 - Belem.txt
+'2411': 2411 - Santarem.txt
+'2412': 2412 - Obidos.txt
+'2413': 2413 - Maraba.txt
+'2414': 2414 - Amapa.txt
+'2415': 2415 - Macapa.txt
+'2416': 2416 - Dourados.txt
+'2417': 2417 - Vila Bela.txt
+'2418': 2418 - Cuiaba.txt
+'2419': 2419 - Corumba.txt
+'242': 242 - Providence.txt
+'2420': 2420 - Iguatemi.txt
+'2421': 2421 - Vila Boa.txt
+'2422': 2422 - Aganja.txt
+'2423': 2423 - Palmas.txt
+'2424': 2424 - Sao Luis.txt
+'2425': 2425 - Chapada.txt
+'2426': 2426 - Teresina.txt
+'2427': 2427 - Oeiras.txt
+'2428': 2428 - Paraiba.txt
+'2429': 2429 - Fortaleza.txt
+'243': 243 - Boston.txt
+'2430': 2430 - Crato.txt
+'2431': 2431 - Natal.txt
+'2432': 2432 - Recife.txt
+'2433': 2433 - Cabrobo.txt
+'2434': 2434 - Maceio.txt
+'2435': 2435 - Aracaju.txt
+'2436': 2436 - Salvador de Bahia.txt
+'2437': 2437 - Juazeiro.txt
+'2438': 2438 - Vila do Barra.txt
+'2439': 2439 - Porto Seguro.txt
+'244': 244 - New Bedford.txt
+'2440': 2440 - Vitoria da Conquista.txt
+'2441': 2441 - Ouro Preto.txt
+'2442': 2442 - Sabara.txt
+'2443': 2443 - Januaria.txt
+'2444': 2444 - Paracatu.txt
+'2445': 2445 - Uberaba.txt
+'2446': 2446 - Sao Joao del Rey.txt
+'2447': 2447 - Rio de Janeiro.txt
+'2448': 2448 - Campos.txt
+'2449': 2449 - Vitoria.txt
+'245': 245 - Pittsfield.txt
+'2450': 2450 - Sao Paulo.txt
+'2451': 2451 - Santos.txt
+'2452': 2452 - Campinas.txt
+'2453': 2453 - Assis.txt
+'2454': 2454 - Fiji.txt
+'2455': 2455 - Iguape.txt
+'2456': 2456 - Araraquara.txt
+'2457': 2457 - Curitiba.txt
+'2458': 2458 - Garapuava.txt
+'2459': 2459 - Lajes.txt
+'246': 246 - Burlington.txt
+'2460': 2460 - Castro.txt
+'2461': 2461 - Desterro.txt
+'2462': 2462 - Sao Miguel.txt
+'2463': 2463 - Porto Alegre.txt
+'2464': 2464 - Pelotas.txt
+'2465': 2465 - Passo Fundo.txt
+'2466': 2466 - Santa Maria.txt
+'2467': 2467 - Alegrete.txt
+'2468': 2468 - Sydney.txt
+'2469': 2469 - Newcastle.txt
+'247': 247 - Concord.txt
+'2470': 2470 - Port Macquarie.txt
+'2471': 2471 - Ophir.txt
+'2472': 2472 - Eden.txt
+'2473': 2473 - Wagga Wagga.txt
+'2474': 2474 - Moree.txt
+'2475': 2475 - Broken Hill.txt
+'2476': 2476 - Melbourne.txt
+'2477': 2477 - Warmambool.txt
+'2478': 2478 - Ballarat.txt
+'2479': 2479 - Sale.txt
+'248': 248 - Lewiston.txt
+'2480': 2480 - Beechworth.txt
+'2481': 2481 - Swan Hill.txt
+'2482': 2482 - Tasmania.txt
+'2483': 2483 - Brisbane.txt
+'2484': 2484 - Gladstone.txt
+'2485': 2485 - Clermont.txt
+'2486': 2486 - Toowoomba.txt
+'2487': 2487 - Townsville.txt
+'2488': 2488 - Cooktown.txt
+'2489': 2489 - Longreach.txt
+'249': 249 - Bangor.txt
+'2490': 2490 - Charleville.txt
+'2491': 2491 - Adelaide.txt
+'2492': 2492 - Port Lincolon.txt
+'2493': 2493 - Robe.txt
+'2494': 2494 - Port Augusta.txt
+'2495': 2495 - Oodnadatta.txt
+'2496': 2496 - Tarcoola.txt
+'2497': 2497 - Perth.txt
+'2498': 2498 - Kojonup.txt
+'2499': 2499 - Geraldton.txt
+'25': 25 - Banff.txt
+'250': 250 - Caribou.txt
+'2500': 2500 - Kalgoorlie.txt
+'2501': 2501 - Broome.txt
+'2502': 2502 - Dampier.txt
+'2503': 2503 - Wiluna.txt
+'2504': 2504 - Esperance.txt
+'2505': 2505 - Palmerston.txt
+'2506': 2506 - Tennant Creek.txt
+'2507': 2507 - Alice Springs.txt
+'2508': 2508 - Norfolk Island.txt
+'2509': 2509 - Auckland.txt
+'251': 251 - Nuuk.txt
+'2510': 2510 - New Plymouth.txt
+'2511': 2511 - Napier.txt
+'2512': 2512 - Wellington.txt
+'2513': 2513 - Dunedin.txt
+'2514': 2514 - Hokitika.txt
+'2515': 2515 - Christchurch.txt
+'2516': 2516 - Nelson.txt
+'2517': 2517 - Guam.txt
+'2518': 2518 - Palau.txt
+'2519': 2519 - Yap.txt
+'252': 252 - Iceland.txt
+'2520': 2520 - Taveuni.txt
+'2521': 2521 - Saipan.txt
+'2522': 2522 - Marshall Islands.txt
+'2523': 2523 - Nauru.txt
+'2524': 2524 - Wake.txt
+'2525': 2525 - Marcus.txt
+'2526': 2526 - Palmyra.txt
+'2527': 2527 - Gilbert Islands.txt
+'2528': 2528 - Port Moresby.txt
+'2529': 2529 - Kerema.txt
+'253': 253 - Faroe Islands.txt
+'2530': 2530 - Lae.txt
+'2531': 2531 - Madang.txt
+'2532': 2532 - Forte Sao Joaquim.txt
+'2533': 2533 - Targu Mures.txt
+'2534': 2534 - Solomon Islands.txt
+'2535': 2535 - New Hebrides.txt
+'2536': 2536 - Santa Cruz Islands.txt
+'2537': 2537 - New Britain.txt
+'2538': 2538 - Novi Sad.txt
+'2539': 2539 - Bougainville.txt
+'254': 254 - Belfast.txt
+'2540': 2540 - Tonga.txt
+'2541': 2541 - Ellice Islands.txt
+'2542': 2542 - Wallis And Futuna.txt
+'2543': 2543 - Apia.txt
+'2544': 2544 - Pago Pago.txt
+'2545': 2545 - Rarotonga.txt
+'2546': 2546 - Tongareva.txt
+'2547': 2547 - Tokelau.txt
+'2548': 2548 - Niue.txt
+'2549': 2549 - Tarauaca.txt
+'255': 255 - Londonderry.txt
+'2550': 2550 - Forte do Principe.txt
+'2551': 2551 - Marquesas.txt
+'2552': 2552 - Pitcairn.txt
+'2553': 2553 - Tuamotus.txt
+'2554': 2554 - Posadas.txt
+'2555': 2555 - Augusta.txt
+'2556': 2556 - Asheville.txt
+'2557': 2557 - Esbjerg.txt
+'2558': 2558 - De Aar.txt
+'2559': 2559 - Suhaj.txt
+'256': 256 - Armagh.txt
+'2560': 2560 - Darmstadt.txt
+'2561': 2561 - Siegburg.txt
+'2562': 2562 - Tainan.txt
+'2563': 2563 - Safi.txt
+'2564': 2564 - Salima.txt
+'2565': 2565 - Cebu.txt
+'2566': 2566 - Agartala.txt
+'2567': 2567 - Gaeta.txt
+'2568': 2568 - Lugano.txt
+'2569': 2569 - Niksic.txt
+'257': 257 - Donegal.txt
+'2570': 2570 - Beauvais.txt
+'2571': 2571 - Tauranga.txt
+'2572': 2572 - Nan.txt
+'2573': 2573 - Mboul.txt
+'2574': 2574 - Mochudi.txt
+'2575': 2575 - Ipoh.txt
+'2576': 2576 - Natuna.txt
+'2577': 2577 - Pljevlja.txt
+'2578': 2578 - Tacna.txt
+'2579': 2579 - Truk.txt
+'258': 258 - Galway.txt
+'2580': 2580 - Stara Ladoga.txt
+'2581': 2581 - Mataka.txt
+'2582': 2582 - Kotor.txt
+'2583': 2583 - Cetinje.txt
+'2584': 2584 - Bielsko.txt
+'2585': 2585 - Matan as Sarah.txt
+'2586': 2586 - AlAhsa.txt
+'2587': 2587 - Kola.txt
+'2588': 2588 - Onega.txt
+'2589': 2589 - Shoyna.txt
+'259': 259 - Sligo.txt
+'2590': 2590 - Ugolnoye.txt
+'2591': 2591 - Sisimiut.txt
+'2592': 2592 - Ungava.txt
+'2593': 2593 - Fort George.txt
+'2594': 2594 - Pickle.txt
+'2595': 2595 - Nunavut.txt
+'2596': 2596 - FortResolution.txt
+'2597': 2597 - Fort Chipewyan.txt
+'2598': 2598 - Fort Liard.txt
+'2599': 2599 - Fairbanks.txt
+'26': 26 - Calgary.txt
+'260': 260 - Cork.txt
+'2600': 2600 - Altamira.txt
+'2601': 2601 - Sandy Desert.txt
+'2602': 2602 - Roebourne.txt
+'2603': 2603 - Tanami.txt
+'2604': 2604 - Normanton.txt
+'2605': 2605 - Gibsons Desert.txt
+'2606': 2606 - Zhambul.txt
+'2607': 2607 - Lopnur.txt
+'2608': 2608 - Khatgal.txt
+'2609': 2609 - Araouane.txt
+'261': 261 - Limerick.txt
+'2610': 2610 - Uralsk.txt
+'2611': 2611 - Turgay.txt
+'2612': 2612 - Aktash.txt
+'2613': 2613 - Nyda.txt
+'2614': 2614 - Mordiyakha.txt
+'2615': 2615 - Krasnoselkup.txt
+'2616': 2616 - Tilichiki.txt
+'2617': 2617 - Amgun.txt
+'2618': 2618 - Talaya.txt
+'2619': 2619 - Abiy.txt
+'262': 262 - Waterford.txt
+'2620': 2620 - Syasir.txt
+'2621': 2621 - Srednekolymsk.txt
+'2622': 2622 - Markovo.txt
+'2623': 2623 - Midway Island.txt
+'2624': 2624 - Loango.txt
+'2625': 2625 - Port Hope Simpson.txt
+'2626': 2626 - Port Harrison.txt
+'2627': 2627 - Fort Chimo.txt
+'2628': 2628 - Attawapiskat.txt
+'2629': 2629 - Beatton River.txt
+'263': 263 - Dublin.txt
+'2630': 2630 - Cordova.txt
+'2631': 2631 - Unalakeet.txt
+'2632': 2632 - Isortoq.txt
+'2633': 2633 - Ossora.txt
+'2634': 2634 - Rassvet.txt
+'2635': 2635 - Kariba.txt
+'2636': 2636 - Aasiaat.txt
+'2637': 2637 - Novo Mariinsk.txt
+'2638': 2638 - Omsukchan.txt
+'2639': 2639 - Susuman.txt
+'264': 264 - Kildare.txt
+'2640': 2640 - Ziryanka.txt
+'2641': 2641 - Ayan.txt
+'2642': 2642 - Ust Nera.txt
+'2643': 2643 - Honuu.txt
+'2644': 2644 - Olyekminsk.txt
+'2645': 2645 - Chilchi.txt
+'2646': 2646 - Ases Igan.txt
+'2647': 2647 - Yansk.txt
+'2648': 2648 - Yakutsk.txt
+'2649': 2649 - Zhigansk.txt
+'265': 265 - Wexford.txt
+'2650': 2650 - Nyurba.txt
+'2651': 2651 - Udanchniy.txt
+'2652': 2652 - Kular.txt
+'2653': 2653 - Saskylah.txt
+'2654': 2654 - Khatanga.txt
+'2655': 2655 - Tura.txt
+'2656': 2656 - Tayimba.txt
+'2657': 2657 - Svetlogorsk.txt
+'2658': 2658 - Gheta.txt
+'2659': 2659 - Napalkovo.txt
+'266': 266 - Aberdeen.txt
+'2660': 2660 - Bereyezovka.txt
+'2661': 2661 - Nizhnekolymsk.txt
+'2662': 2662 - Cherskiy.txt
+'2663': 2663 - Kamenskoye.txt
+'2664': 2664 - Oyotuni.txt
+'2665': 2665 - Chokurdakh.txt
+'2666': 2666 - Pevek.txt
+'2667': 2667 - Bulun.txt
+'2668': 2668 - Verkhoyansk.txt
+'2669': 2669 - Amga.txt
+'267': 267 - Inverness.txt
+'2670': 2670 - Tiksi.txt
+'2671': 2671 - Zhilinda.txt
+'2672': 2672 - Pokrovsk.txt
+'2673': 2673 - Olenyok.txt
+'2674': 2674 - Essey.txt
+'2675': 2675 - Yekonda.txt
+'2676': 2676 - Kirensk.txt
+'2677': 2677 - Dotkon.txt
+'2678': 2678 - Bulgan.txt
+'2679': 2679 - Khovd.txt
+'268': 268 - Dundee.txt
+'2680': 2680 - Dudinka.txt
+'2681': 2681 - Kikkiakki.txt
+'2682': 2682 - Aksarka.txt
+'2683': 2683 - Bakchar.txt
+'2684': 2684 - Yar Sale.txt
+'2685': 2685 - Muzhi.txt
+'2686': 2686 - Ishim.txt
+'2687': 2687 - Amderma.txt
+'2688': 2688 - Inta.txt
+'2689': 2689 - Mulda.txt
+'269': 269 - Edinburgh.txt
+'2690': 2690 - VerkhniyUfaley.txt
+'2691': 2691 - Vorgovo.txt
+'2692': 2692 - Kostino.txt
+'2693': 2693 - Uchami.txt
+'2694': 2694 - Vanavara.txt
+'2695': 2695 - Mukhtuya.txt
+'2696': 2696 - Aldan.txt
+'2697': 2697 - Magdagachi.txt
+'2698': 2698 - Slavgorod.txt
+'2699': 2699 - Izhma.txt
+'27': 27 - Denwood.txt
+'270': 270 - Stirling.txt
+'2700': 2700 - Usogorsk.txt
+'2701': 2701 - Surinda.txt
+'2702': 2702 - Aralsk.txt
+'271': 271 - Glasgow.txt
+'272': 272 - Dumfries.txt
+'273': 273 - Cardiff.txt
+'274': 274 - Cardigan.txt
+'275': 275 - Llandrindod.txt
+'276': 276 - Holyhead.txt
+'277': 277 - Liverpool.txt
+'278': 278 - Manchester.txt
+'279': 279 - Carlisle.txt
+'28': 28 - Fort MacLeod.txt
+'280': 280 - Newcastle On Tyne.txt
+'281': 281 - Hull.txt
+'282': 282 - Leeds.txt
+'283': 283 - Sheffield.txt
+'284': 284 - Birmingham.txt
+'285': 285 - Chester.txt
+'286': 286 - Shrewesbury.txt
+'287': 287 - Coventry.txt
+'288': 288 - Nottingham.txt
+'289': 289 - Leicester.txt
+'29': 29 - Medicine Hat.txt
+'290': 290 - Lincoln.txt
+'291': 291 - Cambridge.txt
+'292': 292 - Ipswich.txt
+'293': 293 - Chelmsford.txt
+'294': 294 - Oxford.txt
+'295': 295 - St Albans.txt
+'296': 296 - Bristol.txt
+'297': 297 - Salisbury.txt
+'298': 298 - Bath.txt
+'299': 299 - Plymouth.txt
+'3': 3 - Kenai.txt
+'30': 30 - Regina.txt
+'300': 300 - London.txt
+'301': 301 - Canterbury.txt
+'302': 302 - Brighton.txt
+'303': 303 - Southampton.txt
+'304': 304 - Isle of Man.txt
+'305': 305 - Trondheim.txt
+'306': 306 - Bodo.txt
+'307': 307 - Hammerfest.txt
+'308': 308 - Alesund.txt
+'309': 309 - Bergen.txt
+'31': 31 - Stanley.txt
+'310': 310 - Christiansand.txt
+'311': 311 - Skien.txt
+'312': 312 - Drammen.txt
+'313': 313 - Christiania.txt
+'314': 314 - Hamar.txt
+'315': 315 - Lillehammer.txt
+'316': 316 - Frederiksstad.txt
+'317': 317 - Gavle.txt
+'318': 318 - Sundsvall.txt
+'319': 319 - Ostersund.txt
+'32': 32 - Prince Albert.txt
+'320': 320 - Umea.txt
+'321': 321 - Lulea.txt
+'322': 322 - Stockholm.txt
+'323': 323 - Falun.txt
+'324': 324 - Uppsala.txt
+'3246': 3246  JanMayen.txt
+'3249': 3249 - Kiritimati.txt
+'325': 325 - Norrkoping.txt
+'326': 326 - Vasteras.txt
+'327': 327 - Orebro.txt
+'328': 328 - Karlstad.txt
+'329': 329 - Gothenburg.txt
+'33': 33 - Asquith.txt
+'330': 330 - Boras.txt
+'331': 331 - Gotland.txt
+'332': 332 - Kalmar.txt
+'333': 333 - Vaxjo.txt
+'334': 334 - Malmo.txt
+'335': 335 - Karlskrona.txt
+'336': 336 - Oulu.txt
+'337': 337 - Kajaani.txt
+'338': 338 - Tornio.txt
+'339': 339 - Viipuri.txt
+'34': 34 - Saskatoon.txt
+'340': 340 - Kotka.txt
+'341': 341 - Mikkeli.txt
+'342': 342 - Kuopio.txt
+'343': 343 - Helsinki.txt
+'344': 344 - Hameenlinna.txt
+'345': 345 - Turku.txt
+'346': 346 - Vaasa.txt
+'347': 347 - Tampere.txt
+'348': 348 - Aland Islands.txt
+'349': 349 - Reval.txt
+'35': 35 - Maple Creek.txt
+'350': 350 - Narva.txt
+'351': 351 - Parnu.txt
+'352': 352 - Dorpat.txt
+'353': 353 - Kuressaare.txt
+'354': 354 - Riga.txt
+'355': 355 - Valmeira.txt
+'356': 356 - Daugavpils.txt
+'357': 357 - Jelgava.txt
+'358': 358 - Ventspils.txt
+'359': 359 - Liepaja.txt
+'36': 36 - Winnipeg.txt
+'360': 360 - Vilnius.txt
+'361': 361 - Kaunas.txt
+'362': 362 - Marjampole.txt
+'363': 363 - Panevezys.txt
+'364': 364 - Siauliai.txt
+'365': 365 - Palanga.txt
+'366': 366 - Aarhus.txt
+'367': 367 - Aalborg.txt
+'368': 368 - Ribe.txt
+'369': 369 - Kiel.txt
+'37': 37 - Churchill.txt
+'370': 370 - Flensburg.txt
+'371': 371 - Abenra.txt
+'372': 372 - Copenhagen.txt
+'373': 373 - Odense.txt
+'374': 374 - Bornholm.txt
+'375': 375 - Amsterdam.txt
+'376': 376 - Rotterdam.txt
+'377': 377 - Utrecht.txt
+'378': 378 - Middelburg.txt
+'379': 379 - Eindhoven.txt
+'38': 38 - Indian Lakes.txt
+'380': 380 - Breda.txt
+'381': 381 - Maastricht.txt
+'382': 382 - Arnhem.txt
+'383': 383 - Groningen.txt
+'384': 384 - Zwolle.txt
+'385': 385 - Leeuwarden.txt
+'386': 386 - Assen.txt
+'387': 387 - Brussels.txt
+'388': 388 - Bruges.txt
+'389': 389 - Ghent.txt
+'39': 39 - Norway House.txt
+'390': 390 - Antwerp.txt
+'391': 391 - Hasselt.txt
+'392': 392 - Namur.txt
+'393': 393 - Tournai.txt
+'394': 394 - Charleroi.txt
+'395': 395 - Liege.txt
+'396': 396 - Spa.txt
+'397': 397 - Luxembourg.txt
+'398': 398 - Arlon.txt
+'399': 399 - Lille.txt
+'4': 4 - Dutch Harbor.txt
+'40': 40 - Dauphin.txt
+'400': 400 - Dunkirk.txt
+'401': 401 - Arras.txt
+'402': 402 - Amiens.txt
+'403': 403 - Laon.txt
+'404': 404 - Cambrai.txt
+'405': 405 - Charleville.txt
+'406': 406 - Troyes.txt
+'407': 407 - Chaumont.txt
+'408': 408 - Chalons.txt
+'409': 409 - Strasbourg.txt
+'41': 41 - Brandon.txt
+'410': 410 - Colmar.txt
+'411': 411 - Nancy.txt
+'412': 412 - Metz.txt
+'413': 413 - Verdun.txt
+'414': 414 - Epinal.txt
+'415': 415 - Rouen.txt
+'416': 416 - Evreux.txt
+'417': 417 - Alencon.txt
+'418': 418 - Caen.txt
+'419': 419 - Channel Islands.txt
+'42': 42 - Pembina.txt
+'420': 420 - Brest.txt
+'421': 421 - St Brieuc.txt
+'422': 422 - Vannes.txt
+'423': 423 - Nantes.txt
+'424': 424 - Rennes.txt
+'425': 425 - Paris.txt
+'426': 426 - Chartres.txt
+'427': 427 - Melun.txt
+'428': 428 - Dijon.txt
+'429': 429 - Auxerre.txt
+'43': 43 - Arviat.txt
+'430': 430 - Moulins.txt
+'431': 431 - Macon.txt
+'432': 432 - Besancon.txt
+'433': 433 - Lons.txt
+'434': 434 - Angers.txt
+'435': 435 - Laval.txt
+'436': 436 - Le Mans.txt
+'437': 437 - La Roche.txt
+'438': 438 - Orleans.txt
+'439': 439 - Bourges.txt
+'44': 44 - Echo Bay.txt
+'440': 440 - Blois.txt
+'441': 441 - Tours.txt
+'442': 442 - La Rochelle.txt
+'443': 443 - Poitiers.txt
+'444': 444 - Angouleme.txt
+'445': 445 - Limoges.txt
+'446': 446 - Chateauroux.txt
+'447': 447 - Tulle.txt
+'448': 448 - Clermont.txt
+'449': 449 - Aurillac.txt
+'45': 45 - Baffin Island.txt
+'450': 450 - Cahors.txt
+'451': 451 - Lyon.txt
+'452': 452 - St Etienne.txt
+'453': 453 - Valence.txt
+'454': 454 - Grenoble.txt
+'455': 455 - Toulouse.txt
+'456': 456 - Montauban.txt
+'457': 457 - Foix.txt
+'458': 458 - Bordeaux.txt
+'459': 459 - Mont de Marsan.txt
+'46': 46 - Toronto.txt
+'460': 460 - Pau.txt
+'461': 461 - Montpellier.txt
+'462': 462 - Rodez.txt
+'463': 463 - Carcassone.txt
+'464': 464 - Perpignan.txt
+'465': 465 - Annency.txt
+'466': 466 - Chambery.txt
+'467': 467 - Marseilles.txt
+'468': 468 - Avignon.txt
+'469': 469 - Digne.txt
+'47': 47 - Fort Severn.txt
+'470': 470 - Toulon.txt
+'471': 471 - Frejus.txt
+'472': 472 - Nice.txt
+'473': 473 - Corsica.txt
+'474': 474 - La Coruna.txt
+'475': 475 - Oviedo.txt
+'476': 476 - Vigo.txt
+'477': 477 - Leon.txt
+'478': 478 - Santander.txt
+'479': 479 - Burgos.txt
+'48': 48 - Fort Albany.txt
+'480': 480 - Valladolid.txt
+'481': 481 - Soria.txt
+'482': 482 - Salamanca.txt
+'483': 483 - Avila.txt
+'484': 484 - Badajoz.txt
+'485': 485 - Almendralejo.txt
+'486': 486 - Caceres.txt
+'487': 487 - Madrid.txt
+'488': 488 - Siguenza.txt
+'489': 489 - Toledo.txt
+'49': 49 - Dryden.txt
+'490': 490 - Cuenca.txt
+'491': 491 - Ciudad Real.txt
+'492': 492 - Bilbao.txt
+'493': 493 - Pamplona.txt
+'494': 494 - Logrono.txt
+'495': 495 - Zaragoza.txt
+'496': 496 - Huesca.txt
+'497': 497 - Teruel.txt
+'498': 498 - Barcelona.txt
+'499': 499 - Gerona.txt
+'5': 5 - Bethel.txt
+'50': 50 - Thunder Bay.txt
+'500': 500 - Lerida.txt
+'501': 501 - Tarragona.txt
+'502': 502 - Balearic Islands.txt
+'503': 503 - Valencia.txt
+'504': 504 - Castellon.txt
+'505': 505 - Alicante.txt
+'506': 506 - Cartagena.txt
+'507': 507 - Murcia.txt
+'508': 508 - Albacete.txt
+'509': 509 - Seville.txt
+'51': 51 - Sault Ste Marie.txt
+'510': 510 - Cordoba.txt
+'511': 511 - Huelva.txt
+'512': 512 - Cadiz.txt
+'513': 513 - Granada.txt
+'514': 514 - Malaga.txt
+'515': 515 - Almeria.txt
+'516': 516 - Jaen.txt
+'517': 517 - Gibraltar.txt
+'518': 518 - Oporto.txt
+'519': 519 - Vila Real.txt
+'52': 52 - Sudbury.txt
+'520': 520 - Covilha.txt
+'521': 521 - Lisbon.txt
+'522': 522 - Coimbra.txt
+'523': 523 - Abrantes.txt
+'524': 524 - Setubal.txt
+'525': 525 - Evora.txt
+'526': 526 - Beja.txt
+'527': 527 - Faro.txt
+'528': 528 - Hamburg.txt
+'529': 529 - Lauenburg.txt
+'53': 53 - Barrie.txt
+'530': 530 - Lubeck.txt
+'531': 531 - Stade.txt
+'532': 532 - Luneburg.txt
+'533': 533 - Heligoland.txt
+'534': 534 - Hanover.txt
+'535': 535 - Nienburg.txt
+'536': 536 - Brunswick.txt
+'537': 537 - Gottingen.txt
+'538': 538 - Osnabruck.txt
+'539': 539 - Bremen.txt
+'54': 54 - Windsor.txt
+'540': 540 - Oldenburg.txt
+'541': 541 - Cloppenburg.txt
+'542': 542 - Lingen.txt
+'543': 543 - Emden.txt
+'544': 544 - Schwerin.txt
+'545': 545 - Neustrelitz.txt
+'546': 546 - Stettin.txt
+'547': 547 - Swinemunde.txt
+'548': 548 - Stralsund.txt
+'549': 549 - Berlin.txt
+'55': 55 - Hamilton.txt
+'550': 550 - Prenzlau.txt
+'551': 551 - Pritzwalk.txt
+'552': 552 - Cottbus.txt
+'553': 553 - Magdeburg.txt
+'554': 554 - Erfurt.txt
+'555': 555 - Dessau.txt
+'556': 556 - Halle.txt
+'557': 557 - Stendal.txt
+'558': 558 - Dresden.txt
+'559': 559 - Leipzig.txt
+'56': 56 - Kingston.txt
+'560': 560 - Chemnitz.txt
+'561': 561 - Weimar.txt
+'562': 562 - Gotha.txt
+'563': 563 - Meiningen.txt
+'564': 564 - Frankfurt.txt
+'565': 565 - Wiesbaden.txt
+'566': 566 - Kassel.txt
+'567': 567 - Giessen.txt
+'568': 568 - Fulda.txt
+'569': 569 - Mannheim.txt
+'57': 57 - Ottawa.txt
+'570': 570 - Mainz.txt
+'571': 571 - Kaiserlautern.txt
+'572': 572 - Trier.txt
+'573': 573 - Saarbrucken.txt
+'574': 574 - Kreuznach.txt
+'575': 575 - Cologne.txt
+'576': 576 - Aachen.txt
+'577': 577 - Kleves.txt
+'578': 578 - Dusseldorf.txt
+'579': 579 - Koblenz.txt
+'58': 58 - Montreal.txt
+'580': 580 - Dortmund.txt
+'581': 581 - Munster.txt
+'582': 582 - Minden.txt
+'583': 583 - Siegen.txt
+'584': 584 - Korbach.txt
+'585': 585 - Detmold.txt
+'586': 586 - Karlsruhe.txt
+'587': 587 - Freiburg.txt
+'588': 588 - Konstanz.txt
+'589': 589 - Stuttgart.txt
+'59': 59 - Nitchequon.txt
+'590': 590 - Heilbronn.txt
+'591': 591 - Tubingen.txt
+'592': 592 - Augsburg.txt
+'593': 593 - Ulm.txt
+'594': 594 - Sigmaringen.txt
+'595': 595 - Nuremburg.txt
+'596': 596 - Aschaffenburg.txt
+'597': 597 - Wurzburg.txt
+'598': 598 - Bayreuth.txt
+'599': 599 - Munich.txt
+'6': 6 - Whitehorse.txt
+'60': 60 - Fort Rupert.txt
+'600': 600 - Landshut.txt
+'601': 601 - Ingolstadt.txt
+'602': 602 - Regensburg.txt
+'603': 603 - Zurich.txt
+'604': 604 - Basel.txt
+'605': 605 - Bern.txt
+'606': 606 - Lucerne.txt
+'607': 607 - Geneva.txt
+'608': 608 - Neuchatel.txt
+'609': 609 - Sitten.txt
+'61': 61 - Chicoutimi.txt
+'610': 610 - Ponape.txt
+'611': 611 - Chur.txt
+'612': 612 - Innsbruck.txt
+'613': 613 - Salzburg.txt
+'614': 614 - Bregenz.txt
+'615': 615 - Lienz.txt
+'616': 616 - Graz.txt
+'617': 617 - Judenburg.txt
+'618': 618 - Klagenfurt.txt
+'619': 619 - Vienna.txt
+'62': 62 - Sept.txt
+'620': 620 - Sankt Polten.txt
+'621': 621 - Krems.txt
+'622': 622 - Linz.txt
+'623': 623 - Sopron.txt
+'624': 624 - Eisenstadt.txt
+'625': 625 - Prague.txt
+'626': 626 - Hradec Kralove.txt
+'627': 627 - Karlsbad.txt
+'628': 628 - Aussig.txt
+'629': 629 - Plzen.txt
+'63': 63 - Temiscaming.txt
+'630': 630 - Budejovice.txt
+'631': 631 - Brno.txt
+'632': 632 - Olomouc.txt
+'633': 633 - Bratislava.txt
+'634': 634 - Trencin.txt
+'635': 635 - Nitra.txt
+'636': 636 - Banska Bystrica.txt
+'637': 637 - Kosice.txt
+'638': 638 - Roznava.txt
+'639': 639 - Zalaegerszeg.txt
+'64': 64 - Trois Rivieres.txt
+'640': 640 - Pecs.txt
+'641': 641 - Budapest.txt
+'642': 642 - Gyor.txt
+'643': 643 - Szekesfehevar.txt
+'644': 644 - Kaposvar.txt
+'645': 645 - Kecskemet.txt
+'646': 646 - Miskolc.txt
+'647': 647 - Oradea.txt
+'648': 648 - Debrecen.txt
+'649': 649 - Szeged.txt
+'65': 65 - Quebec City.txt
+'650': 650 - Bekescsab.txt
+'651': 651 - Szatmar.txt
+'652': 652 - Temesvar.txt
+'653': 653 - Resita.txt
+'654': 654 - Cluj.txt
+'655': 655 - Gyulafehervar.txt
+'656': 656 - Deva.txt
+'657': 657 - Nagyszeben.txt
+'658': 658 - Hawaii.txt
+'659': 659 - Brasso.txt
+'66': 66 - Sherbrooke.txt
+'660': 660 - Udvarhely.txt
+'661': 661 - Beszterce.txt
+'662': 662 - Cernauti.txt
+'663': 663 - Suceava.txt
+'664': 664 - Bucharest.txt
+'665': 665 - Tirgu Jiu.txt
+'666': 666 - Craiova.txt
+'667': 667 - Tirgoviste.txt
+'668': 668 - Braila.txt
+'669': 669 - Calarasi.txt
+'67': 67 - Rimouski.txt
+'670': 670 - Iasi.txt
+'671': 671 - Botosani.txt
+'672': 672 - Bacau.txt
+'673': 673 - Galati.txt
+'674': 674 - Constanta.txt
+'675': 675 - Tulcea.txt
+'676': 676 - Chisinau.txt
+'677': 677 - Balti.txt
+'678': 678 - Izmail.txt
+'679': 679 - Kolberg.txt
+'68': 68 - Fredericton.txt
+'680': 680 - Koslin.txt
+'681': 681 - Kustrin.txt
+'682': 682 - Breslau.txt
+'683': 683 - Liegnitz.txt
+'684': 684 - Oppeln.txt
+'685': 685 - Kattowitz.txt
+'686': 686 - Line Islands.txt
+'687': 687 - Gorlitz.txt
+'688': 688 - Troppau.txt
+'689': 689 - Tesin.txt
+'69': 69 - Bathurst.txt
+'690': 690 - Danzig.txt
+'691': 691 - Tuchel.txt
+'692': 692 - Deutsch Krone.txt
+'693': 693 - Elbing.txt
+'694': 694 - Torun.txt
+'695': 695 - Konigsberg.txt
+'696': 696 - Allenstein.txt
+'697': 697 - Gumbinnen.txt
+'698': 698 - Memel.txt
+'699': 699 - Posen.txt
+'7': 7 - Dawson.txt
+'70': 70 - Prince Edward Island.txt
+'700': 700 - Bromberg.txt
+'701': 701 - Gniezno.txt
+'702': 702 - Lvov.txt
+'703': 703 - Krakow.txt
+'704': 704 - Novy Sacz.txt
+'705': 705 - Przemysl.txt
+'706': 706 - Warsaw.txt
+'707': 707 - Suwalki.txt
+'708': 708 - Plock.txt
+'709': 709 - Lomza.txt
+'71': 71 - Halifax.txt
+'710': 710 - Skierniewicz.txt
+'711': 711 - Siedlice.txt
+'712': 712 - Lodz.txt
+'713': 713 - Radom.txt
+'714': 714 - Tarnow.txt
+'715': 715 - Lublin.txt
+'716': 716 - Kielce.txt
+'717': 717 - Kalisz.txt
+'718': 718 - Minsk.txt
+'719': 719 - Bialystock.txt
+'72': 72 - Truro.txt
+'720': 720 - Turin.txt
+'721': 721 - Aosta.txt
+'722': 722 - Novara.txt
+'723': 723 - Alessandria.txt
+'724': 724 - Genoa.txt
+'725': 725 - Savona.txt
+'726': 726 - Milan.txt
+'727': 727 - Bergamo.txt
+'728': 728 - Brescia.txt
+'729': 729 - Venice.txt
+'73': 73 - Cape Breton Island.txt
+'730': 730 - Verona.txt
+'731': 731 - Padua.txt
+'732': 732 - Treviso.txt
+'733': 733 - Udine.txt
+'734': 734 - Trent.txt
+'735': 735 - Bozen.txt
+'736': 736 - Trieste.txt
+'737': 737 - Gorizia.txt
+'738': 738 - Parma.txt
+'739': 739 - Modena.txt
+'74': 74 - Saint Johns.txt
+'740': 740 - Massa.txt
+'741': 741 - Bologna.txt
+'742': 742 - Ferrara.txt
+'743': 743 - Ravenna.txt
+'744': 744 - Florence.txt
+'745': 745 - Leghorn.txt
+'746': 746 - Lucca.txt
+'747': 747 - Siena.txt
+'748': 748 - Grosetto.txt
+'749': 749 - Rome.txt
+'75': 75 - Millertown.txt
+'750': 750 - Viterbo.txt
+'751': 751 - Perugia.txt
+'752': 752 - Ancona.txt
+'753': 753 - Aquila.txt
+'754': 754 - Naples.txt
+'755': 755 - Salerno.txt
+'756': 756 - Bari.txt
+'757': 757 - Foggia.txt
+'758': 758 - Brindisi.txt
+'759': 759 - Reggio di Calabria.txt
+'76': 76 - Hopedale.txt
+'760': 760 - Catanzaro.txt
+'761': 761 - Potenza.txt
+'762': 762 - Palermo.txt
+'763': 763 - Messina.txt
+'764': 764 - Catania.txt
+'765': 765 - Cagliari.txt
+'766': 766 - Sassari.txt
+'767': 767 - Maribor.txt
+'768': 768 - Ljubljana.txt
+'769': 769 - Postojna.txt
+'77': 77 - St Pierre & Miquelon.txt
+'770': 770 - Pola.txt
+'771': 771 - Zagreb.txt
+'772': 772 - Sisak.txt
+'773': 773 - Karlovac.txt
+'774': 774 - Senj.txt
+'775': 775 - Varadzin.txt
+'776': 776 - Bjelovar.txt
+'777': 777 - Pozega.txt
+'778': 778 - Fiume.txt
+'779': 779 - Osijek.txt
+'78': 78 - Seattle.txt
+'780': 780 - Split.txt
+'781': 781 - Zadar.txt
+'782': 782 - Dubrovnik.txt
+'783': 783 - Sarajevo.txt
+'784': 784 - Bihac.txt
+'785': 785 - Banja Luka.txt
+'786': 786 - Tuzla.txt
+'787': 787 - Foca.txt
+'788': 788 - Mostar.txt
+'789': 789 - Livno.txt
+'79': 79 - Spokane.txt
+'790': 790 - Kitwe.txt
+'791': 791 - Mitrovica.txt
+'792': 792 - Pancevo.txt
+'793': 793 - Vukovar.txt
+'794': 794 - Belgrade.txt
+'795': 795 - Bor.txt
+'796': 796 - Kragujevac.txt
+'797': 797 - Uzice.txt
+'798': 798 - Nis.txt
+'799': 799 - Leskovac.txt
+'8': 8 - Ross River.txt
+'80': 80 - Walla Walla.txt
+'800': 800 - Ulcinj.txt
+'801': 801 - Tahiti.txt
+'802': 802 - Pristina.txt
+'803': 803 - Prizren.txt
+'804': 804 - Novi Pazar.txt
+'805': 805 - Salonika.txt
+'806': 806 - Skopje.txt
+'807': 807 - Bitola.txt
+'808': 808 - Petrich.txt
+'809': 809 - Sofia.txt
+'81': 81 - Portland.txt
+'810': 810 - Vidin.txt
+'811': 811 - Ruse.txt
+'812': 812 - Pleven.txt
+'813': 813 - Shumen.txt
+'814': 814 - Varna.txt
+'815': 815 - Plovdiv.txt
+'816': 816 - Stara Zagora.txt
+'817': 817 - Burgas.txt
+'818': 818 - Silistre.txt
+'819': 819 - Florina.txt
+'82': 82 - Baker City.txt
+'820': 820 - Grevena.txt
+'821': 821 - Edessa.txt
+'822': 822 - Polygyros.txt
+'823': 823 - Kavala.txt
+'824': 824 - Janina.txt
+'825': 825 - Arta.txt
+'826': 826 - Corfu.txt
+'827': 827 - Zante.txt
+'828': 828 - Edirne.txt
+'829': 829 - Xanthe.txt
+'83': 83 - Klamath Falls.txt
+'830': 830 - Dedeagatch.txt
+'831': 831 - Larisa.txt
+'832': 832 - Volos.txt
+'833': 833 - Trikkala.txt
+'834': 834 - Athens.txt
+'835': 835 - Amfissa.txt
+'836': 836 - Lamia.txt
+'837': 837 - Missolonghi.txt
+'838': 838 - Khalkis.txt
+'839': 839 - Nafplion.txt
+'84': 84 - San Francisco.txt
+'840': 840 - Corinth.txt
+'841': 841 - Kalamata.txt
+'842': 842 - Patras.txt
+'843': 843 - Chios.txt
+'844': 844 - Myteline.txt
+'845': 845 - Cyclades.txt
+'846': 846 - Dodecanese.txt
+'847': 847 - Chania.txt
+'848': 848 - Iraklion.txt
+'849': 849 - Tirana.txt
+'85': 85 - Eureka.txt
+'850': 850 - Shkoder.txt
+'851': 851 - Durres.txt
+'852': 852 - Vlore.txt
+'853': 853 - Gjirokaster.txt
+'854': 854 - Malta.txt
+'855': 855 - Nicosia.txt
+'856': 856 - Limassol.txt
+'857': 857 - Famagusta.txt
+'858': 858 - Kirklareli.txt
+'859': 859 - Gallipoli.txt
+'86': 86 - Sacramento.txt
+'860': 860 - Istanbul.txt
+'861': 861 - Uskudar.txt
+'862': 862 - Izmit.txt
+'863': 863 - Bursa.txt
+'864': 864 - Balikesir.txt
+'865': 865 - Canakkale.txt
+'866': 866 - Afyon.txt
+'867': 867 - Kutahya.txt
+'868': 868 - Eskishehir.txt
+'869': 869 - Izmir.txt
+'87': 87 - Monterey.txt
+'870': 870 - Manisa.txt
+'871': 871 - Denizli.txt
+'872': 872 - Mugla.txt
+'873': 873 - Konya.txt
+'874': 874 - Burdur.txt
+'875': 875 - Antalya.txt
+'876': 876 - Ankara.txt
+'877': 877 - Amasya.txt
+'878': 878 - Kayseri.txt
+'879': 879 - Sivas.txt
+'88': 88 - Mariposa.txt
+'880': 880 - Kastamonu.txt
+'881': 881 - Bolu.txt
+'882': 882 - Trabzon.txt
+'883': 883 - Sinop.txt
+'884': 884 - Giresun.txt
+'885': 885 - Kars.txt
+'886': 886 - Ardahan.txt
+'887': 887 - Erzurum.txt
+'888': 888 - Erzincan.txt
+'889': 889 - Malatya.txt
+'89': 89 - Los Angeles.txt
+'890': 890 - Van.txt
+'891': 891 - Bitlis.txt
+'892': 892 - Hakkari.txt
+'893': 893 - Diyarbakir.txt
+'894': 894 - Adana.txt
+'895': 895 - Mersin.txt
+'896': 896 - Marash.txt
+'897': 897 - Aleppo.txt
+'898': 898 - Antep.txt
+'899': 899 - Urfa.txt
+'9': 9 - Fort Simpson.txt
+'90': 90 - San Diego.txt
+'900': 900 - Antioch.txt
+'901': 901 - Dayr al.txt
+'902': 902 - Damascus.txt
+'903': 903 - Homs.txt
+'904': 904 - Hama.txt
+'905': 905 - Latakia.txt
+'906': 906 - Suwayda.txt
+'907': 907 - Palmyra.txt
+'908': 908 - Amman.txt
+'909': 909 - Jerash.txt
+'91': 91 - Boise.txt
+'910': 910 - Ruwayshid.txt
+'911': 911 - Maan.txt
+'912': 912 - Baalbeck.txt
+'913': 913 - Beirut.txt
+'914': 914 - Askaleh.txt
+'915': 915 - Sidon.txt
+'916': 916 - Acre.txt
+'917': 917 - Jerusalem.txt
+'918': 918 - Nablus.txt
+'919': 919 - Jaffa.txt
+'92': 92 - Coeur D'Alene.txt
+'920': 920 - Gaza.txt
+'921': 921 - Beersheba.txt
+'922': 922 - Aqaba.txt
+'923': 923 - Mosul.txt
+'924': 924 - Arbil.txt
+'925': 925 - Kirkuk.txt
+'926': 926 - Baghdad.txt
+'927': 927 - Samarra.txt
+'928': 928 - Mendeli.txt
+'929': 929 - Karbala.txt
+'93': 93 - Pocatello.txt
+'930': 930 - Kut.txt
+'931': 931 - Rutbah.txt
+'932': 932 - Basra.txt
+'933': 933 - Nasiriyya.txt
+'934': 934 - Najaf.txt
+'935': 935 - Kuwait.txt
+'936': 936 - Grodno.txt
+'937': 937 - Brest.txt
+'938': 938 - Lida.txt
+'939': 939 - Baranovichi.txt
+'94': 94 - Carson City.txt
+'940': 940 - Pinsk.txt
+'941': 941 - Slutsk.txt
+'942': 942 - Mozyr.txt
+'943': 943 - Smolensk.txt
+'944': 944 - Orsha.txt
+'945': 945 - Vitebsk.txt
+'946': 946 - Polotsk.txt
+'947': 947 - Pastavy.txt
+'948': 948 - Mogilev.txt
+'949': 949 - Gomel.txt
+'95': 95 - Elko.txt
+'950': 950 - Uzgorord.txt
+'951': 951 - Stryi.txt
+'952': 952 - Ternopil.txt
+'953': 953 - Stanislavov.txt
+'954': 954 - Vinnitsa.txt
+'955': 955 - Proskorov.txt
+'956': 956 - Rovne.txt
+'957': 957 - Kovel.txt
+'958': 958 - Kiev.txt
+'959': 959 - Korosten.txt
+'96': 96 - Las Vegas.txt
+'960': 960 - Zhitomir.txt
+'961': 961 - Cherkassy.txt
+'962': 962 - Chernigov.txt
+'963': 963 - Poltava.txt
+'964': 964 - Simferopol.txt
+'965': 965 - Cherson.txt
+'966': 966 - Kerch.txt
+'967': 967 - Sevastopol.txt
+'968': 968 - Odessa.txt
+'969': 969 - Pervomaisk.txt
+'97': 97 - Salt Lake City.txt
+'970': 970 - Nikolaev.txt
+'971': 971 - Krivoy Rog.txt
+'972': 972 - Ekaterinoslav.txt
+'973': 973 - Melitopol.txt
+'974': 974 - Kramatorsk.txt
+'975': 975 - Yuzovka.txt
+'976': 976 - Mariopol.txt
+'977': 977 - Kursk.txt
+'978': 978 - Kharkov.txt
+'979': 979 - Rostov.txt
+'98': 98 - Loa.txt
+'980': 980 - Luhansk.txt
+'981': 981 - Archangel.txt
+'982': 982 - Petsamo.txt
+'983': 983 - Kandalaksha.txt
+'984': 984 - Kostomushka.txt
+'985': 985 - Mezen.txt
+'986': 986 - Naryn Mar.txt
+'987': 987 - Ust Sysolsk.txt
+'988': 988 - Povyents.txt
+'989': 989 - Vologda.txt
+'99': 99 - Moab.txt
+'990': 990 - Kotlas.txt
+'991': 991 - Uglich.txt
+'992': 992 - Belozersk.txt
+'993': 993 - Vyterga.txt
+'994': 994 - St Petersburg.txt
+'995': 995 - Petrozavorsk.txt
+'996': 996 - Luga.txt
+'997': 997 - Gdov.txt
+'998': 998 - Tver.txt
+'999': 999 - Rzhev.txt

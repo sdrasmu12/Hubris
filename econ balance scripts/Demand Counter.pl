@@ -5,6 +5,10 @@ use List::Util;
 use YAML::XS qw(Load Dump);
 use File::Slurp qw(read_file write_file);
  
+ my @civilizedtags = qw(POR SPA FRA BEL AUS ENG POL RUS TUR SWI PRU DEN SWE NOR NET
+ SIC SAR PAP TUS CRS VEN BAV BAD WUR SGM HEK HES RHI WES LIP COB MEI WEI HAN BRA LUB HAM
+ SWH SCH MEC ANH LIT AZB QUE USA MEX PEU CLM MOD);
+ 
  # Read Files In
  my %prices;
 {
@@ -57,44 +61,93 @@ foreach my $poptype (@poptypes){
 
 #print Dumper(\%needcost);
 
+
+# Reminder About poparray values
+# Pop[0] = province ID
+#Pop[1] = poptype
+#pop[2] = culture
+#pop{3} = religion
+#pop[4] = size
+#pop[5] = owner
+#pop[6] = trade_good
+#pop[7] = life_rating
+
+# Assumed Values;
+my $aristocratadjustment = 1.012;
+my $militaryspending = 0.5;
+my $soldierpay = 0.001;
+my $officerpay = 0.005;
+my $aftertax = 0.9;
+my $adminpay = 0.005;
+my $adminspending = 0.5;
+my $edupay = 0.002;
+my $eduspending = 0.5;
+my %totaldemand;
+
 # Go through each pop to generate initial demand
 foreach my $pop (@poparray){
 	#ignore if unowned province
-	unless (@$pop[1] eq 'ZZZ'){
+	unless ((@$pop[5] eq 'ZZZ') or (@$pop[1] =~ /^(capitalists|craftsmen|clerks|slaves|artisans)$/)){
 		my $type = @$pop[1];
 		my $good = @$pop[6];
-		my $outrate = $RGOUT{$good};
-		unless(defined $good){say "$good @$pop[0]"};
-		unless(defined $good){$good = 'undef'};
-		unless(defined $outrate){$outrate = 1};
-		# determine income
-		my $size = @$pop[4] / 40000;
-		my $output = $outrate * $size * 1.012 * 0.8;
-		my $tincome = $output * $prices{$good};
-		my $perincome = $tincome / $size;
-		# determine percent need level
-		my $lneedmet = $perincome / ($needcost{$type}{life} * 0.000005) ;
-		if ($lneedmet gt 1){$lneedmet = 1};
-		my $evercome = $perincome - ($lneedmet * $needcost{$type}{life} * 0.000005);
-		my $eneedmet = $evercome / ($needcost{$type}{everyday} * 0.000005);
-		if ($eneedmet lt 0){$eneedmet = 0};
-		if ($eneedmet gt 1){$eneedmet = 1};
-		my $luxcome = $evercome -  ($eneedmet * $needcost{$type}{everyday} * 0.000005);
-		my $luxneedmet = $luxcome / ($needcost{$type}{luxury} * 0.000005);
-		if ($luxneedmet lt 0){$luxneedmet = 0};
-		if ($luxneedmet gt 1){$luxneedmet = 1};
-		#put values into the needmet array
-		my %needmet;
-		$needmet{life} = $lneedmet;
-		$needmet{everyday} = $eneedmet;
-		$needmet{luxury} = $luxneedmet;
-		print Dumper(\%needmet);
-		#for each my $levels (keys %needmet){
-		#	my $percent = $needmet{$level};
-			
-		#}
+		my $divisor; 
+		my $lifemet;
+		my $edaymet;
+		my $luxmet;
+		my $income;
+		# Assign divisor for civilied and uncivilized
+		if (grep {$_ eq @$pop[5]} @civilizedtags){
+			$divisor = 200000;} else {$divisor = 250000};
+		# Set Income	
+		if ($type =~ /^(farmers|labourers|serfs)$/){
+			$income = $RGOUT{$good} * $prices{$good} * (@$pop[4] / 40000) * $aristocratadjustment * $aftertax;
+		};
+		if ($type eq 'aristocrats'){
+			$income = 10 * $RGOUT{$good} * $prices{$good} * (@$pop[4] / 40000) * $aristocratadjustment * $aftertax;
+		};
+		if ($type eq 'soldiers'){
+			$income = @$pop[4] * $militaryspending * $soldierpay * $aftertax;
+		}
+		if ($type eq 'officers'){
+			$income = @$pop[4] * $militaryspending * $officerpay * $aftertax;
+		}
+		if ($type eq 'bureaucrats'){
+			$income = @$pop[4] * $adminspending * $adminpay * $aftertax;
+		}
+		if ($type eq 'clergymen'){
+			$income = @$pop[4] * $eduspending * $edupay * $aftertax;
+		}
+		# Set all the needs costs
+		my $lifecosts = $needcost{$type}{life} * (@$pop[4] / $divisor);
+		my $edaycosts = $needcost{$type}{everyday} * (@$pop[4] / $divisor);
+		my $luxcosts = $needcost{$type}{luxury} * (@$pop[4] / $divisor);
+		# Determine percent met
+		$lifemet = $income / $lifecosts;
+		$edaymet = ($income - $lifecosts) / $edaycosts;
+		$luxmet = ($income - ($lifecosts + $edaycosts))/  $luxcosts;
+		
+		#Round
+		if ($lifemet gt 1){$lifemet = 1};
+		if ($edaymet gt 1){$edaymet = 1};
+		if ($luxmet gt 1){$luxmet = 1};
+		if ($edaymet lt 0){$edaymet = 0};
+		if ($luxmet lt 0){$luxmet = 0};
+		
+		foreach my $needtype (@needtypes){
+			my $prcmet;
+			if ($needtype eq 'life'){$prcmet = $lifemet};
+			if ($needtype eq 'every day'){$prcmet = $edaymet};
+			if ($needtype eq 'luxury'){$prcmet = $luxmet};
+			foreach my $key (keys $needs{$type}{$needtype}){
+				my $demand = $needs{$type}{$needtype}{$key} * $prcmet * (@$pop[4] / $divisor);
+				$totaldemand{$key} += $demand;
+			}
+		} 
+		
 	};
 };
+
+print Dumper(\%totaldemand);
 
 
 
